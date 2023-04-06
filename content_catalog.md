@@ -490,9 +490,11 @@
 |CCC-YLRA01-01     |II            |4h            |Her Dying Wish                                   |
 |CCC-YLRA01-02     |II            |4h            |Uneasy Lies the Head                             |
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
+|CCC-KUMORI-01-2   |I             |2h            |Wretches                                         |
+| Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
-|DDIA-VRGTR        |I             |8 h           |House of Lament                                  |
+|DDIA-VRGTR        |I             |8h            |House of Lament                                  |
 
 
 
@@ -2772,7 +2774,7 @@ favor in exchange for answers about what’s happening in the cold and frozen No
 An introductory adventure comprising four 1-hour episodes.
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
 
 
 
@@ -2789,7 +2791,7 @@ A Four-Hour Adventure for 1st- and 2nd-Level Characters
 Optimized for APL 1.
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
 
 ### Gnashing Teeth
 
@@ -2804,7 +2806,7 @@ A Four-Hour Adventure for 1st- through 4th-Level Characters
 Optimized for APL 3.
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
 
 
 
@@ -2820,7 +2822,7 @@ A Four-Hour Adventure for 1st- through 4th-Level Characters
 Optimized for APL 3.
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
 
 ### Cold Benevolence
 
@@ -2836,7 +2838,7 @@ A Four-Hour Adventure for 1st- through 4th-Level Characters
 Optimized for APL 3.
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
 
 
 
@@ -2852,7 +2854,7 @@ Part Five of the Plague of Ancients Series of Adventures.
 A Four-Hour Adventure for 5th through 10th-Level Characters
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
 
 ### The Fallen Star
 
@@ -2868,7 +2870,7 @@ A Four-Hour Adventure for 5th through 10th-Level Characters
 Optimized for APL 7.
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
 
 
 
@@ -2886,7 +2888,7 @@ A Four-Hour Adventure for 5th through 10th-Level Characters
 Optimized for APL 8.
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
 
 ### Volatile Thoughts
 
@@ -2903,7 +2905,7 @@ A Four Hour Adventure for 5th through 10th-Level Characters
 Optimized for APL 9.
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
 
 
 
@@ -2921,11 +2923,11 @@ A Four-Hour Adventure for 5th through 10th-Level Characters
 Optimized for APL 9.
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
 
 ### Burying the Past
 
-https://www.dmsguild.com/product/367185/DDAL1009-Recipe-for-Retribution?filters=100023
+https://www.dmsguild.com/product/370743/DDAL1010-Burying-the-Past
 
 Informacje o przygodzie
 The bombs are constructed, the plans laid. The only thing remaining is the easy part:
@@ -2936,7 +2938,8 @@ A Four-Hour Adventure for 10th through 13th-Level Characters
 Optimized for APL 11
 
 Komentarz
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Za przygodę można przyznać maksymalnie 4 ACP (nawet jeśli tekst przygody może sugerować, że postacie otrzymują poziom w jej trakcie)
+
 
 
 
@@ -2945,8 +2948,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 https://www.dmsguild.com/product/273777/DDALDRW01-Breaking-Umberlees-Resolve?filters=0_45796_0_0_0_0_0_0
 
 Informacje o przygodzie
-The search for a missing young woman kicks off a treacherous journey on the Sea of Fallen Stars. A
-Four to Six-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
+The search for a missing young woman kicks off a treacherous journey on the Sea of Fallen Stars. A Four to Six-Hour Adventure for Tier 2 Characters. Optimized for APL 8.
 
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
@@ -7503,6 +7505,19 @@ dokładnego przeczytania i położenia nacisku na jasną ekspozycję sytuacji dl
 Gifts dostępne są tylko w trakcie grania przygody i przestają funkcjonować po opuszczeniu
 Domeny.
 
+### Wretches
+
+https://www.dmsguild.com/product/226911/CCCKUMORI0102-Wretches
+
+Informacje o przygodzie
+Accused of impersonation and kidnapping, a pair of old sisters have found refuge in Abermoor. In their wake, they have left a trail of blood, and are pursued by a bounty hunter. Hired for their expertise, the adventurers have joined the pursuit.
+
+A Two-Hour Adventure for 1st-4th Level Characters
+
+Komentarz
+Brak uwag związanych z prowadzeniem przygody w OPK.
+
+
 ## Proces dodawania nowych przygód do katalogu OPK
 
 ### Definicja
@@ -7549,3 +7564,54 @@ GCC-JOYCE-01 Weekend at Strahd’s
 | IV              | 1 Legendary | 1 Legendary, max 1 Rare     |
 
 W przypadku przygód 8h+, nagroda powinna odpowiadać tej w kolumnie "4h" za każde pełne 4h przewidzianego czasu gry.
+
+## Zasady podmian magicznych przedmiotów
+
+Jeżeli nagrodą w przygodzie CCC lub DC jest przedmiot o rzadkości niżej niż zakładana przez Tier, w gestii DMa jest możliwość zmiany nagrody na inną, pochodzącą z dozwolonego u nas podręcznika nie-Hardcover, zgodną z Tierem i tematycznie spójną. Przedmiot nie może znajdować się na liście przedmiotów zbanowanych (poniżej). Na przykład w przygodzie T2 zamiast Uncommon Longsword można dać Rare Longsword, zgodnie z naszymi wytycznymi co do przygód pisanych dla OPK. Nie jest możliwa wymiana nagród w ramach tego samego rarity (Rare -> inny Rare), czy wymiana na całkowiecie inny item (przygoda T3, Rare Longsword -> Tome/Manual).
+
+Nie ma możliwości dodania przedmiotów ponad ilość opisaną w przygodzie, ani dodawania żadnych cech jak Minor Properties, jeśli przedmiot oryginalnie ich nie posiadał.
+
+### Przedmioty, które nie zostały dopuszczone do rozgrywek (jeśli pojawią się w przygodzie należy je zastąpić)
+
+- All-Purpose Tool
+- Amulet of the Devout
+- Arcane Grimoire
+- Baba Yaga’s Mortar and Pestle
+- Bloodwell Vial
+- Crook of Rao
+- Demonomicon of Iggwilv
+- Luba’s Tarokka of Souls
+- Mighty Servant of Leuk-o
+- Moon Sickle
+- Reveler’s Concertina
+- Rhythm-Maker’s Drum
+- Teeth of Dahlver-Nar
+- Blackrazor
+- Bookmark
+- Ring of Winter
+- Wand of Orcus
+- Wave
+- Whelm
+- Wyrmskull Throne
+- Dawnbringer
+- Deck of Many Things
+- Drown
+- Giant-Sized Staff of the Magi
+- Hazirawn
+- Holy Symbol of Ravenkind
+- Icon of Ravenloft
+- Iron flask
+- Ironfang
+- Korolnor Scepter
+- Lost Crown of Belsimer
+- Mask of the Dragon Queen (complete or individual dragon masks)
+- Mithral Splintmail +1
+- Philter of Love
+- Shield Guardian (and amulet)
+- Spell gems (all levels)
+- Slaad control gem (any)
+- Staff of the Forgotten One
+- Sunsword
+- Tinderstrike
+- Waythe
+- Windvane
