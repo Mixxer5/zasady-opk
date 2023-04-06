@@ -7549,3 +7549,54 @@ GCC-JOYCE-01 Weekend at Strahd’s
 | IV              | 1 Legendary | 1 Legendary, max 1 Rare     |
 
 W przypadku przygód 8h+, nagroda powinna odpowiadać tej w kolumnie "4h" za każde pełne 4h przewidzianego czasu gry.
+
+## Zasady podmian magicznych przedmiotów
+
+Jeżeli nagrodą w przygodzie CCC lub DC jest przedmiot o rzadkości niżej niż zakładana przez Tier, w gestii DMa jest możliwość zmiany nagrody na inną, pochodzącą z dozwolonego u nas podręcznika nie-Hardcover, zgodną z Tierem i tematycznie spójną. Przedmiot nie może znajdować się na liście przedmiotów zbanowanych (poniżej). Na przykład w przygodzie T2 zamiast Uncommon Longsword można dać Rare Longsword, zgodnie z naszymi wytycznymi co do przygód pisanych dla OPK. Nie jest możliwa wymiana nagród w ramach tego samego rarity (Rare -> inny Rare), czy wymiana na całkowiecie inny item (przygoda T3, Rare Longsword -> Tome/Manual).
+
+Nie ma możliwości dodania przedmiotów ponad ilość opisaną w przygodzie, ani dodawania żadnych cech jak Minor Properties, jeśli przedmiot oryginalnie ich nie posiadał.
+
+### Przedmioty, które nie zostały dopuszczone do rozgrywek (jeśli pojawią się w przygodzie należy je zastąpić)
+
+- All-Purpose Tool
+- Amulet of the Devout
+- Arcane Grimoire
+- Baba Yaga’s Mortar and Pestle
+- Bloodwell Vial
+- Crook of Rao
+- Demonomicon of Iggwilv
+- Luba’s Tarokka of Souls
+- Mighty Servant of Leuk-o
+- Moon Sickle
+- Reveler’s Concertina
+- Rhythm-Maker’s Drum
+- Teeth of Dahlver-Nar
+- Blackrazor
+- Bookmark
+- Ring of Winter
+- Wand of Orcus
+- Wave
+- Whelm
+- Wyrmskull Throne
+- Dawnbringer
+- Deck of Many Things
+- Drown
+- Giant-Sized Staff of the Magi
+- Hazirawn
+- Holy Symbol of Ravenkind
+- Icon of Ravenloft
+- Iron flask
+- Ironfang
+- Korolnor Scepter
+- Lost Crown of Belsimer
+- Mask of the Dragon Queen (complete or individual dragon masks)
+- Mithral Splintmail +1
+- Philter of Love
+- Shield Guardian (and amulet)
+- Spell gems (all levels)
+- Slaad control gem (any)
+- Staff of the Forgotten One
+- Sunsword
+- Tinderstrike
+- Waythe
+- Windvane
