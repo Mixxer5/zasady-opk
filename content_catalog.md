@@ -1907,7 +1907,7 @@ A Two-Hour Adventure for 5th-10th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Crypt of the Death Giants
+### Crypt of the Death Giants
 
 https://www.dmsguild.com/product/213029/DDAL0603-Crypt-of-the-Death-Giants-5e?affiliate_id=925821
 
@@ -1924,7 +1924,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-A city on the Edge
+### A City on the Edge
 
 https://www.dmsguild.com/product/214058/DDAL0701-A-City-on-the-Edge-5e?affiliate_id=925821
 
@@ -7534,7 +7534,7 @@ OCC – Other Created Content – rzeczy z innych źródeł
 DDIA – Przygody z oficjalnych podręczników nie będące natywnie w Adventurers League
 
 Typowy format kodów i oznaczeń:
-\<Prefiks\>-\<Identyfikator Serii\/Twórcy\>-\<Numer\> Przygody Nazwa Przygody
+\<Prefiks\>-\<Identyfikator Serii\/Twórcy\>-\<Numer Przygody\> \<Nazwa Przygody\>
 Przykładowo:
 KCC-WAWEL-01 Zemsta Złotówy
 GCC-JOYCE-01 Weekend at Strahd’s
