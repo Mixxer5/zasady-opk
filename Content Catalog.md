@@ -71,7 +71,7 @@
 |DDEX3-15          |II            |4h            |Szith Morcane Unbound                            |
 |DDEX3-16          |III           |8 h           |Assault on Maerimydra                            |
 | Sezon 4 - Curse of Strahd|
-|DDAL04-1          |I             |5 sesji x 1h  |Suits of the Mists                               |
+|DDAL04-1          |I             |5x1h          |Suits of the Mists                               |
 |DDAL04-2          |I             |2h            |The Beast                                        |
 |DDAL04-3          |I             |2h            |The Executioner                                  |
 |DDAL04-4          |I             |4h            |The Marionette                                   |
@@ -3799,9 +3799,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-HULB 2-2 Winter’s Frigid Wrath
-https://www.dmsguild.com/product/225184/CCCBMG20-HULB-22-Winters-Frigid-Wrath?
-affiliate_id=925821
+### HULB 2-2 Winter’s Frigid Wrath
+
+https://www.dmsguild.com/product/225184/CCCBMG20-HULB-22-Winters-Frigid-Wrath?affiliate_id=925821
+
 Informacje o przygodzie
 In the wake of Winter’s Frosty Kiss, vicious predators come down from Thar - hunters searching for
 prey. If Hulburg does not deliver, the citizens will become prey as well. Can you catch the intended
@@ -3811,9 +3812,10 @@ A four-hour adventure set near Hulburg for 5th - 10th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-HULB 2-3 Winter’s Sharp Bite
-https://www.dmsguild.com/product/225185/CCCBMG21-HULB-23-Winters-Sharp-Bite?
-affiliate_id=925821
+### HULB 2-3 Winter’s Sharp Bite
+
+https://www.dmsguild.com/product/225185/CCCBMG21-HULB-23-Winters-Sharp-Bite?affiliate_id=925821
+
 Informacje o przygodzie
 No hunter is more dangerous than a bored one. They have set their sights on you. Are you going
 down with a whimper or will you face the challenge head on, giving the hunter a taste of their own
@@ -3825,7 +3827,8 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-HULB 2-S Winter’s Feast
+### HULB 2-S Winter’s Feast
+
 Niedostępna na Dmsguild.
 Informacje o przygodzie
 Brak informacji.
@@ -3833,8 +3836,10 @@ Brak informacji.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-PHLAN 2-1 Demagogue
+### PHLAN 2-1 Demagogue
+
 https://www.dmsguild.com/product/230627/CCCBMG22-PHLAN-21-Demagogue?affiliate_id=925821
+
 Informacje o przygodzie
 With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of
 Darkness needs a new representative. Barrett Sokol, his hand squarely on the pulse of today’s Phlan,
@@ -3845,8 +3850,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-PHLAN 2-2 Hatemaster
+### PHLAN 2-2 Hatemaster
+
 https://www.dmsguild.com/product/230628/CCCBMG23-PHLAN-22-Hatemaster?affiliate_id=925821
+
 Informacje o przygodzie
 With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of
 Darkness needs a new representative. Colvin Doverson, his qualifications rooted in Phlan’s brutal
@@ -3855,8 +3862,10 @@ past, requires additional vetting and may need your assistance.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-PHLAN 2-3 The Royal We
+### PHLAN 2-3 The Royal We
+
 https://www.dmsguild.com/product/230629/CCCBMG24-PHLAN-23-The-Royal-We?affiliate_id=925821
+
 Informacje o przygodzie
 With the Banite coup recently foiled, election day in Phlan has finally arrived. But the Lord of
 Darkness needs a new representative. Jhessail Greycastle, with her grand plans for the future of
@@ -3867,7 +3876,8 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-PHLAN 2-S Damnation
+### PHLAN 2-S Damnation
+
 Niedostępna na DMsguild
 Informacje o przygodzie
 Brak informacji.
@@ -3875,9 +3885,10 @@ Brak informacji.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-CORE 3-1 The Spectral Incursion
-https://www.dmsguild.com/product/239572/CCCBMG25-CORE-31-The-Spectral-Incursion?
-affiliate_id=925821
+### CORE 3-1 The Spectral Incursion
+
+https://www.dmsguild.com/product/239572/CCCBMG25-CORE-31-The-Spectral-Incursion?affiliate_id=925821
+
 Informacje o przygodzie
 As Melvaunt rebuilds after the devastation wrought by the modron and orc attacks, the planar portal
 outside the city walls continues to worry everyone in the City of a Thousand Forges. A closer
@@ -3890,9 +3901,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-CORE 3-2 The The Gostly Infestation
-https://www.dmsguild.com/product/239577/CCCBMG26-CORE-32-The-Ghostly-Infestation?
-affiliate_id=
+### CORE 3-2 The The Gostly Infestation
+
+https://www.dmsguild.com/product/239577/CCCBMG26-CORE-32-The-Ghostly-Infestation
+
 Informacje o przygodzie
 Tensions are high within Melvaunt after the incident at the planar portal.
 Reports of strange behavior from several people, from the lowliest dockworker to the members of
@@ -3904,9 +3916,10 @@ by Baldman Games.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-CORE 3-3 The The Spirited Investigation
-https://www.dmsguild.com/product/239578/CCCBMG27-CORE-33-The-Spirited-Investigation?
-affiliate_id=925821
+### CORE 3-3 The The Spirited Investigation
+
+https://www.dmsguild.com/product/239578/CCCBMG27-CORE-33-The-Spirited-Investigation?affiliate_id=925821
+
 Informacje o przygodzie
 The culprit behind the incident at the planar portal has been identified.
 Adventurers must investigate the individual behind the foul play, determining the means and the
@@ -3918,8 +3931,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-HILL 2-1 The Red Gathering
+### HILL 2-1 The Red Gathering
+
 https://www.dmsguild.com/product/240059/CCCBMG28-Hill-21-The-Red-Gathering?affiliate_id=925821
+
 Informacje o przygodzie
 Desperate for assistance in returning Hillsfar to its former glory, First Lord Vuhm Yestral receives
 word that help may come from an unlikely source. With preparations in order, can he facilitate what
@@ -3929,8 +3944,10 @@ Baldman Games.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-HILL 2-2 The Red Herring
+### HILL 2-2 The Red Herring
+
 https://www.dmsguild.com/product/240422/CCCBMG29-Hill-22-The-Red-Herring?affiliate_id=925821
+
 Informacje o przygodzie
 The Mage’s Guild has been implicated in a recent attack on a visiting dignitary from the Red
 Wizards. To what extent are they involved? Is there still a threat? The Mages have pledged their
@@ -3943,8 +3960,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-HILL 2-3 The Red Death
+### HILL 2-3 The Red Death
+
 https://www.dmsguild.com/product/240423/CCCBMG30-Hill-23-The-Red-Death?affiliate_id=925821
+
 Informacje o przygodzie
 It all comes out. The ones behind the mages and thieves guild being implicated in an assassination
 attempt of the Zulkir. All that’s needed is a group of upstanding ne’re do wells to help the First Lord
@@ -3954,9 +3973,10 @@ Baldman Games.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-PHLAN 3-1 The Conventicle of Chaos
-https://www.dmsguild.com/product/247511/CCCBMG31-PHLAN-31-The-Conventicle-of-Chaos?
-affiliate_id=925821
+### PHLAN 3-1 The Conventicle of Chaos
+
+https://www.dmsguild.com/product/247511/CCCBMG31-PHLAN-31-The-Conventicle-of-Chaos?affiliate_id=925821
+
 Informacje o przygodzie
 After years of strife, Phlan is entering a new era of prosperity. Under the strong leadership of
 Jhessail Greycastle, external dangers have been beaten back, the city defenses have been
@@ -3969,8 +3989,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-PHLAN 3-2 The First Rule
+### PHLAN 3-2 The First Rule
+
 https://www.dmsguild.com/product/247512/CCCBMG32-PHLAN-32-The-First-Rule?affiliate_id=925821
+
 Informacje o przygodzie
 Deep inside the underbelly of Phlan something sinister is going on. A new group of criminals is
 looking to take over illegal operations in the city and have set themselves up in the sewers.
@@ -3979,9 +4001,10 @@ A four-hour adventure for 1st - 4th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-PHLAN 3-3 Spinning on the Edge
-https://www.dmsguild.com/product/247513/CCCBMG33-PHLAN-33-Spinning-on-the-Edge?
-affiliate_id=925821
+### PHLAN 3-3 Spinning on the Edge
+
+https://www.dmsguild.com/product/247513/CCCBMG33-PHLAN-33-Spinning-on-the-Edge?affiliate_id=925821
+
 Informacje o przygodzie
 With Phlan’s prosperous new future hanging in the balance, Chancellor Calypso isn’t about to let a
 new stream of thieves, the recently identified Coin Spinners, flood into the city. A lucky tip and
@@ -3993,8 +4016,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-ELM 2-1 Tendrils in the Fog
+### ELM 2-1 Tendrils in the Fog
+
 https://www.dmsguild.com/product/254008/CCCBMG34-ELM-21-Tendrils-in-the-Fog?affiliate_id=925821
+
 Informacje o przygodzie
 When a series of grisly murders and raids on farms and fishing boats come to light, accompanied by
 a strange fog, the people of Elmwood need heroes to investigate and stop the attacks. There is
@@ -4006,9 +4031,10 @@ years, and these attacks may have deeper causes than anyone knows. A four-hour a
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-ELM 2-2 Mists of the Moonsea
-https://www.dmsguild.com/product/254009/CCCBMG35-ELM-22-Mists-of-the-Moonsea?
-affiliate_id=925821
+### ELM 2-2 Mists of the Moonsea
+
+https://www.dmsguild.com/product/254009/CCCBMG35-ELM-22-Mists-of-the-Moonsea?affiliate_id=925821
+
 Informacje o przygodzie
 The heroes of Elmwood find clues that lead them to follow the trail of their adversaries to the Bell
 of the Deep, the sunken castle of Northkeep beneath the violet waves of the Moonsea. Can they
@@ -4019,9 +4045,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-ELM 2-3 Vestiges of Darkness
-https://www.dmsguild.com/product/254011/CCCBMG36-ELM-23-Vestiges-of-Darkness?
-affiliate_id=925821
+### ELM 2-3 Vestiges of Darkness
+
+https://www.dmsguild.com/product/254011/CCCBMG36-ELM-23-Vestiges-of-Darkness?affiliate_id=925821
+
 Informacje o przygodzie
 Legends say that the fall of Northkeep was orchestrated by one man, who sought ultimate power but
 was cursed to remain forever within the sunken ruins of the Bell in the Deep as his only reward.
@@ -4030,8 +4057,10 @@ Moonsea region. A four-hour adventure for 5th-10th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-HULB 3-1 Weakness of Rock
+### HULB 3-1 Weakness of Rock
+
 https://www.dmsguild.com/product/260904/CCCBMG37-Weakness-of-Rock?affiliate_id=925821
+
 Informacje o przygodzie
 Something stirs in the Hulburg mines. It would be nice to know what, but it would be nicer if it
 would stop collapsing parts of the mines and leaving catatonic miners. This could be the end of
@@ -4042,8 +4071,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-HULB 3-2 Dead Cannaries
+### HULB 3-2 Dead Cannaries
+
 https://www.dmsguild.com/product/260905/CCCBMG38-Dead-Canaries?affiliate_id=925821
+
 Informacje o przygodzie
 Wait! Is that an upside-down staircase? Am I floating? Why are my hands triangles? Why do I have
 four of them? No, wait, those are not mine! Where am I? How did I get here?
@@ -4051,8 +4082,10 @@ A four-hour adventure for 11th-16th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-HULB 3-3 Darkest Vein
+### HULB 3-3 Darkest Vein
+
 https://www.dmsguild.com/product/260906/CCCBMG39-Darkest-Vein?affiliate_id=925821
+
 Informacje o przygodzie
 In the depths below Hulburg, the main user of a psychic drug made from condensed emotions will
 make its final stand. Those who dare descend must be mentally prepared for the onslaught that
@@ -4063,9 +4096,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-HULB 4-1 Whispers from the Deep
-https://www.dmsguild.com/product/264698/CCCBMG40-HULB-41-Whispers-from-the-Deep?
-affiliate_id=925821
+### HULB 4-1 Whispers from the Deep
+
+https://www.dmsguild.com/product/264698/CCCBMG40-HULB-41-Whispers-from-the-Deep?affiliate_id=925821
+
 Informacje o przygodzie
 Usually monsters disappearing is a good thing, but what if soon after whispers can be heard in one’s
 dreams and people disappear? What horrors did those things stir in the ruins below? Better safe than
@@ -4075,9 +4109,10 @@ A 4-Hour Adventure for 11th-16th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-HULB 4-2 Voices from the Deep
-https://www.dmsguild.com/product/264699/CCCBMG41-HULB-42-Voices-from-the-Deep?
-affiliate_id=925821
+### HULB 4-2 Voices from the Deep
+
+https://www.dmsguild.com/product/264699/CCCBMG41-HULB-42-Voices-from-the-Deep?affiliate_id=925821
+
 Informacje o przygodzie
 “Give us what we want or more ships will be sunk and crews taken,” say monsters from the deep.
 The authorities might give in. Somebody needs to stop them.
@@ -4088,8 +4123,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-HULB 4-3 Call of the Deep
+### HULB 4-3 Call of the Deep
+
 https://www.dmsguild.com/product/264701/CCCBMG42-HULB-43-Call-of-the-Deep?affiliate_id=925821
+
 Informacje o przygodzie
 The watery veil is lifted and the Master of the Deep is known. All that remains is killing it and
 lifting its destructive influence. The dangers that lurk in the unfathomable depths might be the least
@@ -4099,9 +4136,10 @@ A 4-Hour Adventure for 11th-16th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-PHLAN 4-1 Ghoulies and Ghosties
-https://www.dmsguild.com/product/265111/CCCBMG43-PHLAN-41-Ghoulies-and-Ghosties?
-affiliate_id=925821
+### PHLAN 4-1 Ghoulies and Ghosties
+
+https://www.dmsguild.com/product/265111/CCCBMG43-PHLAN-41-Ghoulies-and-Ghosties?affiliate_id=925821
+
 Informacje o przygodzie
 The unthinkable is happening in Phlan; someone, or some thing, is taking the children. What began
 as strange reports from outlying farms, has now become a city-wide problem. Emotions and
@@ -4114,9 +4152,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-PHLAN 4-2 Long Leggity Beasties
-https://www.dmsguild.com/product/265112/CCCBMG44-PHLAN-42-Long-Leggity-Beasties?
-affiliate_id=925821
+### PHLAN 4-2 Long Leggity Beasties
+
+https://www.dmsguild.com/product/265112/CCCBMG44-PHLAN-42-Long-Leggity-Beasties?affiliate_id=925821
+
 Informacje o przygodzie
 The unthinkable is happening in Phlan; someone, or some thing, is taking the children. What began
 as strange reports from outlying farms, has now become a city-wide problem. Emotions and
@@ -4127,9 +4166,10 @@ A four-hour adventure for 5th-10th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-PHLAN 4-3 Things That Go Bump in the Night
-https://www.dmsguild.com/product/265113/CCCBMG45-PHLAN-43-Things-That-Go-Bump-in-the-Night?
-affiliate_id=925821
+### PHLAN 4-3 Things That Go Bump in the Night
+
+https://www.dmsguild.com/product/265113/CCCBMG45-PHLAN-43-Things-That-Go-Bump-in-the-Night?affiliate_id=925821
+
 Informacje o przygodzie
 A recent rash of kidnappings in Phlan has been partially solved, but some children are still missing,
 and the “monster” responsible is still on the loose. His whereabouts have been narrowed, so your
@@ -4141,8 +4181,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-HILL 3-1 Shepherd the Weak
+### HILL 3-1 Shepherd the Weak
+
 https://www.dmsguild.com/product/266616/CCCBMG46-HILL-31-Shepherd-the-Weak?affiliate_id=925821
+
 Informacje o przygodzie
 Reports of overaggressive animals with unusual markings and body parts have been coming from
 the woods near Hillsfar. These creatures were born under Graz’zt’s influence over Hillsfar. Their
@@ -4152,8 +4194,10 @@ A Four-Hour Adventure for 5th – 10th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-HILL 3-2 Suffer the Children
+### HILL 3-2 Suffer the Children
+
 https://www.dmsguild.com/product/266617/CCCBMG47-HILL-32-Suffer-the-Children?affiliate_id=925821
+
 Informacje o przygodzie
 Children born with demonic traits have begun to appear in Hillsfar. No one is sure of the cause, so
 paranoia and fear threaten to turn into a witch hunt. Every day, more of these children are born,
@@ -4164,8 +4208,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-HILL 3-3 Spare the Rod
+### HILL 3-3 Spare the Rod
+
 https://www.dmsguild.com/product/266618/CCCBMG48-HILL-33-Spare-the-Rod?affiliate_id=925821
+
 Informacje o przygodzie
 The Zhentarim were in over their heads the moment the demon child was delivered to them. They
 were woefully unprepared to raise a baby, let alone an infant demon. Two tenday ago, it disappeared
@@ -4175,8 +4221,10 @@ A Four-Hour Adventure for 5th – 10th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Howling on the Moonsea
+### Howling on the Moonsea
+
 https://www.dmsguild.com/product/253539/CCCBWM001-Howling-on-the-Moonsea?affiliate_id=925821
+
 Informacje o przygodzie
 Aristocrats and nobles from all around the Moonsea come to vacation upon the pleasure barge that
 sets sail from the floating Sokol Sea Palace. However, recent late-night howling and frightening
@@ -4193,8 +4241,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The City in the Depths
+### The City in the Depths
+
 https://www.dmsguild.com/product/253855/CCC--BWM--002-The-City-in-the-Depths?affiliate_id=925821
+
 Informacje o przygodzie
 An old man, a powerful artifact, and an entire ancient city wait for you in the cold depths of the
 Moonsea. Nothing is certain about what lies ahead, except that someone will get wet. Bring your
@@ -4203,8 +4253,10 @@ A 4-Hour Adventure for 5-10 Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-A Tale of Two Towers
+### A Tale of Two Towers
+
 https://www.dmsguild.com/product/253558/CCC--BWM--003-A-Tale-of-Two-Towers?affiliate_id=925821
+
 Informacje o przygodzie
 The annual celebration of the abolishment of the Great Law of Humanity is happening in Hillsfar.
 As the leader of the factions in the region, Elanil Elassidil must attend the event, however, she has a
@@ -4217,8 +4269,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Introduction to Adventuring
+### Introduction to Adventuring
+
 https://www.dmsguild.com/product/278603/CCCBWM06-Introduction-to-Adventuring?affiliate_id=925821
+
 Informacje o przygodzie
 Recent events in the Moonsea have caused Hillsfar to become a booming economy. This has
 attracted many new adventurers to the area and unfortunately brought an increase in deaths of
@@ -4233,8 +4287,10 @@ module to introduce people to D&D and to use as intro tables at gaming conventio
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Vault of the Devourer
+### The Vault of the Devourer
+
 https://www.dmsguild.com/product/199826/CCCCIC01-The-Vault-of-the-Devourer&affiliate_id=925821
+
 Informacje o przygodzie
 Amid the gales and snowy Earthspur Mountains, the tumbling ruins of the ancient Tempest Mage’s
 tower brood over the village of Windy Valley. When a kidnapper flees into the ruins, it’s up to a
@@ -4246,8 +4302,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Clockwork Laboratory
+### The Clockwork Laboratory
+
 https://www.dmsguild.com/product/207980/CCCCIC02-The-Clockwork-Laboratory?affiliate_id=925821
+
 Informacje o przygodzie
 Knock, knock, open the door. Tick tock, time is short. Stalk, stalk, it comes for you. How will you
 open the lock, once you can no longer wind the clock? A four-hour adventure for 5th-10th level
@@ -4255,8 +4313,10 @@ characters, brought to you by Cold Iron Conventions and Draxtar Games.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Desolate Undercroft
+### The Desolate Undercroft
+
 https://www.dmsguild.com/product/207993/CCCCIC03-The-Desolate-Undercroft?affiliate_id=925821
+
 Informacje o przygodzie
 The deepest depths of the ruins of the Tempest Mage's tower have not seen a living soul for
 centuries. In the silent dark, death waits for you. Will you rush to meet him? A four-hour adventure
@@ -4266,8 +4326,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Best Friends Forever
+### Best Friends Forever
+
 https://www.dmsguild.com/product/216389/CCCCIC04-Best-Friends-Forever&affiliate_id=925821
+
 Informacje o przygodzie
 It is a volatile time in Mulmaster. Nobles jockey for power and position. Refugees fight for mere
 survival. Danger and evil buried away awaken, adding to the chaos. The adventurers are tasked
@@ -4277,8 +4339,10 @@ characters, brought to you by Cold Iron Conventions and Draxtar Games.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Donum Vitae
+### Donum Vitae
+
 https://www.dmsguild.com/product/238300/CCCCIC05-Donum-Vitae?affiliate_id=925821
+
 Informacje o przygodzie
 Faded and tattered journal recovered from the tomb of the Tempest Mage alluded to The
 Donum Vitae, a tome containing a ritual capable of reversing the curse of undeath. A powerful
@@ -4294,8 +4358,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-End of the Line
+### End of the Line
+
 https://www.dmsguild.com/product/238181/CCCCIC06-End-of-the-Line?affiliate_id=925821
+
 Informacje o przygodzie
 A mining accident leads to a failed rescue attempt. Now you have been asked help.
 What awaits you...at the end of the line?
@@ -4305,8 +4371,10 @@ characters, brought to you by Cold Iron Conventions.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Pieces of You
+### Pieces of You
+
 https://www.dmsguild.com/product/248551/CCCCIC07-Pieces-of-You?affiliate_id=925821
+
 Informacje o przygodzie
 An ancient tome, a dangerous ritual, and the ultimate question, what makes us human? How
 far are you willing to go to save the life of a child? What lines are you willing to cross and how
@@ -4320,10 +4388,9 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Last Voyage of the Woolgathering Tidsoptimist
+### The Last Voyage of the Woolgathering Tidsoptimist
 
-https://www.dmsguild.com/product/238289/CCCCIC08-The-Last-Voyage-of-the-Woolgathering-
-Tidsoptimist?affiliate_id=925821
+https://www.dmsguild.com/product/238289/CCCCIC08-The-Last-Voyage-of-the-Woolgathering-Tidsoptimist?affiliate_id=925821
 
 Informacje o przygodzie
 Zor von Finklestein has purchased an aging cargo vessel and filled it with food for suffering
@@ -4333,8 +4400,10 @@ characters, brought to you by Cold Iron Conventions and Draxtar Games.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Steamy Shores of Danger
+### Steamy Shores of Danger
+
 https://www.dmsguild.com/product/245320/CCCCIC09-Steamy-Shores-of-Danger?affiliate_id=925821
+
 Informacje o przygodzie
 An urgent plea for assistance comes from the coastal village of Jarko’tu’ta. Traders are dead, canoes
 destroyed, bloodthirsty sharks spotted! A perilous canoe journey and fog-shrouded mysteries await
@@ -4346,8 +4415,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Terror at Soward Manor
+### Terror at Soward Manor
+
 https://www.dmsguild.com/product/257945/CCCCIC10-Terror-at-Soward-Manor?affiliate_id=925821
+
 Informacje o przygodzie
 Soward Manor has been abandoned for years, recently serving as a hiding place for bandits and
 criminals. Strange noises and lights bring the mansion back to the attention of Mulmaster. What is
@@ -4358,8 +4429,10 @@ characters (optimized for 8th level), brought to you by Cold Iron Conventions an
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Death at Peril Island
+### Death at Peril Island
+
 https://www.dmsguild.com/product/259558/CCCCIC11-Death-at-Peril-Island?affiliate_id=925821
+
 Informacje o przygodzie
 Ships approaching Peril Island rarely survive the dangerous reefs. Sailors who have braved the
 shores speak of terrible beasts. Now the island seems to be an important link in an ongoing mystery.
@@ -4372,8 +4445,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Redemption at Talos Sound
+### Redemption at Talos Sound
+
 https://www.dmsguild.com/product/259563/CCCCIC12-Redemption-at-Talos-Sound?affiliate_id=925821
+
 Informacje o przygodzie
 A sound is usually a safe harbor on a large sea Talos Sound, on the other hand, is known as a
 graveyard for ships and sailors entering it. Now adventurers must brave this wild place if they hope
@@ -4384,8 +4459,10 @@ characters (optimized for 8th level), brought to you by Cold Iron Conventions an
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Treasure Beneath
+### The Treasure Beneath
+
 https://www.dmsguild.com/product/254041/CCCCNE01-The-Treasure-Beneath?affiliate_id=925821
+
 Informacje o przygodzie
 A mysterious location has been uncovered and a group of adventurers are tasked with charting a
 ship onto the Moonsea. There they begin their underwater quest to find the treasures of the Lost
@@ -4397,8 +4474,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Before The Hatch
+### Before The Hatch
+
 https://www.dmsguild.com/product/254019/CCCCNE02-Before-The-Hatch?affiliate_id=925821
+
 Informacje o przygodzie
 The Ancient sunken city of Northkeep is filled with wild magic and and unknown dangers. Within
 this desolate place, a warlock experiments on wildlife to create the ultimate living weapon capable
@@ -4407,8 +4486,10 @@ experiments from completing.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Into The Depths
+### Into The Depths
+
 https://www.dmsguild.com/product/254018/CCCCNE03-Into-The-Depths?affiliate_id=925821
+
 Informacje o przygodzie
 A Shadow of the long-destroyed city of Northkeep has been found deep below the Moonsea. Filled
 with wild magic and inhabited by strange creatures and people, a group of Warlocks work to bring a
@@ -4420,9 +4501,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-By The Seashore: A Red War Tale
-https://www.dmsguild.com/product/267847/CCCCOTN0101By-The-Seashore-A-Red-War-Tale?
-affiliate_id=925821
+### By The Seashore: A Red War Tale
+
+https://www.dmsguild.com/product/267847/CCCCOTN0101By-The-Seashore-A-Red-War-Tale?affiliate_id=925821
+
 Informacje o przygodzie
 Chaotic magics torment the village of Stonedock, presenting opportunity to a devious grifter.
 Unknown to the scoundrel, a coveted trinket will soon bring with it the wrath of Thay! Who will
@@ -4431,8 +4513,10 @@ APL 3.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Murder at The Stop
+### Murder at The Stop
+
 https://www.dmsguild.com/product/216992/CCCDDSC01-Murder-at-The-Stop&affiliate_id=925821
+
 Informacje o przygodzie
 With the repeal of the Law of Humanity, things have changed in the Hillsfar surrounds, and not
 necessarily for the better. The farming village of The Stop is no exception. The Red Plume Soldiers
@@ -4444,8 +4528,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-A Fool and His Gold
+### A Fool and His Gold
+
 https://www.dmsguild.com/product/217046/CCCDDSC02-A-Fool-and-His-Gold&affiliate_id=925821
+
 Informacje o przygodzie
 Dr. Jubal and his Carnival of Curiosities left The Stop almost a tenday ago. When one of the circus
 wagons is found abandoned, folks fear the worst. Brave heroes are needed to find out what has
@@ -4453,8 +4539,10 @@ become of the good Doctor and his troupe. Are you up for the challenge?
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-A Sanity Never Questioned
+### A Sanity Never Questioned
+
 https://www.dmsguild.com/product/260385/CCCDES0102-A-Sanity-Never-Questioned?affiliate_id=925821
+
 Informacje o przygodzie
 "Jeny Greenteeth gives you a letter that must reach its far-off destination, with frightening
 consequences if it doesn't make it there by nightfall. Jeny knows one way to accomplish this, but
@@ -4466,8 +4554,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Scourge Unseen
+### The Scourge Unseen
+
 https://www.dmsguild.com/product/252111/CCCDRUID01-The-Scourge-Unseen?affiliate_id=925821
+
 Informacje o przygodzie
 The forest haven of Elventree is in peril! Children have been abducted, monsters have breached the
 town perimeter, and one of the village’s druids has gone missing. The local spring seems to be a
@@ -4476,8 +4566,10 @@ match for the threats beneath Elventree’s feet?
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Life’s a Party
+### Life’s a Party
+
 https://www.dmsguild.com/product/262096/CCC--ELF--001-Lifes-a-Party?affiliate_id=925821
+
 Informacje o przygodzie
 It’s a time of celebration in Hillsfar. Bert, a local potion merchant and member of the Hillsfar
 Senate, is hosting a party. It has been one year since the Great Law of Humanity has been abolished.
@@ -4489,9 +4581,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-An Adventuring Party Walks Into A Bar
-https://www.dmsguild.com/product/263415/CCCELF02-An-Adventuring-Party-Walks-Into-A-Bar?
-affiliate_id=925821
+### An Adventuring Party Walks Into A Bar
+
+https://www.dmsguild.com/product/263415/CCCELF02-An-Adventuring-Party-Walks-Into-A-Bar?affiliate_id=925821
+
 Informacje o przygodzie
 There have been strange accounts from several of the heavier drinkers in Hillsfar; all are reports of
 monsters plaguing the woods near the city. Are these simply the ravings of those who have
@@ -4505,8 +4598,10 @@ A 4-Hour Adventure for 1st to 4th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-For the Kids?
+### For the Kids?
+
 https://www.dmsguild.com/product/259022/CCCELO01-For-the-Kids?affiliate_id=925821
+
 Informacje o przygodzie
 A mysterious illness cripples the children of the realm. No one has found the cure. Will you pass the
 tests and save the children of Faerûn?
@@ -4516,9 +4611,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Tales of Estirwald: Corruption of the Elderoak
-https://www.dmsguild.com/product/267821/CCCFC30102-Tales-of-Estirwald-Corruption-of-the-Elderoak?
-affiliate_id=925821
+### Tales of Estirwald: Corruption of the Elderoak
+
+https://www.dmsguild.com/product/267821/CCCFC30102-Tales-of-Estirwald-Corruption-of-the-Elderoak?affiliate_id=925821
+
 Informacje o przygodzie
 Perpetual twilight awaits heroes when a simple request leads them to lands beyond time, beyond
 mortal understanding, and where those with twisted fates pray for atonement and freedom. Will
@@ -4527,9 +4623,10 @@ joyful light return to this ancient land or will the curiosity of an outsider br
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Tales of Estirwald: The Fun House
-https://www.dmsguild.com/product/269392/CCCFC303-Tales-of-Estirwald-The-Fun-House?
-affiliate_id=925821
+### Tales of Estirwald: The Fun House
+
+https://www.dmsguild.com/product/269392/CCCFC303-Tales-of-Estirwald-The-Fun-House?affiliate_id=925821
+
 Informacje o przygodzie
 “Randel Malark Ambledragon was a magician of impressive renown. Rumour has it that before he
 became a travelling magician, he was a VERY successful adventurer. He settled down in Estirwald
@@ -4541,9 +4638,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Nothing Happens in Elmwood
-https://www.dmsguild.com/product/250362/CCCFXC01--Nothing-Happens-in-Elmwood?
-affiliate_id=925821
+### Nothing Happens in Elmwood
+
+https://www.dmsguild.com/product/250362/CCCFXC01--Nothing-Happens-in-Elmwood?affiliate_id=925821
+
 Informacje o przygodzie
 All the priests in Melvaunt tell Lady Elsa Tillingwood that she needs a miracle to heal her. In the
 wake of Moander’s rampage through Elmwood, a child is born with miraculous healing powers.
@@ -4552,8 +4650,10 @@ Lady Elsa has tasked you with investigating this divine coincidence... are you u
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Broken Blade
+### Broken Blade
+
 https://www.dmsguild.com/product/270401/CCCGAD0101-Broken-Blade?affiliate_id=925821
+
 Informacje o przygodzie
 On the eve of the Red War, the High Blade of Mulmaster has become incapacitated by a mental
 assault. To give the city a fighting chance, you must help Selfaril Uoumdolphin confront the
@@ -4567,8 +4667,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Red War: Black Phoenix
+### Red War: Black Phoenix
+
 https://www.dmsguild.com/product/270904/CCCGAD0102-Red-War-Black-Phoenix?affiliate_id=925821
+
 Informacje o przygodzie
 The Cult of Reborn Flame initiates its most devastating plot against Mulmaster even as Thayans are
 invading the city. You must navigate the planar tunnels beneath Mulmaster and stop the Black
@@ -4580,8 +4682,10 @@ Phoenix, culminating in a final battle like no other.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-A Night to Remember
+### A Night to Remember
+
 https://www.dmsguild.com/product/209690/CCCGARY01-A-Night-to-Remember&affiliate_id=925821
+
 Informacje o przygodzie
 A mysterious building has been constructed in the Zhent Slums outside Mulmaster.
 No one knows who or what built this massive circular ziggurat. That is, until you received an
@@ -4593,8 +4697,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-To Find a Way Out
+### To Find a Way Out
+
 https://www.dmsguild.com/product/209692/CCCGARY02-To-Find-a-Way-Out&affiliate_id=925821
+
 Informacje o przygodzie
 Disaster has struck, and you and your fellow party members have found yourself caught in a huge
 building, descending deeper into the depths of the structure as you try to find a way out.
@@ -4604,8 +4710,10 @@ first place.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Oh, We’re In It Now
+### Oh, We’re In It Now
+
 https://www.dmsguild.com/product/209693/CCCGARY03-Oh-Were-In-It-Now&affiliate_id=925821
+
 Informacje o przygodzie
 All out mayhem has encompassed the ground floors of the huge structure you've been exploring.
 Forces fight back and forth through the halls, and you find yourself drawn into fights where you
@@ -4616,9 +4724,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Darkness of the Mountains
-https://www.dmsguild.com/product/238303/CCCGARY04-The-Darkness-of-the-Mountains?
-affiliate_id=925821
+### The Darkness of the Mountains
+
+https://www.dmsguild.com/product/238303/CCCGARY04-The-Darkness-of-the-Mountains?affiliate_id=925821
+
 Informacje o przygodzie
 In the shadow of the Galena Mountains, outside the Glumpen forest, the scars of the ancient war
 with the kingdom of the Witch King still lay fresh and exposed to the night air. A trade route
@@ -4631,8 +4740,10 @@ trees of the forest.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Shadows of the Trees
+### The Shadows of the Trees
+
 https://www.dmsguild.com/product/238352/CCCGARY05-The-Shadows-of-the-Trees?affiliate_id=925821
+
 Informacje o przygodzie
 You’ve uncovered something ancient, something evil, on the outskirts of a small village at the foot
 of the Galena Mountains. The people of Aetherglen have no other options and are beseeching you
@@ -4644,9 +4755,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Death Beneath the Roots
-https://www.dmsguild.com/product/238356/CCCGARY06-The-Death-Beneath-the-Roots?
-affiliate_id=925821
+### The Death Beneath the Roots
+
+https://www.dmsguild.com/product/238356/CCCGARY06-The-Death-Beneath-the-Roots?affiliate_id=925821
+
 Informacje o przygodzie
 An ancient Gulthias tree contains the answers you’re seeking to the questions of the ancient dead
 and the recently dying in the village of Aetherglen.
@@ -4659,9 +4771,10 @@ A 2-hour adventure for 1st-4th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Mirror Cities of Gulthias
-https://www.dmsguild.com/product/238358/CCCGARY07-The-Mirror-Cities-of-Gulthias?
-affiliate_id=925821
+### The Mirror Cities of Gulthias
+
+https://www.dmsguild.com/product/238358/CCCGARY07-The-Mirror-Cities-of-Gulthias?affiliate_id=925821
+
 Informacje o przygodzie
 Beneath the ancient Gulthias tree is buried an even older city of Elvish design, populated by strange
 inhabitants that seem to be slaves of the tree. After exploring the city, you’ve found that there are
@@ -4675,8 +4788,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-That Which Lies Buried
+### That Which Lies Buried
+
 https://www.dmsguild.com/product/238359/CCCGARY08-That-Which-Lies-Buried?affiliate_id=925821
+
 Informacje o przygodzie
 You’ve descended further into the earth, deep under the Gulthias tree, past the both the Elven cities
 of light and dark, and now the perpetual darkness of an immense pit faces you. What waits for you
@@ -4685,8 +4800,10 @@ been buried so deep?
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-That Witch Maiden
+### That Witch Maiden
+
 https://www.dmsguild.com/product/238360/CCCGARY09-The-Witch-Maiden?affiliate_id=925821
+
 Informacje o przygodzie
 You’ve found yourselves trapped inside the tomb and temple of a Witch Maiden, one of the fabled
 First Sacrifices to the Witch King of ages ago. A powerful Lich in her own right, you hope that you
@@ -4697,8 +4814,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Bedlam at the Benefit
+### Bedlam at the Benefit
+
 https://www.dmsguild.com/product/237193/CCCGEL01-Bedlam-at-the-Benefit?affiliate_id=925821
+
 Informacje o przygodzie
 Some heroes raid dungeons. Some heroes slay dragons. And some heroes raise money for children’s
 hospitals. Everything is going splendidly for the fundraising gala at the Moonsea Children’s
@@ -4711,10 +4830,9 @@ focus on Social, Combat and Exploration encounters, this adventure steers away f
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Border Kingdoms: A Forgotten Realms Campaign Supplement
+### The Border Kingdoms: A Forgotten Realms Campaign Supplement
 
-https://www.dmsguild.com/product/244431/The-Border-Kingdoms-A-Forgotten-Realms-Campaign-
-Supplement?affiliate_id=925821
+https://www.dmsguild.com/product/244431/The-Border-Kingdoms-A-Forgotten-Realms-Campaign-Supplement?affiliate_id=925821
 
 Informacje o przygodzie
 According to the sage Meriadas of Westgate: “The Border Kingdoms are the most favored
@@ -4738,8 +4856,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Tharaera Lost
+### Tharaera Lost
+
 https://www.dmsguild.com/product/200723/CCCGHC01-Tharaera-Lost&affiliate_id=925821
+
 Informacje o przygodzie
 A criminal band known as “Suldran’s Dark” who is active all over the Moonsea region and
 
@@ -4753,8 +4873,10 @@ is now needed.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Skulljaw Hill
+### Skulljaw Hill
+
 https://www.dmsguild.com/product/200738/CCCGHC02-Skulljaw-Hill&affiliate_id=925821
+
 Informacje o przygodzie
 The search for the missing Harper agent has brought you to the small coastal town of Elventree on
 the south shore of the Moonsea.
@@ -4766,8 +4888,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Facing the Dark
+### Facing the Dark
+
 https://www.dmsguild.com/product/200739/CCCGHC03-Facing-the-Dark&affiliate_id=925821
+
 Informacje o przygodzie
 A captive Harper agent is being held by the criminal gang “Suldran’s Dark” in the depths of the
 Cormanthor forest.
@@ -4776,8 +4900,10 @@ Only the most stalwart and brave will be able to face this enemy and rescue the 
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Shade Of The Dark
+### Shade Of The Dark
+
 https://www.dmsguild.com/product/228101/CCCGHC04--Shade-Of-The-Dark?affiliate_id=925821
+
 Informacje o przygodzie
 Deep in the forests of Cormanthor, the Golden Paragon Trading Company has set up a logging
 camp to harvest the valuable trees of the Midwood. Until recently, the profitable camp delivered
@@ -4792,8 +4918,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Trail Of Treachery
+### Trail Of Treachery
+
 https://www.dmsguild.com/product/228104/CCCGHC05--Trail-Of-Treachery?affiliate_id=925821
+
 Informacje o przygodzie
 Deep in the forests of Cormanthor, the Golden Paragon Trading Company has set up a logging
 camp to harvest the valuable trees of the Midwood. Recently, rumors of a valuable tree lured a
@@ -4805,8 +4933,10 @@ seems.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-What You Wish For
+### What You Wish For
+
 https://www.dmsguild.com/product/228105/CCCGHC06--What-You-Wish-For?affiliate_id=925821
+
 Informacje o przygodzie
 Deep in the forests of Cormanthor, the Golden Paragon Trading Company has set up a logging
 camp to harvest the valuable trees of the Midwood. After investigating monster attacks against the
@@ -4819,8 +4949,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The River Runs Red
+### The River Runs Red
+
 https://www.dmsguild.com/product/228106/CCCGHC07--The-River-Runs-Red?affiliate_id=925821
+
 Informacje o przygodzie
 The Golden Paragon Trading Company has been working for months to secure a long-term trade
 deal with the Seven Suns Trading Coster, but efforts to deliver the final agreements to Calaunt have
@@ -4832,8 +4964,10 @@ catch them before another tragedy occurs?
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Death In The Ruins
+### Death In The Ruins
+
 https://www.dmsguild.com/product/228107/CCCGHC08--Death-In-The-Ruins?affiliate_id=925821
+
 Informacje o przygodzie
 A fire burns deep within the ruins of Fort Dalton. Have you finally found the missing trade
 delegates you seek, or is it more of the horrid creatures that dwell within the Flooded Forest hoping
@@ -4844,8 +4978,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Swamp Of Death
+### Swamp Of Death
+
 https://www.dmsguild.com/product/228108/CCCGHC09--Swamp-Of-Death?affiliate_id=925821
+
 Informacje o przygodzie
 Blood covers the wet, swampy ground. Some of it is yours, but much of it is not. You had the
 delegates under your protection, if only for a short while. Tracks in the mud lead deeper into the
@@ -4854,9 +4990,9 @@ foul swamp before they meet an untimely end at the hands of their captors?
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Into the Border Kingdoms
-https://www.dmsguild.com/product/260870/CCCGHCBK101-Into-the-Border-Kingdoms?
-affiliate_id=925821
+### Into the Border Kingdoms
+
+https://www.dmsguild.com/product/260870/CCCGHCBK101-Into-the-Border-Kingdoms?affiliate_id=925821
 
 Informacje o przygodzie
 Night falls on the Border Kingdoms, a land rife with conflicts and schemes, where lords, counts,
@@ -4871,8 +5007,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Tithes That Bind
+### The Tithes That Bind
+
 https://www.dmsguild.com/product/260872/CCCGHCBK102-The-Tithes-That-Bind?affiliate_id=925821
+
 Informacje o przygodzie
 The Border Kingdoms are a haven of adventure, warring neighbors, and marauding monsters. But
 something or someone has set its sights on disrupting that casual chaos. Are you one of the brave
@@ -4882,8 +5020,10 @@ A Four-Hour Adventure for 5th-10th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Darkest Knight
+### The Darkest Knight
+
 https://www.dmsguild.com/product/260873/CCCGHCBK103-The-Darkest-Knight?affiliate_id=925821
+
 Informacje o przygodzie
 Rumors abound concerning the Great Oak Mercenary Company and their possible role in the
 undead incursions plaguing the Border Kingdoms. Can you gain an audience with the Great Oak
@@ -4896,8 +5036,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-I am the Fire
+### I am the Fire
+
 https://www.dmsguild.com/product/260874/CCCGHCBK104-I-am-the-Fire?affiliate_id=925821
+
 Informacje o przygodzie
 A shadow has fallen over the Border Kingdoms. Dark forces are on the move, and a new power has
 risen. The effects of this new evil are just beginning to show themselves in the villages and towns
@@ -4909,8 +5051,10 @@ A Four-Hour Adventure for 5th-10th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-For the Glory of Bloutar!
+### For the Glory of Bloutar!
+
 https://www.dmsguild.com/product/260875/CCCGHCBK105-For-the-Glory-of-Bloutar?affiliate_id=925821
+
 Informacje o przygodzie
 After being charged with recovering a relic of the ‘Bloodsword Baron’ by a distant relative of the
 long-dead Baron named Celban Hilathan, you have journeyed into the depths of the Qurth Forest.
@@ -4924,8 +5068,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Legacy and Virtue
+### Legacy and Virtue
+
 https://www.dmsguild.com/product/260876/CCCGHCBK106-Legacy-and-Virtue?affiliate_id=925821
+
 Informacje o przygodzie
 The lands of Hawkgarth have long been known as "the Wood of Many Monsters". It is rumored that
 an archmage of some ancient kingdom busied himself with the creation of new and terrible beasts in
@@ -4936,9 +5082,10 @@ A Two-Hour to Four-Hour Adventure for Tier 1 Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Peculiar Case of the Selptan Felines
-https://www.dmsguild.com/product/260877/CCCGHCBK107-The-Peculiar-Case-of-the-Selptan-Felines?
-affiliate_id=925821
+### The Peculiar Case of the Selptan Felines
+
+https://www.dmsguild.com/product/260877/CCCGHCBK107-The-Peculiar-Case-of-the-Selptan-Felines?affiliate_id=925821
+
 Informacje o przygodzie
 Well that’s odd. There sure are a lot of cats in the hamlet of Selpt. In fact, it seems as if just about
 everyone has one, and boy do they pamper those cats. Even if you’ve never been a cat person, it’s
@@ -4950,10 +5097,9 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Hunt for Cutter Jack
+### The Hunt for Cutter Jack
 
-https://www.dmsguild.com/product/260878/CCCGHCBK108-The-Hunt-for-Cutter-Jack?term=CCC-GHC-
-BK1&test_epoch=0
+https://www.dmsguild.com/product/260878/CCCGHCBK108-The-Hunt-for-Cutter-Jack?term=CCC-GHC-BK1&test_epoch=0
 
 Informacje o przygodzie
 Rumor has it the brigand Cutter Jack is holed up with his latest score in one of the haunted keeps
@@ -4963,8 +5109,10 @@ A Two-Hour Adventure for Tier 1 Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Scavengers
+### Scavengers
+
 https://www.dmsguild.com/product/260879/CCCGHCBK109-Scavengers?affiliate_id=925821
+
 Informacje o przygodzie
 Peryton are known the world over as fearsome foes and gruesome battlefield scavengers. To keep
 the population under control, the small kingdom of Hawkgarth sponsors an annual peryton hunt. It's
@@ -4976,8 +5124,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Heart of Shadow
+### The Heart of Shadow
+
 https://www.dmsguild.com/product/260880/CCCGHCBK110-The-Heart-of-Shadow?affiliate_id=925821
+
 Informacje o przygodzie
 A great evil is rising in the Border Kingdoms. The dead walk the wilderness in greater numbers than
 ever before. As if they are driven to some hidden task or agenda. But they aren’t the only thing
@@ -4988,8 +5138,10 @@ A Four-Hour Adventure for 11th-16th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Glip Dak
+### Glip Dak
+
 https://www.dmsguild.com/product/249542/CCCGLIP0101-Glip-Dak?affiliate_id=925821
+
 Informacje o przygodzie
 The Kroth Magg hobgoblins run the trade city of Glip Dak in the Troll Hills of Thar. From there
 they have taken control of the trade routes along the northern Moonsea. A young noble has been
@@ -5000,8 +5152,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Beneath Glip Dak
+### Beneath Glip Dak
+
 https://www.dmsguild.com/product/249541/CCCGLIP0102-Beneath-Glip-Dak?affiliate_id=925821
+
 Informacje o przygodzie
 A series of unusual heists has both the thieves’ guild and city guard scrambling to uncover the
 culprits before the burglaries destabilize the thriving trade within the city, threatening the budding
@@ -5010,8 +5164,10 @@ kingdom the Kroth Magg have fought and died to forge.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Citadel of Vlaakith
+### Citadel of Vlaakith
+
 https://www.dmsguild.com/product/257864/CCCGLIP0103-Citadel-of-Vlaakith?affiliate_id=925821
+
 Informacje o przygodzie
 The adventurers are tasked with rescuing a group of heroes who vanished in the pearlescent fortress
 that manifested on the border between the Kroth Magg kingdom and the Varkonin empire in the
@@ -5022,8 +5178,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Blue Scales
+### Blue Scales
+
 https://www.dmsguild.com/product/257866/CCCGLIP0201-Blue-Scales?affiliate_id=925821
+
 Informacje o przygodzie
 A behir has been hired to destroy the herds of aurochs necessary to feed the hobgoblin city of Glip
 Dak. Patrols and scouts continue to go missing, forcing the hobgoblins to hire mercenaries to track
@@ -5032,8 +5190,10 @@ this behir as they recall their troops to the capital to maintain order as food 
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Tree Rot
+### Tree Rot
+
 https://www.dmsguild.com/product/257866/CCCGLIP0201-Blue-Scales?affiliate_id=925821
+
 Informacje o przygodzie
 A corrupting sickness has infected the Quivering Forest, and the wood elf tribe of Thand’Arethen.
 The elves beseech the adventurers to root out the source of the corruption before they, and the
@@ -5044,8 +5204,11 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Cairns of Rot
+
+### Cairns of Rot
+
 https://www.dmsguild.com/product/253210/CCCGOC0102-Cairns-of-Rot?affiliate_id=925821
+
 Informacje o przygodzie
 The woodelf village of Thand'Arethen in the Quivering Forest discovered a dark and arcane
 corruption destroying the forest, threatening the village’s survival. The Corruption mutates anything
@@ -5055,8 +5218,10 @@ A 2-Hour Adventure for 5th-10th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Winds of Rot
+### Winds of Rot
+
 https://www.dmsguild.com/product/253212/CCCGOC0103-Winds-of-Rot?affiliate_id=925821
+
 Informacje o przygodzie
 High above the Quivering Forest hovers Athal'deras, an earth mote that is home to a tribe of
 aarakocra. But a shadow has fallen over the floating rock, and the bird people have succumbed to
@@ -5068,8 +5233,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-A Dragon’s Breath
+### A Dragon’s Breath
+
 https://www.dmsguild.com/product/254786/CCCGSP0101-A-Dragons-Breath?affiliate_id=925821
+
 Informacje o przygodzie
 Ragvala, also known as the "Coinmaker" is an ancient gold dragon who wishes to mend his broken
 friendship with his old adventuring buddy. Recently, there are rumors that his friend’s old magical
@@ -5081,8 +5248,10 @@ A Four-Hour Adventure for Level 1-4 Characters. Optimized for Average Party Leve
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Fate of the Nightworms
+### Fate of the Nightworms
+
 https://www.dmsguild.com/product/258088/CCCHAL01-Fate-of-the-Nightworms?affiliate_id=925821
+
 Informacje o przygodzie
 Strange geothermal activity brings adventurers to the tiny coastal village of Jarko’tu’ta. A dangerous
 cave descent leads them into the dark tunnels below the surface. Waiting for them there are
@@ -5094,8 +5263,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Six Striking Swords
+### Six Striking Swords
+
 https://www.dmsguild.com/product/259625/CCCHAL02-Six-Striking-Swords?affiliate_id=925821
+
 Informacje o przygodzie
 Unusual allies, unbridled chaos and an Underdark mystery await characters in this dark 4-hour
 adventure for 5th to 10th level characters.
@@ -5107,8 +5278,11 @@ This is the second adventure of the Swords Below the Moonsea saga.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Six Swords Unbound
+
+### Six Swords Unbound
+
 https://www.dmsguild.com/product/259623/CCCHAL03-Six-Swords-Unbound?affiliate_id=925821
+
 Informacje o przygodzie
 An intense non-stop battle with dramatic story consequences awaits adventurers in this 4-hour
 adventure for 5th to 10th level characters.
@@ -5123,8 +5297,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Threatening Tides
+### Threatening Tides
+
 https://www.dmsguild.com/product/239986/CCCHATMS0101-Threatening-Tides?affiliate_id=925821
+
 Informacje o przygodzie
 On the eve of Shieldmeet, the sunken Isle of Maos rises from the depths of the Moonsea, only to
 return to the water with the rising of the sun. But this year, the island does not sink beneath the
@@ -5135,8 +5311,10 @@ A 4-hour adventure for 5th-10th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Prophecy’s Promise
+### Prophecy’s Promise
+
 https://www.dmsguild.com/product/239987/CCCHATMS0102-Prophecys-Promise?affiliate_id=925821
+
 Informacje o przygodzie
 Will Brightsong has been kidnapped, and the Moonsea is spilling into the cities of the region. The
 adventurers must travel into the heart of Thar to rescue the Brightsong heir, and return him to the
@@ -5148,8 +5326,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Destiny Defied
+### Destiny Defied
+
 https://www.dmsguild.com/product/239988/CCCHATMS0103-Destiny-Defied?affiliate_id=925821
+
 Informacje o przygodzie
 The Brightsong heir has been rescued from the clutches of the Kur-Tharsu, but the Moonsea is still
 rising. The adventurers must travel to the Isle of Maos, and there fulfill their most difficult
@@ -5159,8 +5339,11 @@ A 4-hour adventure for 5th-10th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Illithid Activities
+
+### Illithid Activities
+
 https://www.dmsguild.com/product/269519/CCCHATMS-0201-Illithid-Activities?affiliate_id=925821
+
 Informacje o przygodzie
 Reports of an Illithid in the area south of Hillsfar have the Emerald Enclave and the Harpers on the
 trail of a mind flayer. The mind flayer is suspected to be Klondrus Imdree which has been presumed
@@ -5173,9 +5356,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Something Vile This Way Comes
-https://www.dmsguild.com/product/267822/CCCHATMS0202-Something-Vile-This-Way-Comes?
-affiliate_id=925821
+### Something Vile This Way Comes
+
+https://www.dmsguild.com/product/267822/CCCHATMS0202-Something-Vile-This-Way-Comes?affiliate_id=925821
+
 Informacje o przygodzie
 A hunt for a mad illithid has brought startling and dire news to the Emerald Enclave and the
 Harpers. The call has gone out for heroes to follow on the trail of Klondros Imdree as he seeks a
@@ -5185,8 +5369,10 @@ A 4-Hour Adventure for Tier 3 Characters. Optimized for APL 14.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-A Vile Wake
+### A Vile Wake
+
 https://www.dmsguild.com/product/267823/CCCHATMS0203-A-Vile-Wake?affiliate_id=925821
+
 Informacje o przygodzie
 Klondras Imdree’s necromancer master has been stopped, but the undead illithid is still at large, and
 is one step closer to claiming the Book of Vile Darkness as his own.
@@ -5196,8 +5382,10 @@ A 4-Hour Adventure for Tier 3 Characters. Optimized for APL 14.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Shadow of Greed
+### Shadow of Greed
+
 Niedostępna na DMsguild
+
 Informacje o przygodzie
 Brak informacji.
 
@@ -5205,16 +5393,21 @@ Komentarz
 
 
 Brak uwag związanych z prowadzeniem przygody w OPK.
-Shadow of the Weave
+
+### Shadow of the Weave
+
 Niedostępna na DMsguild
+
 Informacje o przygodzie
 Brak informacji.
 
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Shadow of the Dusk Queen
+### Shadow of the Dusk Queen
+
 Niedostępna na DMsguild
+
 Informacje o przygodzie
 Brak informacji.
 
@@ -5223,8 +5416,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Left Black and Blue
+### Left Black and Blue
+
 https://www.dmsguild.com/product/262311/Left-Black-and-Blue-A-Red-War-Story?affiliate_id=925821
+
 Informacje o przygodzie
 With Red Wizards and fouler things about, a power struggle among forgotten foes draws
 adventurers into peril. A Two-Hour Adventure for Tier 3 Characters. Optimized for APL 13.
@@ -5232,8 +5427,10 @@ adventurers into peril. A Two-Hour Adventure for Tier 3 Characters. Optimized fo
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Wreckers
+### Wreckers
+
 https://www.dmsguild.com/product/226912/CCCKUMORI0101--Wreckers?affiliate_id=925821
+
 Informacje o przygodzie
 Cargo ships are being dashed against the rocks west of Hulburg, lured off course by a mysterious
 light. Is this the work of ordinary thieves, or are more nefarious forces at work?
@@ -5246,8 +5443,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-School Magic
+### School Magic
+
 https://www.dmsguild.com/product/261266/CCCKUMORI0202-School-Magic?affiliate_id=925821
+
 Informacje o przygodzie
 In the Border Forest,north of the Teshwave, the Vorisch family of Phlan has built the Moonsea
 School for Homeless Children. A haven and home for the displaced and orphaned of the Moonsea.
@@ -5256,8 +5455,10 @@ However, strange events threaten to close the school. Can you find the cause, an
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-To Be the Very Best
+### To Be the Very Best
+
 https://www.dmsguild.com/product/259775/CCCKUMORI0204-To-Be-the-Very-Best?affiliate_id=925821
+
 Informacje o przygodzie
 Festival bells cut loud through the air! Adventurers are gathering to celebrate the Wild Monster
 Capture Festival. Tame wild monsters, team up with them in honorable combat, and you could win
@@ -5269,8 +5470,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Champion of the People
+### Champion of the People
+
 https://www.dmsguild.com/product/218722/CCCLINKS01-Champion-of-the-People&affiliate_id=925821
+
 Informacje o przygodzie
 A persistent ghost has been spotted in Phlan, flitting from building to building. The residents say
 that it stands in front of the Laughing Goblin every night, eyes wide and full of terror. If
@@ -5282,8 +5485,10 @@ A 4-hour Adventure for 5th – 10th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Secrets We Keep
+### The Secrets We Keep
+
 https://www.dmsguild.com/product/218925/CCCLINKS02-The-Secrets-We-Keep&affiliate_id=925821
+
 Informacje o przygodzie
 As winter releases its grip on the region surrounding the town of Phlan, secrets are revealed within
 Glumpen Swamp. Strange landscapes and sigils have been found beneath the mud, and the wildlife
@@ -5297,8 +5502,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Blight of Geoffrey
+### The Blight of Geoffrey
+
 https://www.dmsguild.com/product/238812/CCCMACE0101-The-Blight-of-Geoffrey?affiliate_id=925821
+
 Informacje o przygodzie
 Lord Geoffrey of the Smiths’ holdings has been struck by misfortune. He seeks adventurers to
 resolve issues at one of his farms, in his iron mine, and at his beloved inn. Can the party help
@@ -5307,8 +5514,10 @@ Geoffrey and prevent him from losing his seat on the Merchant Council of Hulburg
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-A Panthers Peril
+### A Panthers Peril
+
 https://www.dmsguild.com/product/238814/CCCMACE0102-A-Panthers-Peril?affiliate_id=925821
+
 Informacje o przygodzie
 Lord Geoffrey of the Smiths has learned that a former comrade and fellow adventurer has taken his
 family heirloom and believes that this is the reason for his recent string of misfortune. He seeks
@@ -5321,8 +5530,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Haunted Memories
+### Haunted Memories
+
 https://www.dmsguild.com/product/244858/CCCMACE0103-Haunted-Memories?affiliate_id=925821
+
 Informacje o przygodzie
 The search for Geoffrey’s family mace leads you to a meeting with a famous thief. In exchange for
 the information, she asks you to find a painting called Dawnsight. An easy task if you can withstand
@@ -5331,8 +5542,10 @@ the haunted memories surrounding the painting.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-All in a Day’s Work
+### All in a Day’s Work
+
 https://www.dmsguild.com/product/257386/CCCMCX01-All-in-a-Days-Work?affiliate_id=925821
+
 Informacje o przygodzie
 The Mordell family has been on the decline for years. The family has reached out to their contacts
 one last time for help ridding the family of a generational curse.
@@ -5344,8 +5557,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Rescue
+### The Rescue
+
 https://www.dmsguild.com/product/259240/MCX0102-The-Rescue?affiliate_id=925821
+
 Informacje o przygodzie
 There are times when someone is called to the adventuring life and then there are times when
 someone tries to force the adventuring life. This is a case of the former helping the latter.
@@ -5353,8 +5568,11 @@ someone tries to force the adventuring life. This is a case of the former helpin
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+
 Lost in Thought
+
 https://www.dmsguild.com/product/246253/CCCMIND0101-Lost-in-Thought?affiliate_id=925821
+
 Informacje o przygodzie
 With the liberation of Phlan, refugees from the city have been invited back to start their lives anew.
 But trouble strikes when one family of refugees goes missing while on the road to Phlan. The new
@@ -5366,8 +5584,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Mind Trip
+### Mind Trip
+
 https://www.dmsguild.com/product/246478/CCCMIND0102-Mind-Trip?affiliate_id=925821
+
 Informacje o przygodzie
 Phlan’s refugees are being assaulted on the road and taken into the Underdark to become illithid
 thralls. Can the characters save some of the travelers and uncover the mastermind of this evil
@@ -5376,8 +5596,10 @@ operation? Only a delve into the Underdark will tell.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Dream Walkers
+### Dream Walkers
+
 https://www.dmsguild.com/product/246480/CCCMIND0103-Dream-Walkers?affiliate_id=925821
+
 Informacje o przygodzie
 The characters reach the lair of an elder brain and must make their way through its minions to
 recover the refugees. May be able to get most the refugees out without facing the elder brain. But
@@ -5388,8 +5610,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Secrets of Imaginary Friends
+### Secrets of Imaginary Friends
+
 https://www.dmsguild.com/product/279110/CCCMMT-0101-Secrets-of-Imaginary-Friends?
+
 affiliate_id=925821
 Informacje o przygodzie
 The Moonsea Children’s Hospital is now open, and a small town has sprung up around Elua’s
@@ -5401,8 +5625,10 @@ A 2-4 Hour Adventure for Tier 1 Characters. Optimized for APL 3.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Stuff of Memories
+### The Stuff of Memories
+
 https://www.dmsguild.com/product/279118/CCCMMT-0201-The-Stuff-of-Memories?affiliate_id=925821
+
 Informacje o przygodzie
 Was it something you drank? Perhaps you were drugged. Whatever it was, it caused you to forget
 why you just woke up in the Cormanthor Forest with some fellow adventurers. Some entity is
@@ -5414,8 +5640,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Friends in Need
+### Friends in Need
+
 https://www.dmsguild.com/product/251969/CCCMYR01-Friends-in-Need?affiliate_id=925821
+
 Informacje o przygodzie
 Faction agents have braved the Glacier of the White Worm and arrived at the Monastery of the
 Yellow Rose, only to be denied entry.
@@ -5426,8 +5654,10 @@ Mulmaster and the Monastery of the Yellow Rose.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Clever
+### Clever
+
 https://www.dmsguild.com/product/275196/CCCNBDD0101-Clever?affiliate_id=925821
+
 Informacje o przygodzie
 A strange new crime family has been growing and tightening its grips on local businesses. Any who
 refuse their offers are found dead shortly after, torn apart by claws and teeth. Who is behind this
@@ -5439,8 +5669,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Blighted Sun
+### The Blighted Sun
+
 https://www.dmsguild.com/product/254451/CCCNUKE0101-The-Blighted-Sun?affiliate_id=925821
+
 Informacje o przygodzie
 The secluded settlement of Sunboughs has enjoyed prosperity within the Moonsea for centuries. A
 trade agreement is threatened when a fierce enemy strikes, seeking to destroy the elves and thwart
@@ -5450,8 +5682,10 @@ Forest. A four-hour adventure for Tier One characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Hide and Seek
+### Hide and Seek
+
 https://www.dmsguild.com/product/254453/CCCNUKE0102-Hide-and-Seek?affiliate_id=925821
+
 Informacje o przygodzie
 As Mulmaster rebuilds, in-fighting between the cities’ elite has reached its peak. The Blades are
 forced to intervene, withholding a coveted cargo from The Zors. The Hawks have a risky
@@ -5465,8 +5699,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Red War: Housekeeping
-https://www.dmsguild.com/product/254694/CCCOCC01-Red-War-Housekeeping?affiliate_id=925821
+### Red War: Housekeeping
+
+hdttps://www.dmsguild.com/product/254694/CCCOCC01-Red-War-Housekeeping?affiliate_id=925821
+
 Informacje o przygodzie
 The dawn of the final day arrives: The Red War looms on the horizon, and nothing can stop what is
 to come. But in those early hours before carnage begins, a group of adventurers are tasked with a
@@ -5477,8 +5713,11 @@ A 4-6 Hour Adventure for Tier 3 Characters. Optimized for APL 13
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Feast of the Moon
+
+### Feast of the Moon
+
 https://www.dmsguild.com/product/265961/CCCOCC02-Feast-of-the-Moon?affiliate_id=925821
+
 Informacje o przygodzie
 Festivals galore line the streets, parks, and courtyards of Thentia. It is the Feast of the Moon, and all
 are gathered to remember loved ones and friends that have departed this world, and to pay homage
@@ -5493,7 +5732,7 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Hammer and Anvil
+### Hammer and Anvil
 https://www.dmsguild.com/product/227812/CCCODFC0101-Hammer-and-Anvil?affiliate_id=925821
 Informacje o przygodzie
 Once an ennead, the Earthspur Mines are home to a competition between many dwarves. Each clan
@@ -5508,9 +5747,10 @@ A four hour adventure for 1st - 4th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Black Blades, Black Wings
-https://www.dmsguild.com/product/227841/CCCODFC0102-Black-Blades-Black-Wings?
-affiliate_id=925821
+### Black Blades, Black Wings
+
+https://www.dmsguild.com/product/227841/CCCODFC0102-Black-Blades-Black-Wings?affiliate_id=925821
+
 Informacje o przygodzie
 As the Zhentarim slowly reoccupy the Citadel of the Raven, they continue to explore the tunnels
 under the mountain one level at a time. Three tendays ago, a new section of the tunnels broke open,
@@ -5524,8 +5764,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Elders’ Eyes Upon You
+### Elders’ Eyes Upon You
+
 https://www.dmsguild.com/product/227845/CCCODFC0103-Elders-Eyes-Upon-You?affiliate_id=925821
+
 Informacje o przygodzie
 Rastol Shan has summoned you to the Tower of Arcane Might and told you to be discrete. The last
 time the chief of the Cloaks said that, there was a coup in Mulmaster. This time, something has
@@ -5535,8 +5777,10 @@ A four hour adventure for 11th- 16th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Serenade of Pain
+### Serenade of Pain
+
 https://www.dmsguild.com/product/245632/CCCODFC0201-Serenade-of-Pain?affiliate_id=925821
+
 Informacje o przygodzie
 Left in webs and reeking of rot, bodies dot the streets and alleys of the Zhentarim Ghetto, and no
 one does a thing. But leave one body inside Mulmaster’s walls, and everyone loses their minds.
@@ -5549,8 +5793,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Palace of the Efreeti
+### Palace of the Efreeti
+
 https://www.dmsguild.com/product/245228/CCCODFC0202-Palace-of-the-Efreeti?affiliate_id=925821
+
 Informacje o przygodzie
 A young Mulmaster nobleman attempts to revive the Cult of Eternal Flame by seeking out the
 patronage of a powerful being. His relatives have hired you to stop his plans and bring him home,
@@ -5559,8 +5805,10 @@ even if you must chase him across the planes and over the Sea of Fire to do so.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Night’s Bright Dawning
+### Night’s Bright Dawning
+
 https://www.dmsguild.com/product/245631/CCCODFC0203-Nights-Bright-Dawning?affiliate_id=925821
+
 Informacje o przygodzie
 Mulmaster is slowly being rebuilt following the devastation of the Elemental Cults, but that
 reconstruction is not without its problems. The city’s need for natural resources has brought it into
@@ -5572,9 +5820,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Friendly Competition
-https://www.dmsguild.com/product/265659/CCCOHAYOCON0103-Fiendly-Competition?
-affiliate_id=925821
+### Friendly Competition
+
+https://www.dmsguild.com/product/265659/CCCOHAYOCON0103-Fiendly-Competition?affiliate_id=925821
+
 Informacje o przygodzie
 Bounty hunting around the Moonsea is a cut-throat business and tracking down the mark is easier
 than snagging it first. Pick the target, make your plans and watch out for the competition!
@@ -5583,8 +5832,10 @@ A 2- to 4-Hour Adventurers League adventure for 5th-10th Level Characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The White Well
+### The White Well
+
 https://www.dmsguild.com/product/214453/CCCPDXAGE0101-The-White-Well&affiliate_id=925821
+
 Informacje o przygodzie
 The Gommurg Clan rarely deal with outsiders. These hill dwarves have isolated themselves for
 centuries to work on their craft and guard an ancient and sinister structure. Unfortunately, the world
@@ -5597,8 +5848,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Dark Hunt
+### The Dark Hunt
+
 https://www.dmsguild.com/product/214451/CCCPDXAGE0201-The-Dark-Hunt&affiliate_id=925821
+
 Informacje o przygodzie
 The village near Oreclasp Keep has been reporting brutal owlbear attacks that have left people
 missing or dismembered. Lord Oreclasp has placed a bounty for every owlbear beak brought to
@@ -5608,8 +5861,10 @@ A D&D Adventurers League two-hour adventure for 5th-10th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Six Summoned Swords
+### Six Summoned Swords
+
 https://www.dmsguild.com/product/242915/CCCPHA01-Six-Summoned-Swords?affiliate_id=925821
+
 Informacje o przygodzie
 Meaningful decisions, unexpected twists and memorable characters are the foundations of this dark
 4-hour adventure for 5th to 10th level characters.
@@ -5625,8 +5880,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Trouble Under Winton
+### Trouble Under Winton
+
 https://www.dmsguild.com/product/256228/CCCPPTDD0101-Trouble-Under-Winton?affiliate_id=925821
+
 Informacje o przygodzie
 An earthquake has felled the windmill of Winton into a sinkhole. Were that not bad enough,
 humanoids have been seen skulking around its ruins at night, and an odd ruby glow can be seen
@@ -5636,9 +5893,10 @@ A Two-Hour Adventure for 1st-4th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Mystery at Coppertop Manor
-https://www.dmsguild.com/product/277524/CCCPRETZPLA01-The-Mystery-at-Coppertop-Manor?
-affiliate_id=925821
+### The Mystery at Coppertop Manor
+
+https://www.dmsguild.com/product/277524/CCCPRETZPLA01-The-Mystery-at-Coppertop-Manor?affiliate_id=925821
+
 Informacje o przygodzie
 A mysterious plague has struck the town of Glister and now bodies have gone missing from the
 local cemetery!
@@ -5651,8 +5909,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-A Mine of Their Own
+### A Mine of Their Own
+
 https://www.dmsguild.com/product/277526/CCCPRETZPLA02-A-Mine-of-Their-Own?affiliate_id=925821
+
 Informacje o przygodzie
 The Yellow Tooth goblin tribe living in the old copper mine have starting showing signs of
 a sickness. Some terrible corruption has welled up from the depths. Can the source of
@@ -5662,8 +5922,10 @@ A Two to Four Hour Adventure for Tier 1 Characters. Optimized for APL 3
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Maritime Mayhem
+### Maritime Mayhem
+
 https://www.dmsguild.com/product/240922/CCCPRIORY01-Maritime-Mayhem?affiliate_id=925821
+
 Informacje o przygodzie
 An evil menace once thought dead has resurfaced in Faerûn.
 This menace is a member of the Dark Priory, a doomsayer cult. You have the important mission to
@@ -5676,8 +5938,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Prison Pitfalls
+### Prison Pitfalls
+
 https://www.dmsguild.com/product/240924/CCCPRIORY02-Prison-Pitfalls?affiliate_id=925821
+
 Informacje o przygodzie
 You find yourselves shipwrecked on a mysterious island in the Moonsea.
 Will you escape the island to hunt Yami, or will you die in the belly of its master?
@@ -5687,8 +5951,10 @@ A 2-hour Adventure for 1st – 4th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Truths in Time
+### Truths in Time
+
 https://www.dmsguild.com/product/240925/CCCPRIORY03-Truths-in-Time?affiliate_id=925821
+
 Informacje o przygodzie
 The adventurers arrive on the docks of Phlan. A magical darkness hides the town.
 Their mission: wade in and recapture Yami, the Betrayer of the Realm. Be wary. He wields great
@@ -5701,9 +5967,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Delusions of Grandeur, Dreams of Revenge
-https://www.dmsguild.com/product/221415/CCCQCC2017-Delusions-of-Grandeur-Dreams-of-Revenge?
-affiliate_id=925821
+### Delusions of Grandeur, Dreams of Revenge
+
+https://www.dmsguild.com/product/221415/CCCQCC2017-Delusions-of-Grandeur-Dreams-of-Revenge?affiliate_id=925821
+
 Informacje o przygodzie
 The factions have heard murmurings of a new cult rising from the ashes of the obsessed dragon and
 elemental evil factions that they have dealt with in the past. This time, though, they seem to have
@@ -5714,8 +5981,10 @@ A 4-hour D&D Adventurers League adventure for characters levels 11-16 starting i
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Of Gods and Monsters
+### Of Gods and Monsters
+
 https://www.dmsguild.com/product/252176/CCCQCC201801-Of-Gods-and-Monsters?affiliate_id=925821
+
 Informacje o przygodzie
 Rumors abound that the travelling faire known as Doctor Jubal's Carnival of Curiosities have
 somehow acquired an actual, live tarrasque that they are displaying as part of their travelling show.
@@ -5729,8 +5998,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Heart and Soul
+### Heart and Soul
+
 https://www.dmsguild.com/product/252178/CCCQCC201802-Heart-and-Soul?affiliate_id=925821
+
 Informacje o przygodzie
 A young girl offers to hire the party to retrieve a family heirloom stolen from her by an evil
 archmage. The first catch: the archmage is a Red Wizard of Thay. The second catch: your potential
@@ -5740,9 +6011,10 @@ A 2-hour adventure for 5th – 10th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Red War: Lost Ashes of a Wayward Gnome
-https://www.dmsguild.com/product/252159/CCCREAP01-Red-War-Lost-Ashes-of-a-Wayward-Gnome?
-affiliate_id=925821
+### Red War: Lost Ashes of a Wayward Gnome
+
+https://www.dmsguild.com/product/252159/CCCREAP01-Red-War-Lost-Ashes-of-a-Wayward-Gnome?affiliate_id=925821
+
 Informacje o przygodzie
 A priestess has traveled far from home to find herself in the middle of the RED WAR. Join her on a
 surreal, madcap journey through a dangerous warzone to recover the ashes of the gnome
@@ -5755,8 +6027,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Binder’s Torment
+### Binder’s Torment
+
 https://www.dmsguild.com/product/221932/CCCROZK0101-Binders-Torment?affiliate_id=925821
+
 Informacje o przygodzie
 While attending the first annual Reclamation Day Festival in Phlan, a mysterious book is given to
 the adventurers, leading them to what appears to be an abandoned print shop west of the city. There
@@ -5768,8 +6042,11 @@ A 4-hour adventure for 11th-16th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Zentarim’s Lament
+
+### Zentarim’s Lament
+
 https://www.dmsguild.com/product/221933/CCCROZK0102-Zhentarims-Lament?affiliate_id=925821
+
 Informacje o przygodzie
 A dark force is rising from the ruins of Zhentil Keep. The Zhentarim themselves are on the move to
 stop it from spreading, and you have been pulled into the struggle. Will you find the objects of
@@ -5781,8 +6058,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Necromancer’s Ascent
+### Necromancer’s Ascent
+
 https://www.dmsguild.com/product/221934/CCCROZK0103-Necromancers-Ascent?affiliate_id=925821
+
 Informacje o przygodzie
 The necromancer has been revealed, and his tower of black rock now dominates the ruins of Zhentil
 Keep. You must race against his machinations, or a cloud of undeath will overwhelm the Moonsea
@@ -5792,8 +6071,10 @@ A 4-hour adventure for 11th-16th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Eyes of Blood
+### Eyes of Blood
+
 https://www.dmsguild.com/product/240487/CCCRPR01-Eyes-of-Blood?affiliate_id=925821
+
 Informacje o przygodzie
 "Recent goblin attacks near the outskirts of Hulburg prompted Lord Eorl Hulmaster to send a band
 of mercenaries into the foothills of the Galena Mountains to thin out their numbers. It was
@@ -5806,8 +6087,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Ooze There
+### Ooze There
+
 https://www.dmsguild.com/product/244135/CCCRPSG01-Ooze-There?affiliate_id=925821
+
 Informacje o przygodzie
 As the City of Danger struggles to rebuild, a spate of unexplained disappearances in the Zhent
 Ghettos threatens to erupt into fresh chaos. The factions are hard pressed to investigate, and it falls
@@ -5818,8 +6101,10 @@ Characters (optimized for 3rd level).
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-A Light in the Dark
+### A Light in the Dark
+
 https://www.dmsguild.com/product/258839/CCCSAC01-A-Light-in-the-Dark?affiliate_id=925821
+
 Informacje o przygodzie
 Reports are coming out of the conclusion of the death curse and the defeat of the lich Acererak.
 Adventurers are no longer afraid to go out into the night in search of Fame and fortune. A wily
@@ -5832,8 +6117,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Fun With Fey
+### Fun With Fey
+
 https://www.dmsguild.com/product/259233/CCCSAC02-Fun-With-Fey?affiliate_id=925821
+
 Informacje o przygodzie
 Trouble is afoot in the mysterious Quivering Forest. An Archdruid finds herself unable to control
 the magic of a particularly powerful tree. This tree’s magic threatens to create a portal that would
@@ -5844,8 +6131,10 @@ A four hour adventure for characters level 11-16, optimized for level 13.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Rumors of Riches
+### Rumors of Riches
+
 https://www.dmsguild.com/product/210440/CCCSALT0101-Rumors-of-Riches&affiliate_id=925821
+
 Informacje o przygodzie
 The Search and Locate Treasure Consortium funded an ill-fated mission into the wastes of Thar.
 They are unsure if faction infighting or monsters got the best of their expedition team as they
@@ -5858,8 +6147,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Moor Trouble
+### Moor Trouble
+
 https://www.dmsguild.com/product/210443/CCCSALT0102-Moor-Trouble&affiliate_id=925821
+
 Informacje o przygodzie
 After the first expedition to locate an ancient tomb was prematurely ended by monsters, the Search
 and Locate Treasure Consortium is doubling down. Camp established, they are looking for
@@ -5872,10 +6163,9 @@ A Two-Hour Adventure for 1st-4th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Broken Halls of Goldahroud
+### Broken Halls of Goldahroud
 
-https://www.dmsguild.com/product/210444/CCCSALT0103-Broken-Halls-of-
-Goldahroud&affiliate_id=925821
+https://www.dmsguild.com/product/210444/CCCSALT0103-Broken-Halls-of-Goldahroud&affiliate_id=925821
 
 Informacje o przygodzie
 Beneath the moorlands of Thar, hidden from all for centuries, lies the Broken Halls of Goldahroud.
@@ -5893,8 +6183,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Mulmaster’s Meddling’s
+### Mulmaster’s Meddling’s
+
 https://www.dmsguild.com/product/244117/CCCSALT-0201-Mulmasters-Meddlings?affiliate_id=925821
+
 Informacje o przygodzie
 The SALT Consortium take leave of Thar to create needed trade alliances with a Zor of Mulmaster.
 The SALT Consortium has been busy rebuilding the small town of Hawksroost and the increase in
@@ -5907,10 +6199,12 @@ need to win the Zor’s favor.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Tower in the Valley
+### Tower in the Valley
+
 https://www.dmsguild.com/product/244116/CCCSALT-0202-Tower-in-the-Valley?affiliate_id=925821
+
 Informacje o przygodzie
-The SALT Consortium extends it reachf rom Hawksroost, to help a wizard regain his tower.
+The SALT Consortium extends it reach from Hawksroost, to help a wizard regain his tower.
 Prepare yourselves to enter a wizard’s wondrous tower! Within lies tricks and traps all from the
 mind of the brilliant? Or the insane? One never truly knows when it comes to wizards, but one thing
 is for certain; the rooms within will throw you for a loop!
@@ -5922,9 +6216,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Darkness Never Forgets
-https://www.dmsguild.com/product/253907/CCCSALT0205-The-Darkness-Never-Forgets?
-affiliate_id=925821
+### The Darkness Never Forgets
+
+https://www.dmsguild.com/product/253907/CCCSALT0205-The-Darkness-Never-Forgets?affiliate_id=925821
+
 Informacje o przygodzie
 Oriel Phoenixfeather, the old halfling shopkeep from Hawksroost, has gone missing. Her
 granddaughter and the leaders of the SALT Consortium have sent out a call for adventurers to
@@ -5934,8 +6229,10 @@ this search-and-rescue more dangerous than the party had initially planned.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Corrupted Artery
+### Corrupted Artery
+
 https://www.dmsguild.com/product/237410/CCCSCAR0101-Corrupted-Artery?affiliate_id=925821
+
 Informacje o przygodzie
 The mining town of Glister has had a prosperous year, and people have been coming in search of
 work and wealth. A call has gone out for help in some local matters, but getting there is no easy
@@ -5947,8 +6244,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Glister By Light
+### Glister By Light
+
 https://www.dmsguild.com/product/242220/CCCSCAR0102-Glister-By-Light?affiliate_id=925821
+
 Informacje o przygodzie
 The mining town of Glister has a problem. The latest caravan only arrived with a part of its
 supplies. Orcs waylaid them, took much needed goods, and are now making demands that the town
@@ -5959,8 +6258,10 @@ A 4-hour Adventure for 1st-4th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Glister By Dark
+### Glister By Dark
+
 https://www.dmsguild.com/product/267891/CCCSCAR0201-Glister-By-Dark?affiliate_id=925821
+
 Informacje o przygodzie
 The mining town of Glister is under siege. Unprepared and short of supplies, the siege threatens to
 starve out the town. The mine has provided the only path that may provide some help; a collapsed
@@ -5972,8 +6273,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Plots in Motion
+### Plots in Motion
+
 https://www.dmsguild.com/product/206459/CCCSFBAY0101-Plots-in-Motion&affiliate_id=925821
+
 Informacje o przygodzie
 In the midst of a ferocious storm, a band of mercenaries raids a lighthouse. Is this just a plot
 against trade with Mulmaster, or something more sinister? Journey down the River Lis and explore
@@ -5983,8 +6286,10 @@ An eight hour adventure for 5th-10th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Old Enemies Arise
+### Old Enemies Arise
+
 https://www.dmsguild.com/product/230005/CCCSFBay0201-Old-Enemies-Arise?affiliate_id=925821
+
 Informacje o przygodzie
 The alliance between Thay and Mulmaster is stronger than ever, and this does not sit well with
 some of the neighboring countries; in fact, it appears that one of them is attacking caravans leaving
@@ -5998,8 +6303,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Rise of the Ogre King
+### Rise of the Ogre King
+
 https://www.dmsguild.com/product/250384/CCCSFBay0202-Rise-of-the-Ogre-King?affiliate_id=925821
+
 Informacje o przygodzie
 You have been hired by the Brotherhood of the Cloaks to journey into the heart of desolate Thar.
 Once there you are to negotiate with the oni lord of Fangjaws Hold for the rights to excavate an
@@ -6009,8 +6316,10 @@ A 4-Hour Adventure for 5th-10th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Risen Minotaur Lord
+### The Risen Minotaur Lord
+
 https://www.dmsguild.com/product/250386/CCCSFBay0203-The-Risen-Minotaur-Lord?affiliate_id=925821
+
 Informacje o przygodzie
 An excavation team was sent to unearth the tomb of an ancient minotaur lord in Thar under the
 protection of the Tharkul of Fangjaws Hold. But something went wrong, and an undead army
@@ -6023,8 +6332,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Cornflower Hive
+### The Cornflower Hive
+
 https://www.dmsguild.com/product/232430/CCCSFBAY0401-The-Cornflower-Hive?affiliate_id=925821
+
 Informacje o przygodzie
 What links an infamous Zhentarim mercenary with a brilliant but tormented artificer? To find out,
 the adventurers must break the goblinoid siege of the village of Westfir. After the bizarre goblins are
@@ -6035,8 +6346,10 @@ A D&D Adventurers League four-hour adventure for 1st-4th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Under Earth & Stone
+### Under Earth & Stone
+
 https://www.dmsguild.com/product/232428/CCCSFBAY0402-Under-Earth--Stone?affiliate_id=925821
+
 Informacje o przygodzie
 A Mulmaster refugee named Ani Kuleimatt discovered references to a forgotten mine near the
 Moonsea, a mine rumored to produce an unexpected export. The adventurers are hired to locate the
@@ -6048,8 +6361,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Ashen Scar
+### The Ashen Scar
+
 https://www.dmsguild.com/product/245751/CCCSFBAY0403-The-Ashen-Scar?affiliate_id=925821
+
 Informacje o przygodzie
 The fey hold sway over the forests of Cormanthor. Their presence has kept the goblinoids
 disorganized and warring amongst themselves. Now, a deadly enemy of the woods has laid claim to
@@ -6059,8 +6374,10 @@ name of vengeance. Can you stop them in time?
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-An Open Secret
+### An Open Secret
+
 https://www.dmsguild.com/product/249748/CCCSHINY02-An-Open-Secret?affiliate_id=925821
+
 Informacje o przygodzie
 In a smoky tavern in the frontier town of Ylraphon, a drunken sailor cries in her beer.
 Befriending a group of adventurers, she confesses that she saw her spouse with someone
@@ -6074,8 +6391,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Elusion of Grand Yore
+### Elusion of Grand Yore
+
 https://www.dmsguild.com/product/267114/CCCSHINY04-Elusion-of-Grand-Yore?affiliate_id=925821
+
 Informacje o przygodzie
 A svirfneblin clan elder and arcanist of Lumindearth has gone missing. Courageous adventurers
 have been called upon to bring him home, but they’ll need their wits about them if they are to
@@ -6085,8 +6404,10 @@ A Four‐Hour Adventure for 5th‐10th Level Characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-A Murder Most Foul
+### A Murder Most Foul
+
 https://www.dmsguild.com/product/262840/CCCSKULL0101-A-Murder-Most-Foul?affiliate_id=925821
+
 Informacje o przygodzie
 In the sewers beneath the ruined streets of Mulmaster, a murdered corpse has been found: the
 nephew of a prominent noble. Once great houses are at each other’s throats with accusations as the
@@ -6098,20 +6419,23 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Not All Who Are Lost Should Be Found
-https://www.dmsguild.com/product/262841/CCCSKULL0102-Not-All-Who-Are-Lost-Should-Be-Found?
-affiliate_id=925821
+### Not All Who Are Lost Should Be Found
+
+https://www.dmsguild.com/product/262841/CCCSKULL0102-Not-All-Who-Are-Lost-Should-Be-Found?affiliate_id=925821
+
 Informacje o przygodzie
 An elusive Master Thief claims to have information regarding the murder of a prominent noble’s
-neph¬ew. However, the adventurers must first prove themselves by finding something the Master
+nephew. However, the adventurers must first prove themselves by finding something the Master
 Thief lost.
 A 4-hour adventure for 5th-10th level characters (optimized for 7th level)
 
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Who Pulls the Strings
+### Who Pulls the Strings
+
 https://www.dmsguild.com/product/262844/CCCSKULL0103-Who-Pulls-the-Strings?affiliate_id=925821
+
 Informacje o przygodzie
 Pursuing the murderers of the nephew of a prominent noble house has revealed more than a simple
 random crime. A new group or faction has risen from the ashes and dust from destruction of
@@ -6124,8 +6448,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Woodland Sage
+### The Woodland Sage
+
 https://www.dmsguild.com/product/253547/CCCSQC001-The-Woodland-Sage?affiliate_id=925821
+
 Informacje o przygodzie
 A popular noble just outside the city of Hillsfar is in trouble. He has been poisoned and his niece
 has been kidnapped by a group of outlaw druids who call themselves, the Blackleaf Clan.
@@ -6138,8 +6464,10 @@ A 4-Hour Adventure for 5-10 Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-None the Wiser
+### None the Wiser
+
 https://www.dmsguild.com/product/253561/CCC--SQC--02--01-None-the-Wiser?affiliate_id=925821
+
 Informacje o przygodzie
 A lot has changed in Hillsfar since the assault of the Dark Feys from the Cormanthor Forest. Due to
 limited options, First Lord Vuhm Yestral accepted an offer for aid from the Red Wizards of Thay,
@@ -6153,8 +6481,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Last Gasp
+### Last Gasp
+
 https://www.dmsguild.com/product/253726/CCC--SQC--02--02-Last-Gasp?affiliate_id=925821
+
 Informacje o przygodzie
 Thay is turning over a new leaf!
 Their new ambassador to Hillsfar is a specialist in good magic, so the PCs are recruited to assist her
@@ -6163,8 +6493,10 @@ in acquiring good sources of power for her spells. What could go wrong?
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Trouble in the Old City
+### Trouble in the Old City
+
 https://www.dmsguild.com/product/223038/CCCSRCC0101-Trouble-in-the-Old-City?affiliate_id=925821
+
 Informacje o przygodzie
 The town of Ylraphon on the border of the Flooded Forest has been targeted by the yuan-ti. One of
 them has uncovered an ancient ritual to change the people of the area called the Old City into their
@@ -6176,9 +6508,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Down the River of Snakes
-https://www.dmsguild.com/product/223039/CCCSRCC0102-Down-the-River-of-Snakes?
-affiliate_id=925821
+### Down the River of Snakes
+
+https://www.dmsguild.com/product/223039/CCCSRCC0102-Down-the-River-of-Snakes?affiliate_id=925821
+
 Informacje o przygodzie
 The yuan-ti have a demented scheme to bring the most vulnerable denizens of the small town of
 Ylraphon under their sway. Can the adventurers traverse the Flooded Forest, one of the most
@@ -6188,9 +6521,10 @@ fanatical priest?
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Altar of the Smoldering Eye
-https://www.dmsguild.com/product/223041/CCCSRCC0103-Altar-of-the-Smoldering-Eye?
-affiliate_id=925821
+### Altar of the Smoldering Eye
+
+https://www.dmsguild.com/product/223041/CCCSRCC0103-Altar-of-the-Smoldering-Eye?affiliate_id=925821
+
 Informacje o przygodzie
 A fanatical priest nears completion of an ancient ritual that will transform the residents of
 Ylraphon’s Old City into yuan-ti. It has been revealed that he hides in a ruined temple in the
@@ -6201,8 +6535,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Red War: Embassy of Evil
+### Red War: Embassy of Evil
+
 https://www.dmsguild.com/product/252239/CCCST21-Red-War-Embassy-of-Evil?affiliate_id=925821
+
 Informacje o przygodzie
 That which must remain lost has been discovered.
 As magic rains down upon Mulmaster and the city falls to ruin, deep within the inner sanctum of
@@ -6213,8 +6549,10 @@ A 4-hour adventure for 5th-10th level characters set in Mulmaster during the eve
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Barrows of Solina
+### The Barrows of Solina
+
 https://www.dmsguild.com/product/241068/CCCSTORM01-The-Barrows-of-Solina?affiliate_id=925821
+
 Informacje o przygodzie
 Zhentarim traders. Shadowy figures roaming the fields near Hillsfar. How do these all relate?
 Everything traces back to the recently unearthed grave-barrows. Rescuing a caravan from undead
@@ -6226,9 +6564,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Swamp of Sorrow: Bloodpurge Village
-https://www.dmsguild.com/product/271604/CCCSTORM02-Swamp-of-Sorrow-Bloodpurge-Village?
-affiliate_id=925821
+### Swamp of Sorrow: Bloodpurge Village
+
+https://www.dmsguild.com/product/271604/CCCSTORM02-Swamp-of-Sorrow-Bloodpurge-Village?affiliate_id=925821
+
 Informacje o przygodzie
 Bloodpurge, a bayou village in the Flooded Forest, has come under siege by malevolent powers.
 Many hunters in this shanty-town have gone missing. Desperate folk murmur rumors of evil lurking
@@ -6238,8 +6577,10 @@ A Two/Four-Hour Adventurer's League Adventure for Tier 2 Characters. Optimized f
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Dawn of the Raven Lord
+### Dawn of the Raven Lord
+
 https://www.dmsguild.com/product/257960/CCCSVH0101-Dawn-of-the-Raven-Lord?affiliate_id=925821
+
 Informacje o przygodzie
 Barbarian Raids have been disrupting life in the farms outside the mining town of Glister. Thrusk
 Tharmuil, the town’s elder has determined that the forces of the Glister are incapable of stopping
@@ -6251,8 +6592,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Raven Lord’s Aerie
+### Raven Lord’s Aerie
+
 https://www.dmsguild.com/product/257963/CCCSVH0102-Raven-Lords-Aerie?affiliate_id=925821
+
 Informacje o przygodzie
 Raids by the forces of the Raven Lord Attatarxes have taken their toll on the villages near Glister.
 Having finally gained an upper hand in repelling a raid, Thrusk Tharmuil seeks aid in taking the
@@ -6261,8 +6604,10 @@ fight to the Raven Lord.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Vault of the Raven Lord
+### Vault of the Raven Lord
+
 https://www.dmsguild.com/product/257962/CCCSVH0103-Vault-of-the-Raven-Lord?affiliate_id=925821
+
 Informacje o przygodzie
 After sabotaging the Raven Lord’s Aerie Thrusk Tharmuil prepares to send an expedition to attempt
 to eliminate Attatarxes once and for all.
@@ -6272,8 +6617,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Awekening of Fates
+### Awekening of Fates
+
 https://www.dmsguild.com/product/246844/CCCTAROT0101-Awakening-of-Fates?affiliate_id=925821
+
 Informacje o przygodzie
 The food shortages in Thentia have gotten worse. THe crops aren't producing as much, and with the
 Harvest Festival approaching, the government of Thentia is seeking people to investigate the
@@ -6284,9 +6631,10 @@ A Two-Hour Adventure for 1st-4th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-By the Light of the Moon
-https://www.dmsguild.com/product/246352/CCCTAROT0102-By-the-Light-of-the-Moon?
-affiliate_id=925821
+### By the Light of the Moon
+
+https://www.dmsguild.com/product/246352/CCCTAROT0102-By-the-Light-of-the-Moon?affiliate_id=925821
+
 Informacje o przygodzie
 Storms batter Thentia and the rains are threatening to wash away what little farm land is available.
 But these are not the only storms to threaten the peace as various powers wage a quiet struggle
@@ -6298,8 +6646,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-A Martyred Heart
+### A Martyred Heart
+
 https://www.dmsguild.com/product/246073/CCCTAROT0103-A-Martyred-Heart?affiliate_id=925821
+
 Informacje o przygodzie
 As Thentia’s lighthouse grows dim so too does faith within the city. In the midst of this a priest of
 Ilmater has been accused of a heinous crime. But is this really the truth of the matter, or are we all
@@ -6309,8 +6659,10 @@ A 2-hour adventure for 1st - 4th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Tangled Woods
+### Tangled Woods
+
 https://www.dmsguild.com/product/250268/CCCTAROT0104-Tangled-Woods?affiliate_id=925821
+
 Informacje o przygodzie
 The normally joyous festival of Highharvestide fast approaches the Moonsea but denizens of
 Thentia are not celebrating. Thanks to recent bad harvests along the River Thent and an increasingly
@@ -6324,8 +6676,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Lost Apprentice
+### The Lost Apprentice
+
 https://www.dmsguild.com/product/251826/CCCTarot0105-The-Lost-Apprentice?affiliate_id=925821
+
 Informacje o przygodzie
 The Council of Mages has recently sent a young apprentice out to investigate the strange
 disturbances that have beset Thentia. It has been several weeks and he has not yet reported back. Is
@@ -6335,8 +6689,10 @@ A Two-Hour Adventure for 1st-4th Level Characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Lies in the Moonlight
+### Lies in the Moonlight
+
 https://www.dmsguild.com/product/251831/CCCTAROT0106-Lies-in-the-Moonlight?affiliate_id=925821
+
 Informacje o przygodzie
 Love, loss, and lies intertwine as the election of a new WatchLord approaches in Thentia. Political
 intrigue runs rampant and the lives of several young women are in danger as the Fates draw you in
@@ -6347,8 +6703,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Seat of the Ruler
+### The Seat of the Ruler
+
 https://www.dmsguild.com/product/251835/CCCTAROT0107-The-Seat-of-the-Ruler?affiliate_id=925821
+
 Informacje o przygodzie
 Election time in Thentia is here! With the recent, strange events surrounding Thentia, there is a
 tense contest for the seat of Watchlord of Thentia. The town has divided itself into factions
@@ -6360,8 +6718,10 @@ A Four Hour Adventurer's League Legal Adventure for 1st to 4th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-A Sunk Cost
+### A Sunk Cost
+
 https://www.dmsguild.com/product/273101/CCCTAROT0201-A-Sunk-Cost?affiliate_id=925821
+
 Informacje o przygodzie
 With the election of a new Watchlord, Thentia’s will has been made clear: the infected must be kept
 from the healthy. Great walls now cut off the Harbor District from the rest of Thentia where the
@@ -6373,9 +6733,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Beneth the Surface
-https://www.dmsguild.com/product/223663/CCCTHENT0101-Beneath-the-Surfacehttp:/
-www.dmsguild.com/product/223041/CCCSRCC0103-Altar-of-the-Smoldering-Eye?affiliate_id=925821
+### Beneath the Surface
+
+https://www.dmsguild.com/product/223663/CCCTHENT0101-Beneath-the-Surface
+
 Informacje o przygodzie
 Steam has been rising from ruins east of the city of Thentia for almost two tendays. Scouts and
 adventurers have gone to investigate, but have not returned. What might be lurking in the depths of
@@ -6385,9 +6746,10 @@ A 2-hour adventure for 1st-4th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Those That Dwell Beneath
-https://www.dmsguild.com/product/223665/CCCTHENT0102-Those-That-Dwell-Beneath?
-affiliate_id=925821
+### Those That Dwell Beneath
+
+https://www.dmsguild.com/product/223665/CCCTHENT0102-Those-That-Dwell-Beneath?affiliate_id=925821
+
 Informacje o przygodzie
 In ruins near the city of Thentia, grungs have been trying to build a portal where they could move
 slaves in secret from the city of Melvaunt. But something sinister took hold of them, trapping them
@@ -6400,8 +6762,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Dreaming Relic
+### The Dreaming Relic
+
 https://www.dmsguild.com/product/223667/CCCTHENT0103-The-Dreaming-Relic?affiliate_id=925821
+
 Informacje o przygodzie
 The call of fame and fortune has led the adventurers into the deep dark beneath the ruins near the
 city of Thentia. Facing off against unknown horrors, they have found both enemies and allies. Now,
@@ -6411,9 +6775,10 @@ A 4-hour adventure for 1st-4th level characters.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Into the Darkness
-https://www.dmsguild.com/product/221775/CCCTRI01-Into-the-Darkness-Part-One-of-the-Yulash-Series?
-affiliate_id=925821
+### Into the Darkness
+
+https://www.dmsguild.com/product/221775/CCCTRI01-Into-the-Darkness-Part-One-of-the-Yulash-Series?affiliate_id=925821
+
 Informacje o przygodzie
 As Faerûn recovers from the demon threat, a prominent leader goes missing. Is this
 a simple rescue mission, or is there more at stake?
@@ -6424,10 +6789,9 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Impression Left Behind
+### Impression Left Behind
 
-https://www.dmsguild.com/product/227696/CCCTRI02-Impression-Left-Behind-Part-Two-of-the-Yulash-
-Series?affiliate_id=925821
+https://www.dmsguild.com/product/227696/CCCTRI02-Impression-Left-Behind-Part-Two-of-the-Yulash-Series?affiliate_id=925821
 
 Informacje o przygodzie
 Elanil Elassidil’s successful recovery brings dire news, and only enough to raise the fears of all. On
@@ -6438,9 +6802,10 @@ This is a Tier 3 (APL 13) Adventurer's League legal adventure set in a small tow
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Fences and Swords
-https://www.dmsguild.com/product/239621/CCCTRI03-Fences-and-Swords-Part-One-of-the-RocSlide-?
-affiliate_id=925821Series?affiliate_id=925821
+### Fences and Swords
+
+https://www.dmsguild.com/product/239621/CCCTRI03-Fences-and-Swords-Part-One-of-the-RocSlide-?affiliate_id=925821Series?affiliate_id=925821
+
 Informacje o przygodzie
 The Northern Moonsea region has recently been plagued by a mysterious pirate ship, which is
 seemingly able to appear without warning and then simply vanish. Instilling fear, and beginning to
@@ -6453,10 +6818,9 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Birds of a Feather
+### Birds of a Feather
 
-https://www.dmsguild.com/product/239652/CCCTRI04-Birds-of-a-Feather-Part-Two-of-the-RocSlide-
-Series?affiliate_id=925821
+https://www.dmsguild.com/product/239652/CCCTRI04-Birds-of-a-Feather-Part-Two-of-the-RocSlide-Series?affiliate_id=925821
 
 Informacje o przygodzie
 The ship plaguing the Northern Moonsea region, Merchant Lords’ Folly, is unable to hide anymore.
@@ -6467,8 +6831,10 @@ This is a Tier 2 (APL 8) Adventurer's League legal adventure set near Melvaunt.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Hunt of Malar
+### Hunt of Malar
+
 https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle?affiliate_id=925821
+
 Informacje o przygodzie
 Mulmaster has seen better days, though it is slowly rebuilding with the help of the Thayans, and
 anyone willing. Rumors have begun to spread of farmsteads being ransacked, their owners being
@@ -6480,8 +6846,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Haggard Heroes
+### Haggard Heroes
+
 https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle?affiliate_id=925821
+
 Informacje o przygodzie
 The Glacier of the White Worm’s innermost mysteries have always been elusive, but with hag plans
 unfolding the glacier has taken a turn for the worse. Adventurers must brave the ice and learn of
@@ -6490,8 +6858,10 @@ experiments that bring an ever-growing danger to Mulmaster, and the Moonsea at l
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Beneath the Moonsea
+### Beneath the Moonsea
+
 https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle?affiliate_id=925821
+
 Informacje o przygodzie
 Trade to the city of Mulmaster has all been severed due to the destruction of the Bay.
 Reconstruction has been hampered by the wrath of Umberlee. To assuage her anger, a new shrine
@@ -6503,8 +6873,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Dreadful Wail
+### Dreadful Wail
+
 https://www.dmsguild.com/product/258089/TRI-Nightmare-Series-Bundle?affiliate_id=925821
+
 Informacje o przygodzie
 Mulmaster scrambles to defend itself, as news spreads up the River Lys of a fog-like leviathan
 barreling towards them! The heroes must pull together any available resources, and then repel this
@@ -6513,10 +6885,9 @@ beast before it breaks the town and any chance for a future.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Tinhammer Falls
+### Tinhammer Falls
 
-https://www.dmsguild.com/product/251688/CCCTRI09-Tinhammer-Falls-Prelude-to-the-Beholder-Corps-
-series?affiliate_id=925821
+https://www.dmsguild.com/product/251688/CCCTRI09-Tinhammer-Falls-Prelude-to-the-Beholder-Corps-series?affiliate_id=925821
 
 Informacje o przygodzie
 A sleepy little mining town in the Dragonspine Mountains has enjoyed the peace and quiet of their
@@ -6529,9 +6900,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Contact
-https://www.dmsguild.com/product/262639/CCCTRI10-Contact-Part-One-of-the-Beholder-Corps-Series?
-affiliate_id=925821
+### Contact
+
+https://www.dmsguild.com/product/262639/CCCTRI10-Contact-Part-One-of-the-Beholder-Corps-Series?affiliate_id=925821
+
 Informacje o przygodzie
 A beholder tyrant ship crashed into the Dragonspine Mountains many years ago. Three beholders
 survived and found a home in Mulmaster. A recent archaeological dig may have discovered the
@@ -6543,9 +6915,10 @@ ravine in the Dragonspine Mountains.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Flooded Dreams
-https://www.dmsguild.com/product/262922/CCCTRI11-Flooded-Dreams-Part-One-of-the-Olma-Series?
-affiliate_id=925821
+### Flooded Dreams
+
+https://www.dmsguild.com/product/262922/CCCTRI11-Flooded-Dreams-Part-One-of-the-Olma-Series?affiliate_id=925821
+
 Informacje o przygodzie
 With a hag coven bringing destruction and ruin to the city of Mulmaster, its leaders send an
 expedition into the Flooded Forest to learn of its secrets. Old notes speak of the coven’s original
@@ -6558,9 +6931,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Ill Met in Ylraphon
-https://www.dmsguild.com/product/262924/CCCTRI12-Ill-Met-in-Ylraphon-Part-Two-of-the-Olma-Series?
-affiliate_id=925821
+### Ill Met in Ylraphon
+
+https://www.dmsguild.com/product/262924/CCCTRI12-Ill-Met-in-Ylraphon-Part-Two-of-the-Olma-Series?affiliate_id=925821
+
 Informacje o przygodzie
 A behemoth threatens Mulmaster at the direction of a bheur hag named Auntie Olma, but
 intelligence reveals that she has another sinister plot unfolding at the same time. One of her agents
@@ -6573,10 +6947,9 @@ This is a Tier 1 (APL 3) Adventurers League legal adventure set in the town of Y
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-What Lies beneth Ylraphon
+### What Lies beneth Ylraphon
 
-https://www.dmsguild.com/product/262926/CCCTRI13-What-Lies-beneath-Ylraphon-Part-Three-of-the-
-Olma-Series?affiliate_id=925821
+https://www.dmsguild.com/product/262926/CCCTRI13-What-Lies-beneath-Ylraphon-Part-Three-of-the-Olma-Series?affiliate_id=925821
 
 Informacje o przygodzie
 Chasing the mysteries of Auntie Olma has disturbed more powerful forces, and the city of Ylraphon
@@ -6589,10 +6962,9 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Voice in the Night
+### The Voice in the Night
 
-https://www.dmsguild.com/product/245910/CCCTRI14-The-Voice-in-the-Night-Part-Three-of-the-Yulash-
-Series?affiliate_id=925821
+https://www.dmsguild.com/product/245910/CCCTRI14-The-Voice-in-the-Night-Part-Three-of-the-Yulash-Series?affiliate_id=925821
 
 Informacje o przygodzie
 A bizarre sea monster has been spotted near Hillsfar. Strange voices visit people in their dreams.
@@ -6603,10 +6975,9 @@ This is a Tier 3 (APL 13) Adventurers League legal adventure set in Hillsfar.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Dark of the Hive
+### The Dark of the Hive
 
-https://www.dmsguild.com/product/245914/CCCTRI15-The-Dark-of-the-Hive-Part-Four-of-the-Yulash-
-Series?affiliate_id=925821
+https://www.dmsguild.com/product/245914/CCCTRI15-The-Dark-of-the-Hive-Part-Four-of-the-Yulash-Series?affiliate_id=925821
 
 Informacje o przygodzie
 Strange events are occurring near the town of Yûlash—ground tremors originating from an old
@@ -6618,10 +6989,9 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Ph'theev, the Despondent
+### Ph'theev, the Despondent
 
-https://www.dmsguild.com/product/252563/CCCTRI16-Phtheev-the-Despondent-Part-One-of-the-Psionic-
-Menace-Series?affiliate_id=925821
+https://www.dmsguild.com/product/252563/CCCTRI16-Phtheev-the-Despondent-Part-One-of-the-Psionic-Menace-Series?affiliate_id=925821
 
 Informacje o przygodzie
 A new trend is sweeping through the upper crust of Hillsfar nobility. Private menageries—the more
@@ -6633,10 +7003,9 @@ This is a Tier 1 (APL 3) Adventurers League legal adventure set in a mansion out
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Ph'theev, Unbound!
+### Ph'theev, Unbound!
 
-https://www.dmsguild.com/product/252565/CCCTRI17-Phtheev-Unbound-Part-Two-of-the-Psionic-
-Menace-Series?affiliate_id=925821
+https://www.dmsguild.com/product/252565/CCCTRI17-Phtheev-Unbound-Part-Two-of-the-Psionic-Menace-Series?affiliate_id=925821
 
 Informacje o przygodzie
 The flumph cloister is overjoyed to see its member returned, but warns of a psionic menace that
@@ -6649,10 +7018,9 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Pros & Cons
+### Pros & Cons
 
-https://www.dmsguild.com/product/252566/CCCTRI18-Pros--Cons-An-Original-Adventure-by-The-Role-
-Initiative?affiliate_id=925821
+https://www.dmsguild.com/product/252566/CCCTRI18-Pros--Cons-An-Original-Adventure-by-The-Role-Initiative?affiliate_id=925821
 
 Informacje o przygodzie
 Every 200 years, the famous Eastern Moonsea Adventuring Convention takes place in the woods
@@ -6666,10 +7034,9 @@ south of Elmwood.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Dead Men’s Tales
+### Dead Men’s Tales
 
-https://www.dmsguild.com/product/247439/CCCTRI19-Dead-Mens-Tales-Part-One-of-the-Dead-Men-
-Series?affiliate_id=925821
+https://www.dmsguild.com/product/247439/CCCTRI19-Dead-Mens-Tales-Part-One-of-the-Dead-Men-Series?affiliate_id=925821
 
 Informacje o przygodzie
 A call for help is received from Abigail’s Cove: a fishing village located just south of Hulburg.
@@ -6683,9 +7050,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-On the Baron’s Trail
-https://www.dmsguild.com/product/277951/CCCTRI22-On-the-Barons-Trail-Part-One-of-the-Storm-Series?
-affiliate_id=925821
+### On the Baron’s Trail
+
+https://www.dmsguild.com/product/277951/CCCTRI22-On-the-Barons-Trail-Part-One-of-the-Storm-Series?affiliate_id=925821
+
 Informacje o przygodzie
 Following the destruction of the Thunderbound and the Ark of the Mountains, the cloud giant
 known as Baron Rajiram, remains at-large. A lead from the Harpers has brought the party to the city
@@ -6698,9 +7066,10 @@ This is a Tier 3 (APL 13) Adventurer's League legal adventure set near Hulburg.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Sub Rosa
-https://www.dmsguild.com/product/277955/CCCTRI23-Sub-Rosa-Part-Two-of-the-Storm-Series?
-affiliate_id=925821
+### Sub Rosa
+
+https://www.dmsguild.com/product/277955/CCCTRI23-Sub-Rosa-Part-Two-of-the-Storm-Series?affiliate_id=925821
+
 Informacje o przygodzie
 Hot on the trail of Selise Teshwave and Baron Rajiram, the adventurers must enter newly exposed
 mountain excavations in the Galena mountains. Swift action must be taken to prevent the Baron
@@ -6713,9 +7082,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Knight Errand
-https://www.dmsguild.com/product/277957/CCCTRI24-Knight-Errand-Part-Three-of-the-Storm-Series?
-affiliate_id=925821
+### Knight Errand
+
+https://www.dmsguild.com/product/277957/CCCTRI24-Knight-Errand-Part-Three-of-the-Storm-Series?affiliate_id=925821
+
 Informacje o przygodzie
 The fortress moves, slow yet inevitable in its trek across the land of Thar towards the Sword Coast.
 On board are Baron Rajiram and his servant, Selise of Teshwave, and the awoken defenses ready to
@@ -6726,10 +7096,9 @@ fortress, Skyelinjeheim, above the Moonsea north of the city of Hulburg.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Dead Men’s Tresure
+### Dead Men’s Tresure
 
-https://www.dmsguild.com/product/258129/CCCTRI25-Dead-Mens-Treasure-Part-Two-of-the-Dead-Men-
-Series?affiliate_id=925821
+https://www.dmsguild.com/product/258129/CCCTRI25-Dead-Mens-Treasure-Part-Two-of-the-Dead-Men-Series?affiliate_id=925821
 
 Informacje o przygodzie
 A map with an “X marking the spot” has been found in a recently uncovered tomb located in the
@@ -6744,8 +7113,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Tidefall
+### Tidefall
+
 https://www.dmsguild.com/product/278015/CCCTRI29-Tidefall?affiliate_id=925821
+
 Informacje o przygodzie
 Though the Elemental Cults failed in the Dessarin Valley and in Mulmaster, fragments of their
 primordial cults still seek to destroy civilization. An unlikely contact alerts the heroes to impending
@@ -6756,8 +7127,10 @@ This is a Tier 3 (APL 13) Adventurers League legal adventure set in the city of 
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Remnants of a Dream
+### Remnants of a Dream
+
 https://www.dmsguild.com/product/278016/CCCTRI30-Remnants-of-a-Dream?affiliate_id=925821
+
 Informacje o przygodzie
 Heroes of the Realms have risen to stand against several recent events. The schemes of foul villains
 would have caused catastrophe across the lands of Faerûn, had they not been thwarted. And
@@ -6771,8 +7144,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Out of Time
+### Out of Time
+
 https://www.dmsguild.com/product/278017/CCCTRI31-Out-of-Time?affiliate_id=925821
+
 Informacje o przygodzie
 Years ago, a young wizard looked out over the walls of his city and saw a vision in the winds–a
 vision of fire, conquest and glory. Now, his hour of destiny is at hand, and it may well spell disaster
@@ -6782,10 +7157,9 @@ This is a Tier 2 (APL 7) Adventurers League legal adventure set in and around th
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Cask and Caskets
+### Cask and Caskets
 
-https://www.dmsguild.com/product/278018/CCCTRI32-Casks-and-Caskets-Part-One-of-the-DAGGR-
-Series?affiliate_id=925821
+https://www.dmsguild.com/product/278018/CCCTRI32-Casks-and-Caskets-Part-One-of-the-DAGGR-Series?affiliate_id=925821
 
 Informacje o przygodzie
 The refugees of the Zhentarim Ghetto of Mulmaster have been abandoned by the city and its
@@ -6799,10 +7173,9 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Matters of Life and Death
+### Matters of Life and Death
 
-https://www.dmsguild.com/product/278019/CCCTRI33-Matters-of-Life-and-Death-Part-Two-of-the-
-DAGGR-Series?affiliate_id=925821
+https://www.dmsguild.com/product/278019/CCCTRI33-Matters-of-Life-and-Death-Part-Two-of-the-DAGGR-Series?affiliate_id=925821
 
 Informacje o przygodzie
 A known gang from the refugee ghetto of Mulmaster wishes to make a statement at an important
@@ -6813,8 +7186,10 @@ This is a Tier 1 (APL 3) Adventurer's League legal adventure set in they city of
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Blood & Fog
+### Blood & Fog
+
 https://www.dmsguild.com/product/200484/CCCUCON01-Blood--Fog&affiliate_id=925821
+
 Informacje o przygodzie
 Heavy mists have plagued the area around Phlan for weeks, even after the reported death of
 Vorgansharax, the Maimed Virulence. People have been disappearing in those deadly fogs, and
@@ -6827,8 +7202,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Call of the Elvenflow
+### Call of the Elvenflow
+
 https://www.dmsguild.com/product/253816/CCCUK1-Call-of-the-Elvenflow?affiliate_id=925821
+
 Informacje o przygodzie
 Folk tales warn of strange noises from the Cormanthor Forest when winter fogs are thickest and the
 black of night has no shadows to cast. When such noises are heard on a late summer’s afternoon,
@@ -6836,14 +7213,15 @@ perhaps it’s time to turn once again to the old stories?
 
 Call of the Elvenflow is a four-hour adventure for 3-7 characters of level 1-4, balanced for five 1st-
 level characters. It is the first part of the Elvenflow Saga, a series of standalone adventures set on
-
 the banks of the Elvenflow Estuary near the shore of the Moonsea.
 
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Wayward Wives
+### The Wayward Wives
+
 https://www.dmsguild.com/product/253817/CCCUK2-The-Wayward-Wives?affiliate_id=925821
+
 Informacje o przygodzie
 ll winds blow over Wayward. The men drink apart from their wives, while a mysterious traveler
 sows discontent between married couples. The Wayward wives have had enough and are plotting
@@ -6851,7 +7229,6 @@ revenge.
 
 The Wayward Wives is a four-hour adventure for 3-7 characters of level 1-4, balanced for five 3rd-
 level characters. It is the second part of the Elvenflow Saga, a series of standalone adventures set on
-
 the banks of the Elvenflow Estuary near the shore of the Moonsea.
 
 Komentarz
@@ -6859,8 +7236,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-In the Face of Fear
+### In the Face of Fear
+
 https://www.dmsguild.com/product/240678/CCCWWC01-In-the-Face-of-Fear?affiliate_id=925821
+
 Informacje o przygodzie
 A devout priestess of Torm seeks one of three platinum discs once carried by a trio of Banite
 fanatics. To retrieve the item, the characters must travel into the rocky, broken lands of Thar and
@@ -6870,8 +7249,10 @@ A 2-hour adventure for 1st-4th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Dark Waters of Hate
+### Dark Waters of Hate
+
 https://www.dmsguild.com/product/240679/CCCWWC02-Dark-Waters-of-Hate?affiliate_id=925821
+
 Informacje o przygodzie
 A devout priestess of Torm seeks one of three platinum discs once carried by a trio of Banite
 fanatics. To retrieve the item, the characters must sail the Moonsea, journey to its depths, and
@@ -6883,9 +7264,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Tyrant of the Forgotten Forge
-https://www.dmsguild.com/product/240680/CCCWWC03-Tyrant-of-the-Forgotten-Forge?
-affiliate_id=925821
+### Tyrant of the Forgotten Forge
+
+https://www.dmsguild.com/product/240680/CCCWWC03-Tyrant-of-the-Forgotten-Forge?affiliate_id=925821
+
 Informacje o przygodzie
 A devout priestess of Torm seeks one of three platinum discs once carried by a trio of Banite
 fanatics. To retrieve the item, the characters must delve an abandoned dwarven mine and unravel
@@ -6895,8 +7277,10 @@ A 2-hour adventure for 1st-4th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Black Hand
+### The Black Hand
+
 https://www.dmsguild.com/product/240681/CCCWWC04-The-Black-Hand?affiliate_id=925821
+
 Informacje o przygodzie
 A priestess of Torm needs adventurers to travel to Thentia with three platinum discs that once
 belonged to a trio of Banite fanatics. From there, the items are bound for Elturgard, where they can
@@ -6910,8 +7294,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Back to the Burning
+### Back to the Burning
+
 https://www.dmsguild.com/product/260269/CCCWYC11-Back-to-the-Burning?affiliate_id=925821
+
 Informacje o przygodzie
 A priestess of Aumunator has come to the Moonsea from the Anauroch Desert beseeching aid
 against an old and resurgent foe. Her requests for aid so far have been for naught and she knows
@@ -6920,8 +7306,10 @@ time is running out to uncover the machinations at work.
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Where Rock and Fire Meet
+### Where Rock and Fire Meet
+
 https://www.dmsguild.com/product/260270/CCCWYC12-Where-Rock-and-Fire-Meet?affiliate_id=925821
+
 Informacje o przygodzie
 The Cult of Eternal Flame has returned to the Moonsea seeking knowledge left behind at the sites of
 their greatest successes. Armed with a shard of information and a location in the middle of
@@ -6932,8 +7320,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Dawn Heresy
+### The Dawn Heresy
+
 https://www.dmsguild.com/product/260272/CCCWYC13-The-Dawn-Heresy?affiliate_id=925821
+
 Informacje o przygodzie
 A heresy has infiltrated the faithful of Lathander by an enemy thought defeated and now the City of
 Forges might pay the price. The Cult of Eternal Flame’s plan looks to come to fruition; can you stop
@@ -6942,8 +7332,10 @@ a catastrophe of extraplanar proportions?
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Her Dying Wish
+### Her Dying Wish
+
 https://www.dmsguild.com/product/215448/CCCYLRA0101-Her-Dying-Wish
+
 Informacje o przygodzie
 You’ve come to the wild frontier outpost of Ylraphon, a town rebuilt from destruction and now
 ruled by adventurers, to pass on a proud noblewoman’s final wish to her dungeon-raiding heirs. Yet
@@ -6956,8 +7348,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Uneasy Lies the Head
+### Uneasy Lies the Head
+
 https://www.dmsguild.com/product/215484/CCCYLRA0102-Uneasy-Lies-the-Head&affiliate_id=925821
+
 Informacje o przygodzie
 Refugees from Mulmaster have flooded the rough-and-tumble town of Ylraphon. Poverty,
 shortages, overcrowding, and an unnatural heatwave have tempers running high. When a series of
@@ -6970,8 +7364,10 @@ level).
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Bound By Duty
+### Bound By Duty
+
 https://www.dmsguild.com/product/215508/CCCYLRA0103-Bound-By-Duty?affiliate_id=925821
+
 Informacje o przygodzie
 Civil disorder threatens to throw the leaderless town of Ylraphon into chaos. You find respite from
 this political strife when the Chiang Emporium hires you for an escort mission. The task: sail south
@@ -6984,8 +7380,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Tyrant of Orcs
+### Tyrant of Orcs
+
 https://www.dmsguild.com/product/298149/CCCWWC05-Tyrant-of-Orcs
+
 Informacje o przygodzie
 The attempted destruction of three platinum discs called the Tenets of Bane has gone awry,
 releasing the souls of their former owners back into the world of the living. Priestess Malana
@@ -6997,8 +7395,10 @@ A 2-hour adventure for 5th-10th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-The Fear of Fiends
+### The Fear of Fiends
+
 https://www.dmsguild.com/product/298151/CCCWWC06-The-Fear-of-Fiends
+
 Informacje o przygodzie
 The attempted destruction of three platinum discs, called the Tenets of Bane, has gone awry,
 releasing the souls of their former owners back into the world of the living. Priestess Malana
@@ -7012,8 +7412,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-The Icy Hand of Hate
+### The Icy Hand of Hate
+
 https://www.dmsguild.com/product/298152/CCCWWC07-The-Icy-Hand-of-Hate
+
 Informacje o przygodzie
 The attempted destruction of three platinum discs, called the Tenets of Bane, has gone awry,
 releasing the souls of their former owners back into the world of the living. Priestess Malana
@@ -7025,8 +7427,10 @@ A 2-hour adventure for 5th-10th level characters
 Komentarz
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
-Pool of Anihilation
+### Pool of Anihilation
+
 https://www.dmsguild.com/product/298153/CCCWWC08-Pool-of-Annihilation
+
 Informacje o przygodzie
 The platinum discs known as the Tenets of Bane have been reclaimed, and their owners, the
 Servants of Strife, no longer threaten the Moonsea. As the last days of summer rapidly approach,
@@ -7039,8 +7443,10 @@ Brak uwag związanych z prowadzeniem przygody w OPK.
 
 
 
-Weekend at Strahd’s
+### Weekend at Strahd’s
+
 https://www.dmsguild.com/product/290369/Weekend-at-Strahds
+
 Informacje o przygodzie
 Experience this totally wicked two-hour adventure for 3-6 characters levels 5-10 from the
 fantabulous minds of Anthony Joyce and Oliver Clegg!
@@ -7059,8 +7465,11 @@ This tropical drink straight from Chult tastes like mango and bananas. It’s un
 thedancing monkey fruit with just a dash of alcohol. Served with a rainbow umbrella.
 When drank, it replicates the effect of Otto’s Irrestible Dance spell (DC17) on the creature who
 drank it.
-Mountain Brew
+
+### Mountain Brew
+
 https://www.dmsguild.com/product/342016/Mountain-Brew
+
 Informacje o przygodzie
 Is your party brave enough to follow the path in the Spine of The World and to chase after answers
 no one else chose to pursue? Do you want to find out who or what is behind the disappearance of
@@ -7076,8 +7485,10 @@ Magiczne przedmioty zgodnie z przygodą.
 
 
 
-House of Lament
-P ochodzi z Van Richten's Guide to Ravenloft
+### House of Lament
+
+Pochodzi z Van Richten's Guide to Ravenloft
+
 Informacje o przygodzie
 "The House of Lament" is an adventure for a party of four to six 1st-level characters, who will
 advance to at least 3rd level by the adventure's conclusion. The adventure's climax serves as a
@@ -7091,3 +7502,50 @@ jest dla doświadczonych graczy. Przygoda ze względu na wiele potencjalnych tor
 dokładnego przeczytania i położenia nacisku na jasną ekspozycję sytuacji dla graczy. Zdobyte Dark
 Gifts dostępne są tylko w trakcie grania przygody i przestają funkcjonować po opuszczeniu
 Domeny.
+
+## Proces dodawania nowych przygód do katalogu OPK
+
+### Definicja
+
+Przez ilość złota i magicznych przedmiotów spełniających wymagania OPK należy rozumieć maksymalną ilość złota do zdobycia przez pojedynczego gracza za każdą godzinę gry, określoną w tabeli znajdującej się w dokumencie „Zasady bazowe D&D Organized Play Kraków” w sekcji „Skarby” oraz ilość i rzadkość magicznych przedmiotów określoną dla przygód KCC w rozdziale „Zasady tworzenia własnych przygód i nadawania prefiksów przygodom spoza katalogu AL” tego dokumentu.
+
+### Przygoda CCC dopuszczona w rozgrywkach AL ale nie dodana do katalogu OPK
+
+Mistrz Gry chcący poprowadzić przygodę CCC, która została dopuszczona do rozgrywek AL ale nie znajduje się w katalogu OPK powinien zgłosić taką chęć Koordynatorowi. W ramach tego zgłoszenia powinien zamieścić informację, czy dana przygoda wymaga dopasowania do rozgrywek OPK. Najczęściej taka zmiana może być związana z nieodpowiednią rzadkością przedmiotu w przygodzie lub jego brakiem (w nowszych przygodach). W ramach zgłoszenia Mistrz Gry może zaproponować alternatywny przedmiot. Mile widziane są również spostrzeżenia, które mogą być pomocne dla innych prowadzących przygodę, a które nasunęły się w trakcie jej czytania. 
+
+Zgłoszenie następnie podlega zatwierdzeniu przez Koordynatora i jest dodawane do katalogu OPK.
+
+### Przygody publikowane w formie książkowej (tzw. hardcover, HC) dopuszczone do rozgrywek AL
+
+Mistrz Gry chcący dodać przygodę typu HC (w całości lub jej fragment) musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci w taki sposób, aby spełniały one wymagania OPK oraz aby postaci, które ukończyły daną przygodę HC nie odbiegały znacząco pod względem ilości posiadanego złota oraz magicznych przedmiotów od postaci grających pozostałe przygody. Mile widziane są również zalecenia dotyczące prowadzenia poszczególnych rozdziałów. Po opracowaniu wytycznych, Mistrz Gry inicjujący dodanie, prosi o sprawdzenie i zatwierdzenie przygotowanych informacji dwóch innych Mistrzów Gry. Po uzyskaniu tego zatwierdzenia zgłasza chęć dodania przygody HC Koordynatorowi, który po weryfikacji zgłoszenia poddaje je głosowaniu. Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK.
+
+### Własne przygody i przygody spoza katalogu AL
+
+Mistrz Gry chcący dodać przygodę musi opracować wytyczne dotyczące przydzielanego złota, magicznych przedmiotów i awansu postaci (ilość ACP za ukończenie przygody jeśli nie jest określona) w taki sposób, aby spełniały one wymagania OPK. Mile widziane są również zalecenia dotyczące prowadzenia. Po opracowaniu wytycznych, Mistrz Gry inicjujący dodanie, prosi o akceptację Koordynatora a następnie przygotowuje „Sesję 0”, w której powinno uczestniczyć przynajmniej 3 innych, aktywnych MG. Po rozegraniu przygody, Mistrzowie uczestniczący w rozgrywce opiniują jej dodanie pozytywnie lub negatywnie. Mistrz Gry inicjujący dodanie przedstawia informację zwrotną z przeprowadzonej „Sesji 0” Koordynatorowi, który na jej podstawie może poddać dodanie przygody pod głosowanie. Zgłoszenia zatwierdzone zwykłą większością głosów zostają dodane do katalogu OPK.
+
+## Zasady tworzenia własnych przygód i nadawania prefiksów przygodom spoza katalogu AL
+
+Przygody tworzone przez członków społeczności OPK powinny spełniać wymagania dotyczące nagród, które zostały określone poniżej jak również zostać dopuszczone do rozgrywego zgodnie z procesem opisanym w rozdziale „Proces dodawania nowych przygód do katalogu OPK”.
+
+Prefiksy przygód spoza katalogu Adventurers League, które przeszły pomyślnie Sesję 0 oraz uzyskały akceptację Koordynatorów:
+GCC – Guild Created Content – rzeczy z DMs Guild
+KCC – Kraków Created Content – rzeczy tworzone przez społeczność Kraków Organized Play
+OCC – Other Created Content – rzeczy z innych źródeł
+DDIA – Przygody z oficjalnych podręczników nie będące natywnie w Adventurers League
+
+Typowy format kodów i oznaczeń:
+\<Prefiks\>-\<Identyfikator Serii\/Twórcy\>-\<Numer\> Przygody Nazwa Przygody
+Przykładowo:
+KCC-WAWEL-01 Zemsta Złotówy
+GCC-JOYCE-01 Weekend at Strahd’s
+
+### Ilość i rzadkość magicznych przedmiotów w KCC, zależnie od Szczebla i długości:
+
+| Szczebel (Tier) | 2h          | 4h                          |
+|-----------------|-------------|-----------------------------|
+| I               | 1 Uncommon  | 1 Uncommon, max 1 Common    |
+| II              | 1 Rare      | 1 Rare, max 1 Common        |
+| III             | 1 Very Rare | 1 Very Rare, max 1 Uncommon |
+| IV              | 1 Legendary | 1 Legendary, max 1 Rare     |
+
+W przypadku przygód 8h+, nagroda powinna odpowiadać tej w kolumnie "4h" za każde pełne 4h przewidzianego czasu gry.
