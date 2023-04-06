@@ -16,7 +16,8 @@ Każda nowa postać tworzona jest na Poziomie 1. Rasy posiadające stałą umiej
 - Van Richten’s Guide to Ravenloft (**VRGtR**) (pochodzenia tylko samodzielnie, nie jako nakładki)
 - Wild Beyond the Witchlight (**WBtW**)
 - Fizban’s Treasury of Dragons (**FToD**)
-- Mordenkainen Presents: Monsters of the Multiverse (**MotM**) (bez Changelinga i Shiftera)
+- Mordenkainen Presents: Monsters of the Multiverse (**MP:MotM**) (bez Changelinga i Shiftera)
+- Lunar Sorcerer z Dragonlance: Shadow of the Dragon Queen (**D:SotDQ**)
 - Dodatkowo: rasy z **Locathah** Rising, **Tortle** Package, One **Grung** Above
 
 Dopuszczamy zasady opcjonalne:
@@ -38,13 +39,13 @@ HP liczymy zgodnie z zasadami klasy. Przy zdobywaniu kolejnych poziomów nie rzu
 Tabela 1. Wartości modyfikatorów w zależności od atrybutu
 
 | Atrybut | Modyfikator |
-|---|---|
-| 6-7 | -2 |
-| 8-9 | -1 |
-| 10-11 | 0 |
-| 12-13 | +1 |
-| 14-15  | +2 |
-| 16-17 | +3 |
+|:-------:|:-----------:|
+| 6-7     | -2          |
+| 8-9     | -1          |
+| 10-11   | 0           |
+| 12-13   | +1          |
+| 14-15   | +2          |
+| 16-17   | +3          |
 
 Tabela 2. Koszt atrybutów dla metody Point Buy
 
@@ -149,7 +150,8 @@ Wymieniać przedmiot można tylko od adekwatnego Tieru(Uncommon - T1, Rare - T2,
 - Przepisywania zaklęć (tylko Wizard, Warlock, Postać z Ritual Caster Feat)
 Podlega to normalnym zasadom wpisywania zaklęć do księgi. Koszt każdych rozpoczętych 8 godzin to 1 dzień.
 Treningu. Poświęcenie 25 DT i 300 sztuk złota pozwala zdobyć biegłość w nowym języku lub narzędziu.
-- Realizacji Nagród Historii (Story Awards)Niektóre przygody oferują nagrody, do których otrzymania wymagane jest spędzenie odpowiedniej ilości dni wykonując ich warunki.
+- Realizacji Nagród Historii (Story Awards) 
+Niektóre przygody oferują nagrody, do których otrzymania wymagane jest spędzenie odpowiedniej ilości dni wykonując ich warunki.
 - Rzemiosło/Crafting
   - Postać posiadająca biegłość w Herbalism Kit może stworzyć Potion of Healing kosztem 1 DT i 25 gp, Potion of Greater Healing kosztem 3 DT i 50gp, Potion of Superior Healing kosztem 10 DT i 250 gp lub Potion of Supreme Healing kosztem 15 DT i 500 gp.
   - Postać Biegła w Arcana, posiadająca spellsloty i znająca zaklęcie jest w stanie wytworzyć zwój magiczny z tym zaklęciem poświęcając DT i złoto w wysokości wskazanej w Tabeli 3 poniżej. 
