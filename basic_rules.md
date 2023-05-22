@@ -428,4 +428,4 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z Rozdziału 4.4. Zasad Podst
 | Vicious Weapon | placeholder |
 | Weapon of Warning | placeholder |
 
-[^1]Po bardziej szczegółowe wyjaśnienia ,,savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
+[^1]: Po bardziej szczegółowe wyjaśnienia ,,savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
