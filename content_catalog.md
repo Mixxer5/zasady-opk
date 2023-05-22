@@ -491,6 +491,7 @@
 |CCC-YLRA01-02     |II            |4h            |Uneasy Lies the Head                             |
 |CCC-YLRA01-03     |II            |4h            |Bound by Duty                                    |
 |CCC-KUMORI-01-2   |I             |2h            |Wretches                                         |
+|DDHC-TOA-4        |I             |2h            |Cellar of death                                  |
 | Przygody dopuszczone spoza kanonu AL |
 |GCC-JOYCE-01      |II            |2h            |Weekend at Strahd’s                              |
 |KCC-KWIEK-01      |II            |2h            |Mountain Brew                                    |
@@ -1482,7 +1483,8 @@ precious cargo, a tablet bearing secrets of ancient rune magic.
 A Two-Hour Adventure for 5th-10th Level Characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Nagrodę należy podmienić na Mithral Plate, w samej przygodzie występuje nielegalny item - Mithral Splint Mail +1
+
 
 
 
@@ -4102,7 +4104,7 @@ wake of Moander’s rampage through Elmwood, a child is born with miraculous hea
 Lady Elsa has tasked you with investigating this divine coincidence... are you up for the challenge?
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Przygoda nie posiada magicznego przedmiotu jako nagrody, ale oferowany story award jest bardzo dobry- nie należy dodawać magicznego przedmiotu w ramach nagrody.
 
 ### [Broken Blade](https://www.dmsguild.com/product/270401/CCCGAD0101-Broken-Blade?affiliate_id=925821)
 
@@ -6171,7 +6173,7 @@ This is a Tier 1 (APL 1) Adventurers League legal adventure set in in a magical 
 south of Elmwood.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Nie można wymienić Wand of Conducting na inny przedmiot magiczny.
 
 ### [Dead Men’s Tales](https://www.dmsguild.com/product/247439/CCCTRI19-Dead-Mens-Tales-Part-One-of-the-Dead-Men-Series?affiliate_id=925821)
 
@@ -6484,7 +6486,7 @@ and stop him before he causes even more death and destruction?
 A 2-hour adventure for 5th-10th level characters
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Wylosowany był ring of spell storing jako nagroda i od tej pory jest to nagroda za tę przygodę.
 
 ### [The Fear of Fiends](https://www.dmsguild.com/product/298151/CCCWWC06-The-Fear-of-Fiends)
 
@@ -6594,7 +6596,14 @@ A Two-Hour Adventure for 1st-4th Level Characters
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w OPK.
 
+### [Cellar of Death](https://www.dmsguild.com/product/220572/Cellar-of-Death)
 
+**Informacje o przygodzie**
+Something evil is devouring the souls of the living in Chult, but before the characters take on the horrors in Tomb of Annihilation, they must first uncover the death curse’s origin by braving a lich’s tower in the Cloakwood. This introductory adventure is designed for a party of four to six 1st-level characters, who should advance to 2nd level by the adventurer’s conclusion. It is a prelude to Tomb of Annihilation that should take about 2 to 3 hours.
+
+**Komentarz**
+Uwaga 1: w przygodzie nie ma informacji ile ACP/godzin ma ona trwać konkretnie. Ostatecznie stanęło na 2h (DMarcin: "zajęła mi osobiście około 4h")
+Uwaga 2: W przygodzie występuje zarówno uncommon magical item jak i rare cursed item. Ten drugi należy zignorować i nie dawać go graczom jako nagrody. 
 ## Proces dodawania nowych przygód do katalogu OPK
 
 ### Definicja
