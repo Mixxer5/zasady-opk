@@ -66,7 +66,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 [6. Lista możliwych do przekucia broni](#tabela-bronie)
 
-### I. ZASADY PODSTAWOWE<a name="zasadt-podstawowe"></a>
+### I. ZASADY PODSTAWOWE<a name="zasady-podstawowe"></a>
 
 Drugi sezon OPK rozpoczął się 1.08.2022. Cokolwiek wydarzyło się przed tą datą, nie jest istotne na potrzeby sesji drugiego sezonu OPK (w szczególności nie istnieją, więc nie są dopuszczone do rozgrywki postacie, które uczestniczyły w sesjach OPK przed rozpoczęciem 2 sezonu).
 
@@ -140,7 +140,7 @@ Dopuszczalne jest posiłkowanie się tabelą „This Is Your Life" z XGE. Rzuty 
 
 ## 2. Organizacja sesji<a name="organizacja-sesji"></a>
 
-### 2.1. Przygotowanie do sesji<a name="przygotowanie-sesji"></a>
+### 2.1. Przygotowanie do sesji<a name="przygotowanie-do-sesji"></a>
 
 Wszelkie sesje w OPK ogłaszane są na portalu [www.rpgkrakow.pl](http://www.rpgkrakow.pl/) przez Mistrzów Gry, czyli DM-ów (najczęściej też na kanale #ogłaszanie-sesji na discordzie). By uczestniczyć w rozgrywce, należy zarezerwować miejsce na odpowiedniej sesji stworzoną wcześniej postacią. Rozgrywki podzielone są na Szczeble (Tiers), zależne od poziomu postaci graczy, które mogą w nich uczestniczyć:
 
@@ -236,7 +236,7 @@ Przedmioty magiczne pospolite (Common), przedmioty niemagiczne (jeśli przygoda 
 
 W niektórych przygodach można uzyskać tak zwane Nagrody Fabuły (Story Awards), czyli korzyści lub niedogodności nieprzyjmujące (zazwyczaj) postaci materialnej które mogą wpływać na możliwości postaci podczas kolejnych przygód przez nią rozgrywanych i czasu wolnego. Każda z takich nagród ma opisane zasady jej wykorzystania. Nagrody Fabuły powinny być zanotowane w karcie postaci lub karcie postępów, na wypadek pytania o daną nagrodę ze strony Mistrza Gry. Jeśli gracz chce aktywnie wykorzystać nagrodę podczas przygody, powinien się do niej odwołać i przedstawić jej treść (Mistrz Gry prawdopodobnie jej nie zna). Aby wykorzystać Nagrodę Fabuły podczas czasu wolnego, należy po prostu postępować zgodnie z jej treścią.
 
-### 3.4. Negatywne wydarzenia: choroby, klątwy i śmierć postaci.<a name="death"></a>
+### 3.4. Negatywne wydarzenia: choroby, klątwy i śmierć postaci.<a name="smierc"></a>
 
 Poszukiwanie przygód przynosi nie tylko korzyści. Podczas przygód postacie graczy mogą ponieść niekorzystne konsekwencje awanturnictwa. Jeśli postać zostanie w trakcie przygody obłożona klątwą lub popadnie w jakąś chorobę, szczegóły klątwy bądź choroby wyjaśni Mistrz Gry. Zazwyczaj (jeśli DM nie postanowi inaczej) można się uwolnić od choroby lub klątwy rzucając odpowiednie zaklęcie lub korzystając z odpowiedniej usługi rzucania zaklęć.
 
@@ -250,7 +250,7 @@ c) Postać jest martwa i jej ciało nie zostało odzyskane z miejsca śmierci.Od
 
 Postać martwa (nawet nie permanentnie) nie może wykonywać żadnych czynności ani uzyskiwać żadnych zasobów (nawet z nagród DM) z wyjątkiem opłacania usług wskrzeszania i ewentualnie spieniężania ekwipunku na ten cel.
 
-## 4. Rozwój postaci pomiędzy przygodami<a name="rozwoj-miedzy-przygodami"></a>
+## 4. Rozwój postaci pomiędzy przygodami<a name="pomiedzy-przygodami"></a>
 
 ### 4.1. Karta postępów postaci.<a name="logsheet"></a>
 
@@ -337,7 +337,7 @@ Na zasadach analogicznych do przedstawionych w rozdziale 4.4. można przekuć ma
 
 Uwaga! Zasady sezonu 2 w wersji 2 zostały wprowadzone 1.06.2023. Reguły przejściowe, dotyczące postaci, które grały przygody szczebla wyższego niż T1 w sezonie 2 przed 1.06.2023 znajdują się w Zasadach Zaawansowanych (plik z pełnymi zasadami), rozdział 7. Pozostałe postaci sezonu 2 mogą kontynuować grę w OPK bez modyfikacji.
 
-### II. TABELE POMOCNICZE<a name="tabele"></a>
+### II. TABELE POMOCNICZE<a name="tabele-pomocnicze"></a>
 
 ## 1. Tabela zależności poziomu postaci od sumy zdobytych ACP<a name="tabela-poziom-acp"></a>
 
