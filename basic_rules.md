@@ -433,12 +433,11 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z Rozdziału 4.4. Zasad Podst
 | Nazwa broni | Dodatkowe uwagi i ograniczenia |
 | --- | --- |
 | Weapon +1/+2/+3 | Wyjątek 1: Każdą broń można przekuć na broń +1/+2/+3 (z zachowaniem ograniczeń ogólnych) tracąc wszystkie własności magiczne wyjściowej broni i zastępując je odpowiednim bonusem do trafienia i obrażeń. Wyjątek 2: Broń przekuwana na broń +1/+2/+3 może uzyskać cechy _finesse_. |
-| Flame Tongue (shortsword, longsword) | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown i ranged,_ a w wypadku longsworda lub greatsworda również bez cechy _finesse_. Broń docelowa nie może kwalifikować się do użycia z featem Polearm Master (czyli nie może to być też glaive, halberd, pike, quarterstaff).
- |
+| Flame Tongue (shortsword, longsword) | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown i ranged,_ a w wypadku longsworda lub greatsworda również bez cechy _finesse_. Broń docelowa nie może kwalifikować się do użycia z featem Polearm Master (czyli nie może to być też glaive, halberd, pike, quarterstaff).|
 | Javelin of Lightning | Możliwe przekucie na dowolną broń z cechami simple_, thrown._ |
 | Moon-Touched Sword | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown_ i _ranged_, a w wypadku longsworda lub greatsworda również bez cechy _finesse_. |
 | Sword of Wounding | Możliwe przekucie na dowolną broń simple lub martial, bez cech _thrown_ i _ranged_, a w wypadku longsworda lub greatsworda również bez cechy _finesse_. |
-| Vicious Weapon | |
-| Weapon of Warning | |
+| Vicious Weapon | placeholder |
+| Weapon of Warning | placeholder |
 
 [1](#sdfootnote1anc) Po bardziej szczegółowe wyjaśnienia ,,savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
