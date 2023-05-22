@@ -410,21 +410,11 @@ Poniżej znajdują się magiczne przedmioty, które można uzyskać w drodze wym
 
 Przedmiot magiczny, który postać oddaje w wyniku tej wymiany musi być przedmiotem permanentnym i ,,pełnowartościowym'', czyli być w momencie wymiany co najmniej w tak dobrym stanie, jak w momencie jego zdobycia podczas przygody. W szczególności, przedmioty, które normalnie posiadają elementy zużywalne (np. ładunki Gem of Brightness, Wand of Magic Missile, łaty w Robe of Useful Items) powinny mieć ich tyle samo w momencie wymiany, co w momencie uzyskania na przygodzie – w innym wypadku nie nadają się do wymiany.
 
-|
-
- | **Koszt** | **Dodatkowe ograniczenia** |
-| --- | --- | --- |
-| Weapon +1 (dowolny) | Permanentny, pełnowartościowy magiczny przedmiot rzadkości co najmniej uncommon +15 DT
- |
- |
-| Bag of Holding |
-| Decanter of Endless Water |
-| Goggles of Night |
-| Insignia of Claws |
-| Ring of Swimming |
-| Saddle of the Cavalier |
-| Weapon +2 (dowolny) | Permanentny, pełnowartościowy magiczny przedmiot rzadkości co najmniej rare +30 DT + 2000 gp | Poziom postaci – co najmniej 5 |
-| Weapon +3 (dowolny) | Permanentny, pełnowartościowy magiczny przedmiot rzadkości co najmniej very rare +45 DT + 5000 gp | Poziom postaci – co najmniej 11. |
+|                                                                                                                               | Koszt                                                                                            | Dodatkowe ograniczenia                |
+|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------|
+| Weapon +1 Bag of Holding Decanter of Endless Water Goggles of Night Insignia of Claws Ring of Swimming Saddle of the Cavalier | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej uncommon +15 DT          |                                       |
+|     Weapon +2 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej rare +30 DT +2000 gp     |     Poziom postaci – co najmniej 5    |
+|     Weapon +3 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej very rare +45 DT +5000gp |     Poziom postaci – co najmniej 11   |
 
 ## 6. Lista możliwych do przekucia broni
 
