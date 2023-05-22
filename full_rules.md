@@ -78,45 +78,45 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 [1.3. Flavor is free, ale…](#zaawansowane-flavor-ograniczenie)
 
-[2. Zasady zaawansowane: organizacja sesji 22](#_Toc135668608)
+[2. Zasady zaawansowane: organizacja sesji](#zaawansowane-organizacja-sesji)
 
-[2.1. Jakie przygody są rozgrywane w ramach OPK? 22](#_Toc135668609)
+[2.1. Jakie przygody są rozgrywane w ramach OPK?](#zaawansowane-jakie-przygody)
 
-[2.2. Jakich dokładnie zasad używamy podczas sesji? 22](#_Toc135668610)
+[2.2. Jakich dokładnie zasad używamy podczas sesji?](#zaawansowane-dobor-zasad)
 
-[2.3. Poziom trudności przygód i modyfikacje Mistrzów Gry 24](#_Toc135668611)
+[2.3. Poziom trudności przygód i modyfikacje Mistrzów Gry](#zaawansowane-poziom-trudnosci)
 
-[2.4. Minimalne wymagania do rozegrania przygody. 24](#_Toc135668612)
+[2.4. Minimalne wymagania do rozegrania przygody](#zaawansowane-minimalne-wymagania)
 
-[2.5.Tempo rozwoju 24](#_Toc135668613)
+[2.5.Tempo rozwoju](#zaawansowane-tempo-rozwoju)
 
-[2.6. Efekty trwałe wynikające z zaklęć rzuconych przed sesją 25](#_Toc135668614)
+[2.6. Efekty trwałe wynikające z zaklęć rzuconych przed sesją5](#zaawansowane-johny-dispell)
 
-[2.7. Aktywności czasu wolnego podczas przygód 25](#_Toc135668615)
+[2.7. Aktywności czasu wolnego podczas przygód](#zaawansowane-aktywnoscy)
 
-[3. Zasady zaawansowane: nagrody za przygody 25](#_Toc135668616)
+[3. Zasady zaawansowane: nagrody za przygody](#zaawansowane-nagrody)
 
-[3.1. Przydzielanie ACP, DT i złota 25](#_Toc135668617)
+[3.1. Przydzielanie ACP, DT i złota](#zaawansowane-acp-dt-zloto)
 
-[3.2. Przydzielanie przedmiotów 27](#_Toc135668618)
+[3.2. Przydzielanie przedmiotów](#zaawansowane-przydzielanie-przedmiotow)
 
-[3.3. Szczególne zasady dotyczące magicznych przedmiotów 28](#_Toc135668619)
+[3.3. Szczególne zasady dotyczące magicznych przedmiotów](#zaawansowane-magitki)
 
-[3.4. Podmiany i dopisywanie przedmiotów do przygód 28](#_Toc135668620)
+[3.4. Podmiany i dopisywanie przedmiotów do przygód](#zaawansowane-podmiany-przedmiotow)
 
-[4. Zasady zaawansowane: śmierć postaci, odzyskiwanie ciał i wskrzeszenia 29](#_Toc135668621)
+[4. Zasady zaawansowane: śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc)
 
-[5. Zasady zaawansowane: rozwój postaci pomiędzy przygodami 29](#_Toc135668622)
+[5. Zasady zaawansowane: rozwój postaci pomiędzy przygodami](#zaawansowane-miedzy-przygodami)
 
-[6. Mistrzowie Gry (DM) 29](#_Toc135668623)
+[6. Mistrzowie Gry (DM)](#zaawansowane-mg)
 
-[6.1. Jak zostać Mistrzem Gry? 29](#_Toc135668624)
+[6.1. Jak zostać Mistrzem Gry?](#zaawansowane-jak-zostac-mg)
 
-[6.2. Uprawnienia i przywileje Mistrza Gry 29](#_Toc135668625)
+[6.2. Uprawnienia i przywileje Mistrza Gry](#zaawansowane-mg-perks)
 
-[7. Reguły przejściowe: sezon 1 i początek sezonu 2. 30](#_Toc135668626)
+[7. Reguły przejściowe: sezon 1 i początek sezonu 2](#zaawansowane-przejsciowe)
 
-[8. Changelog 30](#_Toc135668627)
+[8. Changelog](#zaawansowane-changelog)
 
 ### I. ZASADY PODSTAWOWE<a name="zasady-podstawowe"></a>
 
@@ -478,7 +478,7 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z [Rozdziału 4.4. Zasad Pods
 | Vicious Weapon | Brak uwag |
 | Weapon of Warning | Brak uwag |
 
-### III. ZASADY ZAAWANSOWANE
+### III. ZASADY ZAAWANSOWANE<a name="zaawansowane"></a>
 
 W tej części zasad znajdują się szczegółowe koncepcje, których znajomość nie jest niezbędna do uczestnictwa w rozgrywkach OPK. Tutaj rozstrzygamy rzadko spotykane lub mniej istotne w typowej rozgrywce kwestie, a także wyjaśniamy, skąd niektóre zasady się biorą. Tutaj również znaleźć można zasady, które są istotne z perspektywy Mistrza Gry – warto je przeczytać, jeśli chcesz znać powody podejmowania przez nich decyzji lub dołączyć do grona Mistrzów Gry.
 
