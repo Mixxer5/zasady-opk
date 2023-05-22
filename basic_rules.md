@@ -128,9 +128,7 @@ Liczbę początkowych HP (Hit Points, Punkty Wytrzymałości) obliczamy zgodnie 
 
 Charakter (alignment) postaci nie może być Neutralny Zły ani Chaotyczny Zły (Neutral Evil/Chaotic Evil). Jeśli kiedykolwiek taki się stanie, postać staje się niegrywalna i nie jest możliwe używanie jej w OPK.
 
-Od rozegrania pierwszej przygody Szczebla 2 (T2), oficjalne imię postaci nie może się zmienić (ze względów organizacyjnych). Poza tym, gracz ma niemal pełną swobodę w kontrolowaniu niemechanicznych aspektów swojej postaci, czyli opisie jej historii, religii, cech charakterystycznych, wyglądu, wieku itp. (o ile to nie jest sprzeczne z innymi regułami i nie jest nastawione wbrew przyjemności z gry pozostałych graczy). Dla dobra klimatu zabawy, prosimy jednak o zachowanie w tym zdrowego rozsądku oraz przynajmniej minimum spójności i zgodności ze światem Faerunu (a przynajmniej z klimatem pseudopóźnośredniowiecznego heroic fantasy z zaawansowaną magią i jawnymi ingerencjami istot nadprzyrodzonych, w tym bóstw)
-# 1
-.
+Od rozegrania pierwszej przygody Szczebla 2 (T2), oficjalne imię postaci nie może się zmienić (ze względów organizacyjnych). Poza tym, gracz ma niemal pełną swobodę w kontrolowaniu niemechanicznych aspektów swojej postaci, czyli opisie jej historii, religii, cech charakterystycznych, wyglądu, wieku itp. (o ile to nie jest sprzeczne z innymi regułami i nie jest nastawione wbrew przyjemności z gry pozostałych graczy). Dla dobra klimatu zabawy, prosimy jednak o zachowanie w tym zdrowego rozsądku oraz przynajmniej minimum spójności i zgodności ze światem Faerunu (a przynajmniej z klimatem pseudopóźnośredniowiecznego heroic fantasy z zaawansowaną magią i jawnymi ingerencjami istot nadprzyrodzonych, w tym bóstw)[^1].
 
 W szczególności, można wybrać Pochodzenie (Background) z podręczników wymienionych w podrozdziale 1.1., a także z kampanii: Baldur's Gate: Descent into Avernus, Curse of Strahd, Tomb of Annihilation, The Wild Beyond the Witchlight, Ghosts of Saltmarsh. Można też wybrać pochodzenie Athlete z Mythic Odyssey of Theros, bądź stworzyć własne w oparciu o zasady z PHB (Personalizacja Pochodzenia/Customize Your Background).
 
@@ -430,4 +428,4 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z Rozdziału 4.4. Zasad Podst
 | Vicious Weapon | placeholder |
 | Weapon of Warning | placeholder |
 
-[1](#sdfootnote1anc) Po bardziej szczegółowe wyjaśnienia ,,savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
+[^1]Po bardziej szczegółowe wyjaśnienia ,,savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
