@@ -92,7 +92,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 [2.6. Efekty trwałe wynikające z zaklęć rzuconych przed sesją5](#zaawansowane-johny-dispell)
 
-[2.7. Aktywności czasu wolnego podczas przygód](#zaawansowane-aktywnoscy)
+[2.7. Aktywności czasu wolnego podczas przygód](#zaawansowane-aktywnosci)
 
 [3. Zasady zaawansowane: nagrody za przygody](#zaawansowane-nagrody)
 
@@ -482,23 +482,23 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z [Rozdziału 4.4. Zasad Pods
 
 W tej części zasad znajdują się szczegółowe koncepcje, których znajomość nie jest niezbędna do uczestnictwa w rozgrywkach OPK. Tutaj rozstrzygamy rzadko spotykane lub mniej istotne w typowej rozgrywce kwestie, a także wyjaśniamy, skąd niektóre zasady się biorą. Tutaj również znaleźć można zasady, które są istotne z perspektywy Mistrza Gry – warto je przeczytać, jeśli chcesz znać powody podejmowania przez nich decyzji lub dołączyć do grona Mistrzów Gry.
 
-## Wstęp. Tworzenie zasad
+## Wstęp. Tworzenie zasad<a name="zaawansowane-wstep"></a>
 
 Podstawowe zasady OPK bazują na regułach ogólnoświatowej organizacji zorganizowanych rozgrywek Dungeons and Dragons: Adventurer's League (AL). Jednakże lata doświadczeń wykazały, że kurczowe trzymanie się reguł AL nie jest dla graczy zadowalające, dlatego zostały opracowane nowe reguły, a nasza organizacja z AL: Kraków zmieniła nazwę na NielegAL, a następnie OPK. W lecie 2022, by ponownie wystartować po pandemii, przeprowadziliśmy kolejną reformę zasad i Wielki Reset, rozpoczynający drugi sezon OPK (na razie nie planujemy trzeciego) i po kilkumiesięcznych testach wreszcie na wiosnę 2023 powstała ich niniejsza wersja – mamy nadzieję, że zbliżona do ostatecznej.
 
 Wszelkie zmiany w zasadach są proponowane przez Mistrzów Gry i przegłosowywane demokratycznie w ich gronie. Typowe głosowanie nad zaproponowaną zasadą lub modyfikacją trwa dwa tygodnie, przy czym może być zakończone jeśli po tygodniu jakaś opcja ma już poparcie bezwzględnej większości DM-ów. Do przyjęcia nowej zasady potrzebna jest większość głosów, więc głosowania z wieloma możliwymi odpowiedziami mogą być rozstrzygane drugą turą z udziałem dwóch najpopularniejszych opcji. Cenna jest dla nas jednak stabilność tych zasad (i możliwe podobieństwo do bazowych zasad DnD), więc jeśli nowy pomysł modyfikacji nie poprawia znacząco doświadczenia naszych graczy raczej go nie wprowadzamy.
 
-## 1. Zasady zaawansowane: tworzenie postaci
+## 1. Zasady zaawansowane: tworzenie postaci<a name="zaawansowane-tworzenie-postaci"></a>
 
-### 1.1. Wybór podręczników źródłowych
+### 1.1. Wybór podręczników źródłowych<a name="zaawansowane-zro"></a>
 
 Często pada pytanie na temat wyboru źródeł tworzenia postaci. W wyniku głosowań powstały pewne wyjątki od reguły, ale zasadą, którą się zazwyczaj kierujemy jest dopuszczanie podręczników i opcji, które odnoszą się do świata Toril, a konkretnie Faerunu, a przynajmniej nie są z nimi wyraźnie sprzeczne. W końcu tam dzieje się zdecydowana większość naszych przygód. Dlatego istoty i koncepcje występujące np. w Eberronie czy Strixhaven raczej nie pasują do sesji OPK. Nie bez znaczenia jest też powszechna opinia, że podręczniki ,,setting specific'' są o wiele słabiej napisane i wykazują się mniejszą dbałością o spójność mechaniczną i fabularną niż podręczniki ,,ogólne'', które dopuszczamy do stosowania OPK.
 
-### 1.2. Postacie nietypowe
+### 1.2. Postacie nietypowe<a name="zaawansowane-zrodla"></a>
 
 Czasem można się natknąć w przygodach OPK na postacie, które naruszają jedną lub więcej z zasad podstawowych tworzenia postaci. Prawdopodobnie jest to postać Mistrza Gry, który poprowadził bardzo wiele sesji w OPK i w ten sposób zasłużył na stworzenie niestandardowej istoty. Niemniej, staramy się, by to były wyjątki, a nie reguły (i nie dawały postaciom Mistrza Gry przewag mechanicznych).
 
-### 1.3. Flavor is free, ale…
+### 1.3. Flavor is free, ale…<a name="zaawansowane-postacie-nietypowe"></a>
 
 Czasem standardowe opisy ras, klas, zaklęć i przedmiotów nie wystarczają, by wyrazić szczególną koncepcję postaci, którą chcemy odgrywać. Dlatego dopuszczona jest zasada znana w szerokim świecie jako „Flavor is free" rozwijana też jako ,,Free of cost, free of consequence". Co to oznacza?
 
@@ -532,9 +532,9 @@ Przykłady niewłaściwego zastosowania zasady _Flavor is Free_:
 
 W razie wątpliwości, warto zawsze skonsultować swoje pomysły ,,dosmaczania'' postaci ze współgraczami i Mistrzem Gry tak, by znaleźć satysfakcjonujące wszystkich rozwiązanie.
 
-## 2. Zasady zaawansowane: organizacja sesji
+## 2. Zasady zaawansowane: organizacja sesji<a name="zaawansowane-organizacja-sesji"></a>
 
-### 2.1. Jakie przygody są rozgrywane w ramach OPK?
+### 2.1. Jakie przygody są rozgrywane w ramach OPK?<a name="zaawansowane-jakie-przygody"></a>
 
 Wykaz dopuszczonych do gry w OPK przygód znajduje się w osobnym dokumencie Katalog Przygód (Content Catalogue) - nie zalecamy graczom zaglądania do niego ze względu na potencjalne spoilery. Większość z nich to oficjalne przygody dopuszczone przez wydawców DnD jako oficjalne scenariusze Adventurer's League, ale zdarzają się tam inne dokumenty, dopuszczone przez Mistrzów Gry OPK po dokładnym przetestowaniu i opracowaniu.
 
@@ -542,7 +542,7 @@ Najbardziej znane kampanie oficjalnie wydane przez autorów DnD 5e (tak zwane ha
 
 W Katalogu Przygód znajdują się modyfikacje przygód, dostosowujące je do prowadzenia w ramach OPK. Każdy DM przed poprowadzeniem przygody ma obowiązek sprawdzić, czy przygoda nie podlega zatwierdzonym modyfikacjom.
 
-### 2.2. Jakich dokładnie zasad używamy podczas sesji?
+### 2.2. Jakich dokładnie zasad używamy podczas sesji?<a name="zaawansowane-dobor-zasad"></a>
 
 Wiele z Zasad OPK, spisanych w tym dokumencie może się wydawać sprzecznymi z podstawowymi regułami DnD. Na przykład lista aktywności czasu wolnego jest zupełnie inna niż w podręcznikach źródłowych, dzielenie zdobyczy z przygód jest w gestii DM, a nie drużyny, nie da się wyrzucić, ani sprzedać posiadanego magicznego przedmiotu itp. Warto jednak zauważyć, że niemal wszystkie z tych zmian dotyczą wydarzeń pomiędzy sesjami i zapewniają, że postacie przychodzące na przygody nie wywracają ich balansu. Staramy się w tych dodatkowych zasadach zrównoważyć dawanie graczom różnych opcji rozwoju postaci z tym, żeby postacie gracze, których nie bawi żmudne „prowadzenie księgowości'' poza sesjami nie były bezużyteczne w porównaniu z tymi, którzy będą z tych opcji korzystać.
 
@@ -577,17 +577,17 @@ Mistrzowie Gry zwykle znają zasady lepiej niż gracze (i mają czasem wiedzę z
 
 W szczególności ostrzegamy przed zrozumiałą pokusą ,,zaskakiwania'' Mistrza Gry i współgraczy podczas rozgrywki niestandardową lub absurdalną konsekwencją zasad (nawet jeśliby to było absolutnie RAW). Zaskoczony DM, jeśli nie słyszał o takim zastosowaniu jakiegoś efektu, będzie podejmował decyzję o jego dopuszczeniu lub zmodyfikowaniu na podstawie swojego odczucia pod wpływem danej chwili, żeby nie marnować czasu sesji i efekt końcowy może być bardzo różny od oczekiwań gracza (nawet jeśli formalnie ma rację). Lepiej o takich nietypowych zagraniach, ważnych dla mechaniki postaci, informować Mistrza Gry przed rozgrywką i przedyskutować z nim potencjalne zastrzeżenia. Jeśli pomysł faktycznie wzbogaca rozgrywkę i jest zgodny z zasadami, zazwyczaj gracz może liczyć nawet, że DM będzie z nim w tej sprawie współpracować.
 
-### 2.3. Poziom trudności przygód i modyfikacje Mistrzów Gry
+### 2.3. Poziom trudności przygód i modyfikacje Mistrzów Gry<a name="zaawansowane-poziom-trudnosci"></a>
 
 Zazwyczaj sam scenariusz sugeruje modyfikacje przebiegu przygody zależne od liczby uczestniczących graczy i średniego poziomu ich postaci. Na przykład na przygodę T1 może przyjść sześć postaci na poziomach:4,4,4,4,3,3 i będą mieli do czynienia z zupełnie innymi przeciwnościami niż drużyna złożona z 3 postaci na poziomach 2,1,1 w tym samym scenariuszu. Jednak warto pamiętać, że ostateczna decyzja na temat wybranego poziomu trudności zależy od Mistrza Gry, który może brać też pod uwagę np. specyfikę danej przygody, doświadczenie graczy, czy stopień optymalizacji postaci, które zostały zgłoszone na sesję. Oczywiście, Mistrzowi Gry nie powinno chodzić o ,,pognębienie'' graczy i ich postaci, ale o postawienie przed nimi wyzwania, którego pokonanie może dawać satysfakcję.
 
 Mistrz Gry ma dużo swobody co do modyfikacji szczegółów fabuły przygody, dopóki nie zmienia głównego celu oraz przeciwności stawianych przed postaciami. Jeśli Mistrz Gry chce modyfikować poziomy trudności konkretnych scen w scenariuszu, zaleca się, by przede wszystkim korzystał ze statblocków, których przygoda dostarcza (żeby uniknąć nieprzewidzianych konsekwencji i nie mylić graczy co do zdolności i oceny zagrożenia ze strony różnych istot). Drobne modyfikacje, typu zmiana liczby przeciwników, nieco inny wybór zaklęć, zmiana taktyki lub ilości HP są dopuszczalne (zwłaszcza, że same przygody często to sugerują). Jak najbardziej można też modyfikować wygląd miejsc, w których odbywa się dane starcie lub inna aktywność. Dużą ostrożność (a najlepiej konsultację z innymi DMami) zalecamy przy dalej posuniętych zmianach, takich jak zastępowanie jednych przeciwników w walce innymi. W żadnym wypadku nie powinno się wprowadzać do przygody kompletnie wymyślonych przez Mistrza Gry przedmiotów i przeciwników, ani znacząco modyfikować podanych w przygodzie statblocków! Należy pamiętać, że OPK ma też funkcję uczenia gry w DnD i potwór spotkany na przygodzie nie powinien znacząco się różnić od oficjalnej wersji.
 
-### 2.4. Minimalne wymagania do rozegrania przygody.
+### 2.4. Minimalne wymagania do rozegrania przygody.<a name="zaawansowane-minimalne-wymagania"></a>
 
 Minimalna liczba uczestników sesji OPK to troje graczy + DM, ale w wyjątkowych przypadkach (np. trzecia osoba odpadła w ostatniej chwili) sesja może się odbyć dla dwóch graczy.
 
-### 2.5.Tempo rozwoju
+### 2.5.Tempo rozwoju<a name="zaawansowane-tempo-rozwoju"></a>
 
 Aby umożliwić tak możliwość szybkiego awansowania na wyższe poziomy, jak i szansę na rozegranie większej ilości gier na danym Szczeblu (Tierze), dostępne są możliwości awansu w różnym tempie. Tempo należy deklarować całemu stołowi przed zanotowaniem rezultatów rozgrywki (a w szczególności rozdziałem magicznych przedmiotów) i adekwatnie dostosować do niego nagrody zdobyte po grze.
 
@@ -597,7 +597,7 @@ b) Połowiczne Tempo: Zdobyte na przygodzie przez postać ACP, złoto i DT dziel
 
 c) Zerowe Tempo: ACP, złoto i DT zdobyte na przygodzie przez postać znikają. Postać nie może zdobyć permanentnych magicznych przedmiotów.
 
-### 2.6. Efekty trwałe wynikające z zaklęć rzuconych przed sesją
+### 2.6. Efekty trwałe wynikające z zaklęć rzuconych przed sesją<a name="zaawansowane-johny-dispell"></a>
 
 Niektóre zaklęcia rzucone podczas jednej sesji mają długoterminowe konsekwencje dla postaci gracza, potencjalnie przeciągające się na inne sesje. Jak zapisaliśmy już w Zasadach Podstawowych: „Gracz, który chce korzystać z takiej możliwości, powinien przygotować listę efektów ciągłych działających na postać wraz ze wszystkimi zmiennymi tych efektów i przedstawić je Mistrzowi Gry przed sesją. DM ma prawo zweryfikować tę listę i wyłączyć dowolne z takich efektów na czas prowadzonej przez niego przygody. Efekty ciągłe, o których DM nie został uprzedzony przed sesją nie mogą być używane podczas sesji. Za wyraźnie udzieloną zgodą DM-a, gracz może też rzucić jakieś zaklęcie (np. Find Familiar) przed rozpoczęciem fabuły przygody, uwzględniając wydanie odpowiednich zasobów."
 
@@ -605,13 +605,13 @@ Brzmi to jak rozwiązanie bardzo zależne od widzimisię Mistrza Gry i tak niest
 
 Minimalnym standardem jest, że przywołane zaklęciami familiary i wierzchowce, o ile nie zginą na jednej sesji mogą być używane na kolejnej (oczywiście, po zgłoszeniu Mistrzowi Gry). Co do innych efektów – lepiej pytać (na przykład w #zasady-opk na naszym discordzie, gdzie można wybadać preferencje konkretnych Mistrzów Gry).
 
-### 2.7. Aktywności czasu wolnego podczas przygód
+### 2.7. Aktywności czasu wolnego podczas przygód<a name="zaawansowane-aktywnosci"></a>
 
 Jeśli przygoda przewiduje czas wolny (np. trzydniową podróż statkiem) to można w tym czasie wykorzystywać DT w zakresie dozwolonym przez Mistrza Gry, ale należy DT za te aktywności odliczyć z zasobów postaci na koniec przygody.
 
-## 3. Zasady zaawansowane: nagrody za przygody
+## 3. Zasady zaawansowane: nagrody za przygody<a name="zaawansowane-nagrody"></a>
 
-### 3.1. Przydzielanie ACP, DT i złota
+### 3.1. Przydzielanie ACP, DT i złota<a name="zaawansowane-acp-dt-zloto"></a>
 
 DM przyznaje ACP i DT za przygodę w następujący sposób:
 
@@ -636,7 +636,7 @@ Jeżeli postacie graczy ominą miejsca, w których możnaby znaleźć nagrody, b
 | 3 | 450 GP |
 | 4 | 4500 GP |
 
-### 3.2. Przydzielanie przedmiotów
+### 3.2. Przydzielanie przedmiotów<a name="zaawansowane-przydzielanie-przedmiotow"></a>
 
 Przygody mogą zakładać, że drużyna wejdzie w posiadanie jednego lub więcej magicznych przedmiotów. W każdym takim wypadku, wyłączając specjalne ograniczenia konkretnych przygód, jedna z postaci będzie mogła zatrzymać dany przedmiot na własność. Aby ustalić kto, Mistrz Gry powinien, po zakończeniu przygody i dla każdego przedmiotu osobno, przejść przez poniższą listę pytań. Przedmioty rzadkości pospolitej (common) nie wliczają się do ilości permanentnych i przy przydzielaniu ignorują ilość permanentnych przedmiotów u graczy.
 
@@ -666,7 +666,7 @@ Na tej samej sesji pojawiła się też Magiczna Ciężka Zbroja. Fighter wyrazi�
 
 ###
 
-### 3.3. Szczególne zasady dotyczące magicznych przedmiotów
+### 3.3. Szczególne zasady dotyczące magicznych przedmiotów<a name="zaawansowane-magitki"></a>
 
 Jeśli magiczny przedmiot zostanie zniszczony (np. Gem of Brightness przestanie być magiczny po zużyciu wszystkich ładunków) to nie liczy się od tego momentu do liczby posiadanych magicznych przedmiotów na potrzeby innych zasad. Jednakże, jeśli niszczenie przedmiotów magicznych, które taką możliwość przewidują, wymagałoby rzucania zaklęć między przygodami (np. Wand of Magic Missile), to zgodnie z zasadami OPK nie można tego robić. Wyjątkiem jest udzielenie wyraźnej zgody przez Mistrza Gry na taką czynność dokonywaną przed przygodą (przy czym często, jak w wypadku Wand of Magic Missile wymagałoby to wydania DT w wysokości równej liczbie wykonywanych rzutów na zniszczenie).
 
@@ -674,13 +674,13 @@ Każda postać gracza posiada pewien limit przedmiotów magicznych do których m
 
 Z przedmiotów, które dają permanentne benefity postaci (np. tome of understanding, manual of golems) można taki bonus otrzymać tylko raz. Ponadto, przedmioty, które dały permanentną korzyść liczą się do posiadanych przez gracza magicznych przedmiotów, nawet jeśli użycie ich spowodowało, że zostały zniszczone. Można permanentnie zrezygnować z tak otrzymanego benefitu (chyba, że byłoby to sprzeczne z jakimś mechanicznym aspektem postaci, np. multiklasą możliwą tylko dzięki atrybutowi podwyższonemu przez ten przedmiot) i wtedy dany przedmiot przestaje się wliczać w posiadane magiczne przedmioty. Tak porzuconego benefitu nie można już odzyskać.
 
-### 3.4. Podmiany i dopisywanie przedmiotów do przygód
+### 3.4. Podmiany i dopisywanie przedmiotów do przygód<a name="zaawansowane-podmiany-przedmiotow"></a>
 
 Niektóre przygody CCC (czyli pisane przez autorów niezależnych) od pewego momentu zaczęły cierpieć w kwestii nagród ze względu na restrykcje, jakie wprowadzili organizatorzy Adventurers League, efektywnie wymuszając oferowanie nagród o rzadkości niżej, niż sugeruje Tier.
 
 Jeżeli Przygoda o kodzie zaczynającym się od CCCnie zawiera jako nagrody magicznego permanentnego przedmiotu właściwego dla danego Szczebla (T1-uncommon, T2-rare, T3-very rare, T4-legendary), lub zawiera przedmiot nielegalny do użytku w OPK (lista tych przedmiotów znajduje się w Katalogu Przygód) DM może zastąpić nagrodę przewidzianą w przygodzie nagrodą o właściwej dla tego Szczbla rzadkości. DM powinien zadbać o tematyczny sens tej zamiany, może zaproponować odpowiedni przedmiot lub go wylosować, natomiast nie jest w żaden sposób ograniczony typem przedmiotu (chyba, że jest to niezbędne z przyczyn fabularnych). By podmiana mogła zostać dokonana, DM powinien przed poprowadzeniem sesji zgłosić taką potrzebę, uzyskać zgodę pozostałych DMów i postarać się o wpisanie tej zmiany do Katalogu Przygód, by ta zamiana obowiązywała DM-ów prowadzących tę przygodę w przyszłości.
 
-## 4. Zasady zaawansowane: śmierć postaci, odzyskiwanie ciał i wskrzeszenia
+## 4. Zasady zaawansowane: śmierć postaci, odzyskiwanie ciał i wskrzeszenia<a name="zaawansowane-smierc"></a>
 
 W celu zwiększenia przyjemości z gry, wprowadzona została opcja przywrócenia do życia postaci, nawet jeśli jej ciało nie zostało odzyskane z miejsca śmierci i dostarczone do odpowiedniego kapłana w trakcie sesji, podczas której postać zginęła.
 
@@ -688,13 +688,13 @@ Podczas następnej sesji, w ramach której rozgrywana jest ta sama przygoda, na 
 
 Przypominamy, że zasoby postaci martwej, w tym jej ekwipunek (z wyjątkiem elementów potrzebnych do wskrzeszenia), są niedostępne dopóki postać nie będzie żywa.
 
-## 5. Zasady zaawansowane: rozwój postaci pomiędzy przygodami
+## 5. Zasady zaawansowane: rozwój postaci pomiędzy przygodami<a name="zaawansowane-miedzy-przygodami"></a>
 
 Zostawiamy miejsce na zasady uzupełniające, jakkolwiek na razie wydaje się, że nie są potrzebne.
 
-## 6. Mistrzowie Gry (DM)
+## 6. Mistrzowie Gry (DM)<a name="zaawansowane-mg"></a>
 
-### 6.1. Jak zostać Mistrzem Gry?
+### 6.1. Jak zostać Mistrzem Gry?<a name="zaawansowane-jak-zostac-mg"></a>
 
 Mistrzem Gry (DMem) OPK jest osoba, która poprowadziła co najmniej jedną sesję w OPK w ciągu ostatniego pół roku. Innymi słowy, można nim zostać, prowadząc sesję w OPK, a przestaje się nim być w wyniku półrocznego braku prowadzenia. Oczywiście, status Mistrza Gry można odzyskać ponownie prowadząc jakąkolwiek sesję OPK.
 
@@ -704,7 +704,7 @@ Gdy przygoda będzie już ogłoszona, nowy DM powienien się zgłosić do koordy
 
 ###
 
-### 6.2. Uprawnienia i przywileje Mistrza Gry
+### 6.2. Uprawnienia i przywileje Mistrza Gry<a name="zaawansowane-mg-perks"></a>
 
 Poza możliwością prowadzenia sesji w OPK, Mistrz Gry ma dwa przywileje:
 
@@ -712,7 +712,7 @@ Poza możliwością prowadzenia sesji w OPK, Mistrz Gry ma dwa przywileje:
 
 - Po drugie, może korzystać z Nagród Mistrzów Gry uzyskiwanych za prowadzenie. Część z nich ma na celu zrekompensowanie Mistrzom Gry tego, że prowadzą zamiast grać i pozwalają na przyznanie ich postaciom łupów z sesji na zasadach symulujących uczestniczenie w nich na zasadach takich jak gracze. Druga część to specjalne nagrody za misje DM oparte na prowadzeniu sesji w sposób, który przynosi najwięcej satysfakcji graczom (np. prowadzenie różnorodnych sesji, zachęcanie do gry nowych graczy, prowadzenie cykli fabularnych i regularność prowadzenia). Nagrody Mistrzów Gry są szczegółowo opisane w osobnym pliku.
 
-## 7. Reguły przejściowe: sezon 1 i początek sezonu 2.
+## 7. Reguły przejściowe: sezon 1 i początek sezonu 2.<a name="zaawansowane-przejsciowe"></a>
 
 Cokolwiek się działo w Krakowskim AL-u, NielegALu lub OPKprzed 1.08.2022, jest uznawane za pierwszy sezon OPK i jest nieważne na potrzeby rozgrywek drugiego sezonu OPK. W szczególności postacie, które wtedy powstały i przygody w których uczestniczyły nie mają wpływu na obecne rozgrywki. Oczywiście, nic nie stoi na przeszkodzie, by stworzyć je od nowa w ramach naszego systemu.
 
@@ -726,7 +726,7 @@ Dlatego ustalono, że:
 
 Obowiązek zwrotu przedmiotu nie dotyczy postaci, które z listy darmowych przedmiotów wzięły przedmiot konsumowalny, niezależnie czy go zużyły, czy nie.
 
-## 8. Changelog
+## 8. Changelog<a name="zaawansowane-changelog"></a>
 
 1.06.2023 – Data wejścia w życie wersji 2.0 zasad z wprowadzeniem reguł przejściowych.
 
