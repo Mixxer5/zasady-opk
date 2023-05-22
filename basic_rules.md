@@ -412,7 +412,13 @@ Przedmiot magiczny, który postać oddaje w wyniku tej wymiany musi być przedmi
 
 |                                                                                                                               | Koszt                                                                                            | Dodatkowe ograniczenia                |
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------|
-| Weapon +1 Bag of Holding Decanter of Endless Water Goggles of Night Insignia of Claws Ring of Swimming Saddle of the Cavalier | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej uncommon +15 DT          |                                       |
+| Weapon +1<br /> 
+Bag of Holding<br /> 
+Decanter of Endless Water<br /> 
+Goggles of Night<br /> 
+Insignia of Claws<br /> 
+Ring of Swimming<br /> 
+Saddle of the Cavalier | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej uncommon +15 DT          |                                       |
 |     Weapon +2 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej rare +30 DT +2000 gp     |     Poziom postaci – co najmniej 5    |
 |     Weapon +3 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej very rare +45 DT +5000gp |     Poziom postaci – co najmniej 11   |
 
