@@ -8,73 +8,73 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 # Spis treści
 
-[I. ZASADY PODSTAWOWE](#_Toc135668346)
+[I. ZASADY PODSTAWOWE](#zasady-podstawowe)
 
-[1. Tworzenie postaci](#_Toc135668347)
+[1. Tworzenie postaci](#tworzenie-postaci)
 
-[1.1 Start](#_Toc135668348)
+[1.1 Start](#start)
 
-[1.2 Atrybuty i HP](#_Toc135668349)
+[1.2 Atrybuty i HP](#atrybuty)
 
-[1.3. Charakter (alignment), pochodzenie (background) i religia](#_Toc135668350)
+[1.3. Charakter (alignment), pochodzenie (background) i religia](#background)
 
-[1.4. Ekwipunek Startowy](#_Toc135668351)
+[1.4. Ekwipunek Startowy](#ekwipunek-startowy)
 
-[2. Organizacja sesji](#_Toc135668352)
+[2. Organizacja sesji](#organizacja-sesji)
 
-[2.1. Przygotowanie do sesji](#_Toc135668353)
+[2.1. Przygotowanie do sesji](#przygotowanie-do-sesji)
 
-[2.2. Rozpoczęcie sesji](#_Toc135668354)
+[2.2. Rozpoczęcie sesji](#rozpoczecie-sesji)
 
-[2.3. Przebieg sesji](#_Toc135668355)
+[2.3. Przebieg sesji](#przebieg-sesji)
 
-[2.4. Zakończenie sesji](#_Toc135668356)
+[2.4. Zakończenie sesji](#zakonczenie-sesji)
 
-[3. Nagrody i inne konsekwencje przygód](#_Toc135668357)
+[3. Nagrody i inne konsekwencje przygód](#nagrody)
 
-[3.1. ACP, czas wolny (DT) i pieniądze](#_Toc135668358)
+[3.1. ACP, czas wolny (DT) i pieniądze](#acp-dt-pieniadze)
 
-[3.2. Nagrody rzeczowe: magiczne i niemagiczne przedmioty](#_Toc135668359)
+[3.2. Nagrody rzeczowe: magiczne i niemagiczne przedmioty](#magitki)
 
-[3.3. Nagrody Fabuły (Story Awards)](#_Toc135668360)
+[3.3. Nagrody Fabuły (Story Awards)](#story-awards)
 
-[3.4. Negatywne wydarzenia: choroby, klątwy i śmierć postaci](#_Toc135668361)
+[3.4. Negatywne wydarzenia: choroby, klątwy i śmierć postaci](#smierc)
 
-[4. Rozwój postaci pomiędzy przygodami](#_Toc135668362)
+[4. Rozwój postaci pomiędzy przygodami](#pomiedzy-przygodami)
 
-[4.1. Karta postępów postaci](#_Toc135668363)
+[4.1. Karta postępów postaci](#logsheet)
 
-[4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług](#_Toc135668364)
+[4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług](#uslugi)
 
-[4.3. Wykorzystanie Czasu Wolnego (Downtime)](#_Toc135668365)
+[4.3. Wykorzystanie Czasu Wolnego (Downtime)](#downtime)
 
-[4.4. Przekuwanie magicznej broni](#_Toc135668366)
+[4.4. Przekuwanie magicznej broni](#przekuwanie-broni)
 
-[4.5. Przekuwanie magicznej amunicji](#_Toc135668367)
+[4.5. Przekuwanie magicznej amunicji](#przekuwanie-amunicji)
 
-[II. TABELE POMOCNICZE](#_Toc135668368)
+[II. TABELE POMOCNICZE](#tabele-pomocnicze)
 
-[1. Tabela zależności poziomu postaci od sumy zdobytych ACP](#_Toc135668369)
+[1. Tabela zależności poziomu postaci od sumy zdobytych ACP](#tabela-poziom-acp)
 
-[2. Usługi rzucania zaklęć między przygodami](#_Toc135668370)
+[2. Usługi rzucania zaklęć między przygodami](#tabela-spellcasting)
 
-[3. Mikstury](#_Toc135668371)
+[3. Mikstury](#tabela-mikstury)
 
-[4. Zwoje](#_Toc135668372)
+[4. Zwoje](#tabela-zwoje)
 
-[5. Lombard ,,Smocza Jama'', czyli lista magicznych przedmiotów na wymianę](#_Toc135668373)
+[5. Lombard ,,Smocza Jama'', czyli lista magicznych przedmiotów na wymianę](#tabela-lombard)
 
-[6. Lista możliwych do przekucia broni](#_Toc135668374)
+[6. Lista możliwych do przekucia broni](#tabela-bronie)
 
-### I. ZASADY PODSTAWOWE
+### I. ZASADY PODSTAWOWE<a name="zasadt-podstawowe"></a>
 
 Drugi sezon OPK rozpoczął się 1.08.2022. Cokolwiek wydarzyło się przed tą datą, nie jest istotne na potrzeby sesji drugiego sezonu OPK (w szczególności nie istnieją, więc nie są dopuszczone do rozgrywki postacie, które uczestniczyły w sesjach OPK przed rozpoczęciem 2 sezonu).
 
-## 1. Tworzenie postaci
+## 1. Tworzenie postaci<a name="tworzenie-postaci"></a>
 
 ###
 
-### 1.1 Start
+### 1.1 Start<a name="start"></a>
 
 Nie da się grać w OPK nie mając utworzonej co najmniej jednej postaci. Można mieć ich dowolnie dużo, choć na każdą sesję można zapisać się tylko jedną. Jeśli jakikolwiek aspekt tworzenia postaci w OPK nie jest jasny, zapraszamy na kanał #tworzenie-postaci na naszym Discordzie.
 
@@ -110,7 +110,7 @@ Zasady opcjonalne i warianty reguł generalnie nie są dopuszczane w rozgrywkach
 
 Uwaga! Wszelkie wybory podjęte przy tworzeniu postaci nie są ostateczne. Do momentu rozegrania pierwszej przygody Szczebla co najmniej 2 (Tier 2), czyli na poziomie co najmniej 5, możliwa jest _przebudowa postaci_. Oznacza to, że bezpośrednio po dowolnej przygodzie Szczebla 1 bez ograniczeń można zmienić prawie wszystkie mechaniczne i fabularne aspekty postaci: imię, wygląd, wiek, charakter ale też rozdział atrybutów, wybór biegłości, wybraną rasę i klasy, zaklęcia i pochodzenie (backgound) – uwzględniając ewentualną zmianę ekwipunku startowego wynikającą ze zmiany klasy i pochodzenia. Nie podlegają natomiast zwrotowi ani nie znikają łupy zdobyte na przygodach i ekwipunek pozyskany pomiędzy nimi. Nie znikają też nagrody za rozegrane przez postać przygody, w szczególności zdobyte Nagrody Fabuły (Story Awards), chyba że warunek ich wykorzystania nie jest spełniany po przebudowie. Nie zmienia się też poziom postaci i wymaganie, by sposób jej stworzenia i awansowania na kolejne poziomy był zgodny z zasadami OPK i DnD. Zmiana powyższych aspektów automatycznie anuluje wszelkie trwające efekty związane z poprzednią wersją postaci, w tym efekty zaklęć, umiejętności klasy itd.
 
-### 1.2 Atrybuty i HP
+### 1.2 Atrybuty i HP<a name="atrybuty"></a>
 
 Atrybuty przydzielić możemy na dwa sposoby: używając Standardowego Zestawu (metoda Standard Array) lub wydając Punkty (metoda Point Buy). Losowanie statystyk nie jest dozwolone.
 
@@ -122,7 +122,7 @@ Po przydzieleniu punktów należy dodać do nich bonusy rasowe, ustalone zgodnie
 
 Liczbę początkowych HP (Hit Points, Punkty Wytrzymałości) obliczamy zgodnie z zasadami klasy postaci. Gdy postać zdobywa kolejne poziomy, nie losujemy liczby uzyskanych HP lecz korzystamy z zasady zwiększania HP o stałą wartość (liczba podana w klasie, której poziom uzyskujemy+modyfikator Constitution).
 
-### 1.3. Charakter (alignment), pochodzenie (background) i religia
+### 1.3. Charakter (alignment), pochodzenie (background) i religia<a name="background"></a>
 
 ###
 
@@ -132,15 +132,15 @@ Od rozegrania pierwszej przygody Szczebla 2 (T2), oficjalne imię postaci nie mo
 
 W szczególności, można wybrać Pochodzenie (Background) z podręczników wymienionych w podrozdziale 1.1., a także z kampanii: Baldur's Gate: Descent into Avernus, Curse of Strahd, Tomb of Annihilation, The Wild Beyond the Witchlight, Ghosts of Saltmarsh. Można też wybrać pochodzenie Athlete z Mythic Odyssey of Theros, bądź stworzyć własne w oparciu o zasady z PHB (Personalizacja Pochodzenia/Customize Your Background).
 
-### 1.4. Ekwipunek Startowy
+### 1.4. Ekwipunek Startowy<a name="ekwipunek-startowy"></a>
 
 Startowy ekwipunek i złoto ustalane są zgodnie z Klasą i Pochodzeniem (Background) postaci. Nie można zastąpić domyślnego ekwipunku startowego losowaniem ilości startowego złota. Można natomiast sprzedać ekwipunek startowy po standardowej cenie, czyli za połowę jego wartości i zakupić dodatkowy ekwipunek z PHB za pełną cenę.
 
 Dopuszczalne jest posiłkowanie się tabelą „This Is Your Life" z XGE. Rzuty na tabele należy wykonać albo przy stole w obecności Mistrza Gry, albo na kanale #tworzenie-postaci lub #online-play na Discordzie przy użyciu bota do rzucania kośćmi.
 
-## 2. Organizacja sesji
+## 2. Organizacja sesji<a name="organizacja-sesji"></a>
 
-### 2.1. Przygotowanie do sesji
+### 2.1. Przygotowanie do sesji<a name="przygotowanie-sesji"></a>
 
 Wszelkie sesje w OPK ogłaszane są na portalu [www.rpgkrakow.pl](http://www.rpgkrakow.pl/) przez Mistrzów Gry, czyli DM-ów (najczęściej też na kanale #ogłaszanie-sesji na discordzie). By uczestniczyć w rozgrywce, należy zarezerwować miejsce na odpowiedniej sesji stworzoną wcześniej postacią. Rozgrywki podzielone są na Szczeble (Tiers), zależne od poziomu postaci graczy, które mogą w nich uczestniczyć:
 
@@ -160,7 +160,7 @@ Minimalne wyposażenie gracza na sesję to karta postaci (i wiedza, jak się ni�
 
 Ogólne zastrzeżenie: językiem domyślnie używanym w OPK, zwłaszcza podczas sesji, jest polsko-angielski, czyli generalnie porozumiewamy się po polsku, ale znaczna część terminologii gry np. nazwy zaklęć najczęściej przekazywane są po angielsku. W wypadku jakichkolwiek nieporozumień, warto prosić o tłumaczenie danego pojęcia.
 
-### 2.2. Rozpoczęcie sesji.
+### 2.2. Rozpoczęcie sesji<a name="rozpoczecie-sesji"></a>
 
 Na początku sesji Mistrz Gry zbiera informacje o grających postaciach. Mistrz Gry określa też ostatecznie (jeśli to nie było określone do tej pory) rozgrywaną przygodę, planowany czas trwania sesji (w przyznanych maksymalnych ACP – wyjaśnienie tego skrótu później).
 
@@ -186,7 +186,7 @@ Bardziej zaawansowane w rozwoju postaci za zgodą DM-a mogą podlegać efektom z
 
 Początek sesji to też dobry moment na poinformowanie Mistrza Gry o wszelkich nietypowych przedmiotach posiadanych przez postać i dopytanie o wszystkie wątpliwości mechaniczne oraz stosowane przez DM interpretacje zasad istotnych dla postaci, które są niejednoznaczne.
 
-### 2.3. Przebieg sesji
+### 2.3. Przebieg sesji<a name="przebieg-sesji"></a>
 
 W OPK sesje prowadzone są na zasadach 5 edycji Dungeons and Dragons, bez modyfikowania zasad zapisanych w podręcznikach (tzw. _rules as written_, czyli RAW). Szczegóły na temat tego, co dokładnie rozumiemy przez RAW, można znaleźć w Zasadach Zaawansowanych (w osobnym pliku).
 
@@ -198,7 +198,7 @@ Niedopuszczalne jest samowolne ingerowanie w stan posiadania innych postaci. Pod
 
 Tym bardziej niedozwolone są działania sabotujące cele drużyny lub otwarcie szkodliwe dla innych postaci (bez wyraźnej zgody ich i DMa). Jeśli gracz (lub jego postać) działa przeciwko innym graczom/ich postaciom lub zachowuje się agresywnie, może być decyzją Mistrza Gry ukarany za takie zachowanie: od wyproszenia ze stolika przez kasację postaci aż do permanentnego wyłączenia takiego gracza z grona OPK.
 
-### 2.4. Zakończenie sesji
+### 2.4. Zakończenie sesji<a name="zakonczenie-sesji"></a>
 
 Mistrz Gry wyznacza moment zakończenia przygody oraz to, w jakim stopniu zakończyła się ona sukcesem drużyny (czyli jakie cele zostały przez drużynę osiągnięte). Informuje też o nagrodach, które postacie zdobyły na sesji (opis nagród w kolejnym rozdziale). Zazwyczaj nagrody (z wyjątkiem ,,rzeczowych'', czyli przedmiotów) dzielone są możliwie po równo, ale DM może podjąć inną decyzję w tej kwestii na podstawie wydarzeń na sesji.
 
@@ -206,7 +206,7 @@ Najpóźniej w momencie przydzielania nagród, gracze mogą podjąć decyzję na
 
 Efekty przygody powinny zostać zanotowane w karcie postępów postaci (patrz podrozdział 4.1) przez jej właściciela.
 
-## 3. Nagrody i inne konsekwencje przygód
+## 3. Nagrody i inne konsekwencje przygód<a name="nagrody"></a>
 
 Postacie otrzymują nagrody z sesji w formie opisanej przez Mistrza Gry podczas jej zakończenia. Najczęściej są to: Punkty Postępu, czyli ACP (Advancement Checkpoints), Czas Wolny, czyli DT (downtime), pieniądze, magiczne i niemagiczne przedmioty oraz Nagrody Fabuły (Story Awards). W tym rozdziale po kolei omówimy te nagrody i ich zastosowania, a także negatywne konsekwencje przygód, które mogą dotknąć postaci.
 
@@ -214,7 +214,7 @@ Jeśli Mistrz Gry nie zaznaczy inaczej, wszelkie nagrody z sesji nie muszą być
 
 ###
 
-### 3.1. ACP, czas wolny (DT) i pieniądze
+### 3.1. ACP, czas wolny (DT) i pieniądze<a name="acp-dt-pieniadze"></a>
 
 Po każdej rozegranej sesji postać gracza zdobywa Punkty Postępu (Advancement Checkpoints, ACP) w wysokości wskazanej przez Mistrza Gry, w zależności od stopnia sukcesu w realizacji celów przygody. Zazwyczaj wszystkie postaci graczy na przygodzie otrzymują taką samą liczbę ACP, ale Mistrz Gry może zdecydować inaczej, w szczególności gdy jedna z postaci nie uczestniczyła w części przygody istotnej dla osiągnięcia celu (odłączyła się od drużyny, była nieprzytomna itp.). Szczegółowe kryteria, którymi powinien się kierować Mistrz Gry przy przyznawaniu ACP można znaleźć w Zasadach Zaawansowanych.
 
@@ -224,7 +224,7 @@ Czas Wolny (Downtime) przyznawany jest każdej postaci automatycznie razem z ACP
 
 Mistrz Gry decyduje również o ilości złota otrzymanego przez postaci graczy, zgodnie z Zasadami Zaawansowanymi. Podobnie jak w przypadku ACP, zazwyczaj zdobyte złoto jest dzielone między postacie po równo choć w wyjątkowych wypadkach Mistrz Gry może zdecydować inaczej.
 
-### 3.2. Nagrody rzeczowe: magiczne i niemagiczne przedmioty
+### 3.2. Nagrody rzeczowe: magiczne i niemagiczne przedmioty<a name="magitki"></a>
 
 Nagrodą w przygodzie często jest jeden lub więcej magicznych przedmiotów. O ich podziale pomiędzy postacie graczy decyduje Mistrz Gry, według zasad szczegółowo opisanych w części III pliku Zasady Pełne. Generalną zasadą jest, że pierwszeństwo w uzyskaniu przedmiotu mają postacie, które mogą danego przedmiotu używać. Dodatkową regułą w wypadku permanentnych (czyli nie jednorazowego użytku) magicznych przedmiotów, o rzadkości co najmniej uncommon, jest, że pierwszeństwo w otrzymaniu takiego przedmiotu mają postacie, które posiadają takich przedmiotów mniej, niezależnie czy te przedmioty zostały zabrane na przygodę, czy nie (dlatego należy zawsze pamiętać o liczbie permanentnych przedmiotów magicznych o rzadkości co najmniej uncommon przypisanych do postaci – Mistrz Gry może potrzebować tej informacji).
 
@@ -232,11 +232,11 @@ Uwaga! Magicznych przedmiotów, za wyjątkiem tych, które zgodnie z zasadami Dn
 
 Przedmioty magiczne pospolite (Common), przedmioty niemagiczne (jeśli przygoda przewiduje możliwość ich zatrzymania, zamiast sprzedaży) oraz przedmioty jednorazowego użytku (np. mikstury, zwoje) nie wliczają się do ilości permanentnych przedmiotów magicznych i przy ich przydzielaniu jako nagród rzeczowych stan posiadania nie jest istotny.
 
-### 3.3. Nagrody Fabuły (Story Awards)
+### 3.3. Nagrody Fabuły (Story Awards)<a name="story-awards"></a>
 
 W niektórych przygodach można uzyskać tak zwane Nagrody Fabuły (Story Awards), czyli korzyści lub niedogodności nieprzyjmujące (zazwyczaj) postaci materialnej które mogą wpływać na możliwości postaci podczas kolejnych przygód przez nią rozgrywanych i czasu wolnego. Każda z takich nagród ma opisane zasady jej wykorzystania. Nagrody Fabuły powinny być zanotowane w karcie postaci lub karcie postępów, na wypadek pytania o daną nagrodę ze strony Mistrza Gry. Jeśli gracz chce aktywnie wykorzystać nagrodę podczas przygody, powinien się do niej odwołać i przedstawić jej treść (Mistrz Gry prawdopodobnie jej nie zna). Aby wykorzystać Nagrodę Fabuły podczas czasu wolnego, należy po prostu postępować zgodnie z jej treścią.
 
-### 3.4. Negatywne wydarzenia: choroby, klątwy i śmierć postaci.
+### 3.4. Negatywne wydarzenia: choroby, klątwy i śmierć postaci.<a name="death"></a>
 
 Poszukiwanie przygód przynosi nie tylko korzyści. Podczas przygód postacie graczy mogą ponieść niekorzystne konsekwencje awanturnictwa. Jeśli postać zostanie w trakcie przygody obłożona klątwą lub popadnie w jakąś chorobę, szczegóły klątwy bądź choroby wyjaśni Mistrz Gry. Zazwyczaj (jeśli DM nie postanowi inaczej) można się uwolnić od choroby lub klątwy rzucając odpowiednie zaklęcie lub korzystając z odpowiedniej usługi rzucania zaklęć.
 
@@ -250,9 +250,9 @@ c) Postać jest martwa i jej ciało nie zostało odzyskane z miejsca śmierci.Od
 
 Postać martwa (nawet nie permanentnie) nie może wykonywać żadnych czynności ani uzyskiwać żadnych zasobów (nawet z nagród DM) z wyjątkiem opłacania usług wskrzeszania i ewentualnie spieniężania ekwipunku na ten cel.
 
-## 4. Rozwój postaci pomiędzy przygodami
+## 4. Rozwój postaci pomiędzy przygodami<a name="rozwoj-miedzy-przygodami"></a>
 
-### 4.1. Karta postępów postaci.
+### 4.1. Karta postępów postaci.<a name="logsheet"></a>
 
 Dla każdej postaci gracz, który jest jej właścicielem, powinien prowadzić kartę postępów (tzw. logsheet), w której zapisane są wszelkie zmiany w zasobach postaci w trakcie przygód oraz pomiędzy nimi. Wzór takiej karty znajduje się na naszym discordzie w kanale #materiały\_dla\_graczy, ale karta może mieć dowolną wygodną dla gracza postać. Ważne jest by z karty postępów można było uzyskać informacje: w jakich przygodach postać uczestniczyła, u jakich Mistrzów Gry, jak awansowała na swój poziom oraz skąd ma ekwipunek (w szczególności magiczne przedmioty) i Nagrody Fabuły, których używa na sesji.
 
@@ -260,7 +260,7 @@ Karta postępów ma być przede wszystkim pomocą dla gracza. Jednak warto pami�
 
 ###
 
-### 4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług
+### 4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług<a name="uslugi"></a>
 
 Pomiędzy przygodami gracze mogą za posiadane złoto, bez poświęcania czasu wolnego:
  - kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych) oraz mikstury i zwoje z tabel 3 i 4 w części II Zasad.
@@ -271,7 +271,7 @@ Pomiędzy przygodami gracze mogą za posiadane złoto, bez poświęcania czasu w
 
 Dodatkowo, posiadane przedmioty z rozdziału Ekwipunek Podręcznika Gracza można sprzedawać za połowę ceny kupna. Nie można sprzedawać przedmiotów magicznych, również jednorazowych.
 
-### 4.3. Wykorzystanie Czasu Wolnego (Downtime)
+### 4.3. Wykorzystanie Czasu Wolnego (Downtime)<a name="downtime"></a>
 
 Jednostkę Czasu Wolnego, czyli dzień, oznaczamy przez DT. Zdobyty Czas Wolny można wykorzystać do:
 
@@ -309,7 +309,7 @@ Niezależnie od wykorzystania czasu wolnego, zakłada się, że pomiędzy kolejn
 
 ###
 
-### 4.4. Przekuwanie magicznej broni
+### 4.4. Przekuwanie magicznej broni<a name="przekuwanie-broni"></a>
 
 Postać, która wejdzie w posiadanie magicznej broni uzyskuje też możliwość jej przekucia. Ta opcja może być wykorzystana tylko raz, najpóźniej do momentu rozpoczęcia przez postać następnej przygody. Przekucie broni nie niesie ze sobą żadnego kosztu dla postaci.
 
@@ -331,15 +331,15 @@ Możliwość przekucia jednej magicznej broni w drugą podlega następującym og
 
 Przekute, magiczne bronie, które można zniszczyć zadając im obrażenia (np. Net) i zniszczone w ten sposób, samoistnie się naprawiają na zakończenie przygody (przed rozdaniem nagród za przygodę) i są odzyskiwane przez postać.
 
-### 4.5. Przekuwanie magicznej amunicji
+### 4.5. Przekuwanie magicznej amunicji<a name="przekuwanie-amunicji"></a>
 
 Na zasadach analogicznych do przedstawionych w rozdziale 4.4. można przekuć magiczne strzały (arrows) na bełty (bolts) lub bełty (bolts) na strzały (arrows), zachowując te pozostałe magiczne własności tych pocisków (np. bełt+2 można zmienić na arrow +2, a Arrow of X Slaying na Bolt of X Slaying).
 
 Uwaga! Zasady sezonu 2 w wersji 2 zostały wprowadzone 1.06.2023. Reguły przejściowe, dotyczące postaci, które grały przygody szczebla wyższego niż T1 w sezonie 2 przed 1.06.2023 znajdują się w Zasadach Zaawansowanych (plik z pełnymi zasadami), rozdział 7. Pozostałe postaci sezonu 2 mogą kontynuować grę w OPK bez modyfikacji.
 
-### II. TABELE POMOCNICZE
+### II. TABELE POMOCNICZE<a name="tabele"></a>
 
-## 1. Tabela zależności poziomu postaci od sumy zdobytych ACP
+## 1. Tabela zależności poziomu postaci od sumy zdobytych ACP<a name="tabela-poziom-acp"></a>
 
 | **Poziom** | **Suma zdobytych ACP** | **Poziom** | **Suma zdobytych ACP** |
 | --- | --- | --- | --- |
@@ -354,7 +354,7 @@ Uwaga! Zasady sezonu 2 w wersji 2 zostały wprowadzone 1.06.2023. Reguły przej�
 | 9 | 48-55 | 19 | 128-135 |
 | 10 | 56-63 | 20 | 136+ |
 
-## 2. Usługi rzucania zaklęć między przygodami
+## 2. Usługi rzucania zaklęć między przygodami<a name="tabela-spellcasting"></a>
 
 Podczas sesji dostępność usług rzucania zaklęć leży **wyłącznie** w gestii Mistrza Gry. DM może zezwolić na dostęp do zaklęć spoza tabelki i dowolnie zmienić ich koszt.
 
@@ -369,7 +369,7 @@ Podczas sesji dostępność usług rzucania zaklęć leży **wyłącznie** w ges
 | Resurrection | 3000 GP |
 | True Resurrection | 30000 GP |
 
-## 3. Mikstury
+## 3. Mikstury<a name="tabela-mikstury"></a>
 
 Ceny zakupu pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podczas przygody
 
@@ -385,7 +385,7 @@ Ceny zakupu pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podczas przygo
 | Potion of Water Breathing | 100 gp |
 | Potion of Invisibility | 5 000 gp |
 
-## 4. Zwoje
+## 4. Zwoje<a name="tabela-zwoje"></a>
 
 Ceny zakupu/napisania pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podczas przygody
 
@@ -402,7 +402,7 @@ Ceny zakupu/napisania pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podc
 | 8 | 20 000 gp+8DT | 10000 gp + 64DT | 15 |
 | 9 | 50 000 gp+9DT | 25000 gp + 81DT | 17 |
 
-## 5. Lombard ,,Smocza Jama'', czyli lista magicznych przedmiotów na wymianę
+## 5. Lombard ,,Smocza Jama'', czyli lista magicznych przedmiotów na wymianę<a name="tabela-lombard"></a>
 
 Poniżej znajdują się magiczne przedmioty, które można uzyskać w drodze wymiany (opisanej w rozdziale 4.3 podstawowych zasad) wraz z cenami takiej wymiany.
 
@@ -414,7 +414,7 @@ Przedmiot magiczny, który postać oddaje w wyniku tej wymiany musi być przedmi
 |     Weapon +2 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej rare +30 DT +2000 gp     |     Poziom postaci – co najmniej 5    |
 |     Weapon +3 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej very rare +45 DT +5000gp |     Poziom postaci – co najmniej 11   |
 
-## 6. Lista możliwych do przekucia broni
+## 6. Lista możliwych do przekucia broni<a name="tabela-bronie"></a>
 
 Wszystkie bronie w tabeli podlegają ograniczeniom z Rozdziału 4.4. Zasad Podstawowych, chyba, że kolumna ,,Dodatkowe uwagi i ograniczenia" wskazuje inaczej.
 
