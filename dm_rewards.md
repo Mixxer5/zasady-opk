@@ -3,23 +3,23 @@ NAGRODY MISTRZÓW GRY
 
 Ten dokument dotyczy wszystkich sesji prowadzonych w ramach DnD Organized Play Kraków (odtąd: OPK) od 1 sierpnia 2022 roku.
 
-###1. Wstępne ustalenia
+### 1. Wstępne ustalenia
 
-##1.1. STATUS MISTRZA GRY
+## 1.1. STATUS MISTRZA GRY
 
 Mistrzem Gry (DMem) jest osoba, która w ostatnim półroczu poprowadziła przynajmniej jedną sesję przy otwartym stoliku. Utrata statusu DMa nie wiąże się z utratą dotychczas zdobytych nagród i punktów, ale aby je wydać należy odzyskać status poprzez poprowadzenie gry.
 
-##1.2. PRZYGODY, SESJE I GODZINY PROWADZENIA
+## 1.2. PRZYGODY, SESJE I GODZINY PROWADZENIA
  We wszystkich poniższych zapisach i tabelach przez przygodę rozumiemy pojedynczy segment materiału oznaczony jednym kodem do celów prowadzenia w OPK. Przez sesję rozumiemy jednorazowe wydarzenie poprowadzenia takiej przygody (nawet jeśli czas trwania przygody wymagał zgromadzenia DM i graczy na więcej niż jednym spotkaniu). W szczególności, wielokrotnie można prowadzić sesje oparte na tej samej przygodzie, ale będą się liczyć jako jedna przygoda do misji, w których wymaganiem jest prowadzenie danej liczby różnych przygód. Z drugiej strony, niektóre przygody opatrzone jednym kodem (np. zazwyczaj pierwsze przygody sezonów) składają się z kilku ,,miniprzygód''. Przykładowo, rozegranie 4 z 5 1-godzinnych ,,miniprzygód" DDEX 1-1 Defiance in Phlan w ciągu dwóch spotkań liczy się jako 4 godziny prowadzenia na potrzeby obliczeń Punktów Magicznych Przedmiotów, natomiast tylko jako jedna sesja/przygoda na potrzeby innych misji.
 
-##1.3 OGÓLNE. CELE I ZASTRZEŻENIA WYNAGRODZEŃ DLA MISTRZÓW GRY
+## 1.3 OGÓLNE. CELE I ZASTRZEŻENIA WYNAGRODZEŃ DLA MISTRZÓW GRY
  Podstawowym celem istnienia wynagrodzeń jest zapewnienie bodźców dla Mistrzów Gry dla prowadzenia w OPK w sposób, który zapewnia jak najwięcej korzyści graczom. Nie chcemy, żeby ze względu na prowadzenie postaci Mistrzów Gry były znacząco słabsze niż postaci graczy, dla których te sesje są prowadzone, ale nie chcemy też, by były znacząco silniejsze. Ponadto, wynagradzane powinny być zachowania korzystne dla społeczności OPK - staramy się uniknąć tworzenia wynagrodzeń za osiągnięcia, które nie dają wielkich korzyści graczom, nawet jeśli te osiągnięcia są trudne do wykonania. Staramy się też promować prowadzenie dla nowych graczy, stąd preferencja wynagrodzeń za prowadzenie na niższych szczeblach.
 
-##1.4.RODZAJE WYNAGRODZENIA ZA PROWADZENIE
+## 1.4.RODZAJE WYNAGRODZENIA ZA PROWADZENIE
 
 Za prowadzenie przygód w OPK Mistrzowie Gry są wynagradzani na 3 sposoby: podstawowe wynagrodzenie to ACP/DT i złoto otrzymywane w ilościach symulujących rozegranie przygody analogicznej do prowadzonej w roli gracza. Druga, to Punkty Magicznych Przedmiotów(PMP), które mają zapewnić, że postaci, którymi Mistrzowie Gry grają w OPK mają dostęp do magicznych przedmiotów w ilości zbliżonej do zdobywanych przez graczy. Trzecia, to Punkty Misji (PM), które zdobywane są za prowadzenie w sposób szczególnie korzystny dla graczy OPK: regularny, różnorodny, zapewniający dostęp nowym graczom i obejmujący cykle fabularne. Za Punkty Misji można uzyskać nagrody ,,kosmetyczne'', nie zwiększające siły postaci, ale dające opcje uznane za zbyt niezwykłe dla tła naszych przygód, by umożliwić je dla każdej postaci np. nietypowe klasy, rasy, familiary, wierzchowce, umożliwienie rebuildów i wskrzeszeń.
 
-##1.5. OGRANICZENIE DOTYCZĄCE PRZYDZIELANIA NAGRÓD POSTACIOM
+## 1.5. OGRANICZENIE DOTYCZĄCE PRZYDZIELANIA NAGRÓD POSTACIOM
  Nagrody Mistrzów Gry można przyznać tylko postaciom żywym. Nagrody bezpośrednio przydzielane postaciom muszą być zgodne ze szczeblem postaci, której się je przydziela (np. tabelka złota w rozdziale 2).
 
 W szczególności, .magiczny przedmiot przydzielany dzięki Punktom Magicznych Przedmiotów postaci grającej na szczeblu T1 to maksymalnie uncommon, T2 - maksymalnie rare, T3 - maksymalnie very rare, złoto przydzielane jest według tabelki.
@@ -32,7 +32,7 @@ Ponadto, postaci nie można przydzielić magicznego przedmiotu jeśli po tym prz
 
 Posiadanie większej ilości przedmiotów niższego rarity nie blokuje dodawania przedmiotów wyższego rarity jak długo mieszczą się w limicie (np. można dać postaci T2 przedmiot rare, jeśli takiego nie ma, nawet jeżeli ma już 4 przedmioty uncommon).
 
-##1.6. ZASADY PRZEJŚCIOWE
+## 1.6. ZASADY PRZEJŚCIOWE
 Mistrzowie Gry prowadzili przygody od początku 2 sezonu OPK, czyli od sierpnia 2022. Zasady Nagród zostały ustandaryzowane do wersji 2.0 dopiero TU WSTAW DATĘ. Na potrzeby kompatybilności wstecznej ustalamy, że DM otrzymuje nagrody również za sesje prowadzone przed wprowadzeniem zasad Nagród DM w wersji 2.0. zgodnie z obecnym systemem, chyba, że przed wprowadzeniem wersji 2.0 wykorzystał te sesje do odbioru ówczesnych nagród za misje. Jeśli tak się stało, sesje wykorzystane do zdobycia nagrody w wersji 1.0 nie mogą być przeliczane na Punkty Magicznych Przedmiotów/Punkty Misji.
 Zasady przydzielania ACP/DT/złota w wersji 1.0 i 2.0 się nie zmieniły (zmieniły się jedynie ich sformułowania), więc na ich wykorzystanie aktualizacja zasad do wersji 2.0 nie ma wpływu
 
@@ -51,7 +51,7 @@ Mistrz Gry może przydzielać zgromadzone ACP swoim postaciom w porcjach o dowol
 | Tier 3 | 450 gp |
 | Tier 4 | 4500 gp |
 
-1. **Punkty Magicznych Przedmiotów**
+## Punkty Magicznych Przedmiotów
 
 By postaci Mistrzów Gry nie pozostawały w tyle za postaciami graczy pod względem posiadanych magicznych przedmiotów, za prowadzenie przygód DM otrzymuje też Punkty Magicznych Przedmiotów (PMP). Ich ilość jest równa ACP za przygodę razy współczynnik zależny od tieru, na którym DM poprowadził przygodę, według tabelki poniżej.
 
@@ -67,11 +67,11 @@ PMP można wydać, by przydzielić jednej ze swoich postaci magiczny przedmiot l
 
 Dodatkowo, DM, który opracował i doprowadził do wpisania do katalogu przygód nowej przygody z hardcovera lub własnoręcznie napisanej (razem z przygotowaniem i poprowadzeniem sesji 0, zebraniem opinii i potencjalnym przeprowadzeniem głosowań, opracowaniem nagród odpowiednich do systemu OPK i komentarzy ułatwiających prowadzenie) otrzymuje PMP w ilości X.
 
-1. **Punkty misji i specjalne nagrody**
+## Punkty misji i specjalne nagrody
 
 Prowadząc przygody, Mistrzowie Gry mogą wykonywać przedstawione poniżej misje, które promują zachowania korzystne dla graczy OPK (np. różnorodność przygód, umożliwianie dostępu do lubianej przygody graczom, którzy nie zdążyli się na nią zapisać, wspieranie nowych graczy, prowadzenie przygód powiązanych fabułą, regularność w prowadzeniu). Po spełnieniu wymagać konkretnej misji, Mistrz Gry otrzymuje Punkty Misji (PM). PM można wydać na nagrody, których wykaz znajduje się w dalszej części dokumentu.
 
-MISJE "JEDNORAZOWE" (MOŻLIWE DO WYPEŁNIENIA PODCZAS JEDNEJ SESJI)
+## MISJE "JEDNORAZOWE" (MOŻLIWE DO WYPEŁNIENIA PODCZAS JEDNEJ SESJI)
 
 | Nazwa misji | Wymagania | Nagroda | Ograniczenia i uwagi |
 | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ MISJE "JEDNORAZOWE" (MOŻLIWE DO WYPEŁNIENIA PODCZAS JEDNEJ SESJI)
 | Deus Ex Machina | Poprowadź sesję w ramach zastępstwa za innego DMa, który z niezależnych powodów musiał odwołać swoją sesję | 10 punktów nagrody |
 | Nowy Poziom | Poprowadź sesję w ciągu tygodnia od swoich urodzin. |Tę misję można wykonać tylko raz na rok.  | 10 punktów nagrody 
 
-MISJE „REGULARNE" (WYMAGAJĄCE WIELOKROTNEGO PROWADZENIA)
+## MISJE „REGULARNE" (WYMAGAJĄCE WIELOKROTNEGO PROWADZENIA)
 
 | Nazwa misji | Wymagania | Nagroda | Ograniczenia i uwagi |
 | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ MISJE „REGULARNE" (WYMAGAJĄCE WIELOKROTNEGO PROWADZENIA)
 | Opoka OPK | Poprowadź co najmniej 1 sesję miesięcznie przez kolejnych 12 miesięcy. | 160 punktów nagrody | Sesje zaliczone do tej nagrodymuszą być ,,otwarte'', czyli sesja powinna być ogłoszona zapośrednictwem portalu OPK i co najmniej połowa miejsc dla graczynie powinna pochodzić z rezerwacji, ale z ogólnodostępnych zgłoszeń. Nagrodę można zdobyć wielokrotnie. |
 | Kwarta nakwartał | Poprowadź co najmniej 1 sesję tygodniowo przez kolejnych 12 tygodni. | 640 punktów nagrody |
 
-Katalog nagród
+## Katalog nagród
 
 Nagrody można brać wielokrotnie, chyba że kolumna 'Uwagi' stanowi inaczej.
 
@@ -107,7 +107,7 @@ Rebuild postaci | 30PN bazowo + 45PN za każdy poziom powyżej 5 | |
 Wskrzeszenie postaci | 65PN bazowo + 15PN za każdy poziom powyżej 1 | Postać można wskrzesić na zasadach true resurrection |
 1 ACP | 10PN | Z analogiczną ilością dt i gp względem tabelki |
 
-ZAŁĄCZNIK – cykle na potrzeby nagrody MISTRZ FABUŁY
+## ZAŁĄCZNIK – cykle na potrzeby nagrody MISTRZ FABUŁY
 
 1. Przygody konkretnego sezonu czyli przygody z kodem zaczynającym się DDEX1, DDEX2, DDEX3 lub DDAL z odpowiednią cyferką (tą samą w ramach jednego cyklu!), z wyjątkiem DDAL00.
 
