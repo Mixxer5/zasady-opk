@@ -257,7 +257,7 @@ Mistrz Gry wyznacza moment zakończenia przygody oraz to, w jakim stopniu zakoń
 
 Najpóźniej w momencie przydzielania nagród, gracze mogą podjąć decyzję na temat zredukowania tempa rozwoju swoich postaci w wyniku tej przygody (szczegółowy opis tej opcji znaleźć można w Zasadach Zaawansowanych). Postać ze zredukowanym tempem rozwoju nie uczestniczy w podziale permanentnych przedmiotów magicznych o rzadkości co najmniej uncommon.
 
-Efekty przygody powinny zostać zanotowane w karcie postępów postaci (patrz [podrozdział 4.1](#logsheet) przez jej właściciela.
+Efekty przygody powinny zostać zanotowane w karcie postępów postaci (patrz [podrozdział 4.1](#logsheet)) przez jej właściciela.
 
 ## 3. Nagrody i inne konsekwencje przygód<a name="nagrody"></a>
 
@@ -316,11 +316,11 @@ Karta postępów ma być przede wszystkim pomocą dla gracza. Jednak warto pami�
 ### 4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług<a name="uslugi"></a>
 
 Pomiędzy przygodami gracze mogą za posiadane złoto, bez poświęcania czasu wolnego:
- - kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych) oraz mikstury i zwoje z tabel 3 i 4 w części II Zasad.
+- kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych) oraz [mikstury i zwoje z tabel 3 i 4 w części II Zasad](#tabela-mikstury).
 
 - korzystać z usługi pokrywania niemagicznej broni lub amunicji srebrem (100gp za broń albo 10 sztuk amunicji) lub adamantytem (500gp za broń albo 10 sztuk amunicji). Broń może być pokryta obydwoma materiałami.
 
-- korzystać z usług rzucania zaklęć (zgodnie z tabelą 2 w części II Zasad). Uwaga! Pomiędzy przygodami nie można rzucać zaklęć samodzielnie. DM może zezwolić na rzucenie zaklęć przed przygodą po uwzględnieniu kosztu w DT i innych zasobach.
+- korzystać z usług rzucania zaklęć ([zgodnie z tabelą 2 w części II Zasad](#tabela-spellcasting)). Uwaga! Pomiędzy przygodami nie można rzucać zaklęć samodzielnie. DM może zezwolić na rzucenie zaklęć przed przygodą po uwzględnieniu kosztu w DT i innych zasobach.
 
 Dodatkowo, posiadane przedmioty z rozdziału Ekwipunek Podręcznika Gracza można sprzedawać za połowę ceny kupna. Nie można sprzedawać przedmiotów magicznych, również jednorazowych.
 
@@ -328,31 +328,39 @@ Dodatkowo, posiadane przedmioty z rozdziału Ekwipunek Podręcznika Gracza możn
 
 Jednostkę Czasu Wolnego, czyli dzień, oznaczamy przez DT. Zdobyty Czas Wolny można wykorzystać do:
 
-1. **Wymian permanentnych magicznych przedmiotów z innymi postaciami**:
-
+**1. Wymian permanentnych magicznych przedmiotów z innymi postaciami:**
 Za zgodą obu stron, dwie postacie graczy (lub nawet dwie postaci tego samego gracza) mogą zamienić się magicznymi przedmiotami. Każda z postaci musi opłacić koszt wymiany w wysokości 15 DT, chyba, że obie postacie spotykają się podczas jakiejś przygody – wtedy wymiany można dokonać za darmo.
 
 Wymienić można tylko przedmioty o tej samej rzadkości (czyli np. przedmiot uncommon można wymienić tylko na inny przedmiot uncommon). Dodatkowo, postać może uczestniczyć w wymianie przedmiotu tylko jeśli znajduje się na odpowiednim dla tej rzadkości Szczeblu (tierze) przygód (Uncommon - T1, Rare - T2, Very Rare - T3, Legendary - T4), nawet jeśli taki przedmiot został w jakiś sposób zdobyty wcześniej. Wymienić NIE można magicznych przedmiotów jednorazowego użytku (np. Zwojów (Scrolls), Mikstur (Potions), Amunicji (Ammo)) oraz zużytych magicznych przedmiotów, które straciły magiczne właściwości.
 
 Wymiany powinny być rejestrowane na discordowym kanale #bazar.
 
-2. **Wymian permanentnych magicznych przedmiotów z listą magicznych przedmiotów na wymianę**: Wymiany permanentnych magicznych przedmiotów można też dokonać ze słynnym paserem S.Wawelskim w lombardzie ,,Smocza Jama''. Taka wymiana nie wymaga zgody innych graczy i można w ten sposób wymienić również przedmiot o rzadkości wyższej na przedmiot o rzadkości niższej (np. rare na uncommon), ale lista przedmiotów, które można uzyskać jest znacząco krótsza, a w niektórych przypadkach koszt jest wyższy. Konkretne ceny, lista przedmiotów, które można w zamian uzyskać i ograniczenia takich wymian znajdują się w Tabeli 5 części II tych zasad. Przedmioty oddane do lombardu w ramach wymiany znikają w smoczym skarbcu i nie zostaną nigdy odzyskane.
+**2. Wymian permanentnych magicznych przedmiotów z listą magicznych przedmiotów na wymianę:**
+Wymiany permanentnych magicznych przedmiotów można też dokonać ze słynnym paserem S.Wawelskim w lombardzie ,,Smocza Jama''. Taka wymiana nie wymaga zgody innych graczy i można w ten sposób wymienić również przedmiot o rzadkości wyższej na przedmiot o rzadkości niższej (np. rare na uncommon), ale lista przedmiotów, które można uzyskać jest znacząco krótsza, a w niektórych przypadkach koszt jest wyższy. Konkretne ceny, lista przedmiotów, które można w zamian uzyskać i ograniczenia takich wymian znajdują się w [Tabeli 5 części II tych zasad](#tabela-lombard). Przedmioty oddane do lombardu w ramach wymiany znikają w smoczym skarbcu i nie zostaną nigdy odzyskane.
 
-**3. Nadganiania poziomu**: Na poziomie 4, 10 oraz 16 można poświęcić Czas Wolny, by przejść o jeden poziom wyżej, a więc na wyższy Szczebel (Tier) gry. Koszt to odpowiednio 25, 75 i 150 DT.
+**3. Nadganiania poziomu:**
+Na poziomie 4, 10 oraz 16 można poświęcić Czas Wolny, by przejść o jeden poziom wyżej, a więc na wyższy Szczebel (Tier) gry. Koszt to odpowiednio 25, 75 i 150 DT.
 
-**4. Powrotu z innego planu**: Jeśli z jakiegoś powodu postać pozostała na innym planie niż powinna się znaleźć na zakończenie przygody może poświęcić 50 DT by powrócić z niego (chyba, że przygoda wskazuje inny koszt). Jeśli przygoda przewiduje, że postać znajdzie się na jej końcu na innym planie niż Materialny, to powrót postaci na plan Materialny na kolejną przygodę jest darmowy (nawet jeśli przygoda przewiduje inne rozwiązanie, jak przygody sezonu 4).
+**4. Powrotu z innego planu:**
+Jeśli z jakiegoś powodu postać pozostała na innym planie niż powinna się znaleźć na zakończenie przygody może poświęcić 50 DT by powrócić z niego (chyba, że przygoda wskazuje inny koszt). Jeśli przygoda przewiduje, że postać znajdzie się na jej końcu na innym planie niż Materialny, to powrót postaci na plan Materialny na kolejną przygodę jest darmowy (nawet jeśli przygoda przewiduje inne rozwiązanie, jak przygody sezonu 4).
 
-**5.Przepisywania zaklęć**: (tylko Wizard, Warlock z Pact of the Tome, Postać z Ritual Caster feat). Podlega to normalnym zasadom wpisywania zaklęć do księgi. Koszt każdych rozpoczętych 8 godzin przepisywania to 1 DT.
+**5. Przepisywania zaklęć (tylko Wizard, Warlock z Pact of the Tome, Postać z Ritual Caster feat):**
+Podlega to normalnym zasadom wpisywania zaklęć do księgi. Koszt każdych rozpoczętych 8 godzin przepisywania to 1 DT.
 
-6. **Nauki**: Poświęcenie 25 DT i 300 sztuk złota pozwala zdobyć biegłość w nowym języku lub narzędziu.
+**6. Nauki:** 
+Poświęcenie 25 DT i 300 sztuk złota pozwala zdobyć biegłość w nowym języku lub narzędziu.
 
-7. **Realizacji Nagród Fabuły (Story Awards)**: Niektóre przygody oferują Nagrody Fabuły wymagające wydania dni czasu wolnego. Wydatek dokonywany jest według opisu konkretnej nagrody.
+**7. Realizacji Nagród Fabuły (Story Awards):** 
+Niektóre przygody oferują Nagrody Fabuły wymagające wydania dni czasu wolnego. Wydatek dokonywany jest według opisu konkretnej nagrody.
 
-8. **Zakupu lub stworzenia zwoju**: Postać biegła w Arcana, posiadająca spell sloty lub pact sloty i znająca zaklęcie może wytworzyć zwój magiczny z tym zaklęciem. Dowolna postać może zakupić zwój z zaklęciem. Koszty i ograniczenia dotyczące stworzenia lub zakupu zwoju znaleźć można w Tabeli 4 części II tych zasad.
+**8. Zakupu lub stworzenia zwoju:**
+Postać biegła w Arcana, posiadająca spell sloty lub pact sloty i znająca zaklęcie może wytworzyć zwój magiczny z tym zaklęciem. Dowolna postać może zakupić zwój z zaklęciem. Koszty i ograniczenia dotyczące stworzenia lub zakupu zwoju znaleźć można w [Tabeli 4 części II tych zasad](#tabela-zwoje).
 
-9. **Uprawiania rzemiosła/craftingu**: Postać posiadająca biegłość w Herbalism Kit może stworzyć Potion of Healing kosztem 1 DT i 25 gp, Potion of Greater Healing kosztem 3 DT i 50gp, Potion of Superior Healing kosztem 10 DT i 250 gp lub Potion of Supreme Healing kosztem 15 DT i 500 gp. Postacie biegłe w narzędziach rzemieślniczych są w stanie tworzyć przedmioty niemagiczne (Weapons, Armor, Adventuring Gear, Vehicles) na zasadach opisanych w PHB lub XGE. Postać gracza wybiera które zasady są dla niej korzystniejsze. Ponadto, postacie biegłe w narzędziach mogą się nimi posługiwać zgodnie z dodatkowymi zasadami z podręcznika XGE, podrozdział Tool Proficiencies. Jeśli czas wykonywanego za pomocą narzędzi zadania to minimum jedna godzina, można takie zadanie wykonać w czasie między przygodami. Koszt to 1DT za każde rozpoczęte 8 godzin aktywności (jeśli opis wykorzystania narzędzi mówi, że jakąś aktywność można wykonać w ramach odpoczynku (krótkiego lub długiego), to traktowana jest jak zajmująca 1 godzinę).
+**9. Uprawiania rzemiosła/craftingu:** 
+Postać posiadająca biegłość w Herbalism Kit może stworzyć Potion of Healing kosztem 1 DT i 25 gp, Potion of Greater Healing kosztem 3 DT i 50 gp, Potion of Superior Healing kosztem 10 DT i 250 gp lub Potion of Supreme Healing kosztem 15 DT i 500 gp. Postacie biegłe w narzędziach rzemieślniczych są w stanie tworzyć przedmioty niemagiczne (Weapons, Armor, Adventuring Gear, Vehicles) na zasadach opisanych w PHB lub XGE. Postać gracza wybiera które zasady są dla niej korzystniejsze. Ponadto, postacie biegłe w narzędziach mogą się nimi posługiwać zgodnie z dodatkowymi zasadami z podręcznika XGE, podrozdział Tool Proficiencies. Jeśli czas wykonywanego za pomocą narzędzi zadania to minimum jedna godzina, można takie zadanie wykonać w czasie między przygodami. Koszt to 1DT za każde rozpoczęte 8 godzin aktywności (jeśli opis wykorzystania narzędzi mówi, że jakąś aktywność można wykonać w ramach odpoczynku (krótkiego lub długiego), to traktowana jest jak zajmująca 1 godzinę).
 
-10. **Relaksu:** Postać wydaje 5 DT i utrzymuje podczas tych dni co najmniej wygodny tryb życia (czyli wydaje co najmniej 10gp). Postać zyskuje inspirację do wykorzystania. Postać gracza może przechowywać maksymalnie jedną inspirację z tego przestoju.
+10. **Relaksu:** 
+Postać wydaje 5 DT i utrzymuje podczas tych dni co najmniej wygodny tryb życia (czyli wydaje co najmniej 10gp). Postać zyskuje inspirację do wykorzystania. Postać gracza może przechowywać maksymalnie jedną inspirację z tego przestoju.
 
 Aktywności zajmujące mniej niż 1 dzień można łączyć z innymi na potrzeby obliczania kosztu. Na przykład, wizard może przez 6 godzin przepisywać zaklęcia do księgi i przez 2 godziny używać jakiegoś narzędzia rzemieślniczego w którym jest biegły i wydać za to 1 DT.
 
@@ -368,7 +376,7 @@ Przez przekucie rozumiemy zmianę nazwy broni w ramach tabelek Simple Weapons i 
 
 Możliwość przekucia jednej magicznej broni w drugą podlega następującym ograniczeniom:
 
-1) Można przekuć tylko bronie, które znajdują się w tabeli 5 „Bronie dopuszczone do przekucia" części II tych zasad na inne bronie z tej samej komórki tej tabeli. Jeśli w tej tabeli przy broni, którą chcemy przekuć znajdują się jakieś dodatkowe ograniczenia, należy ich przestrzegać na równi z ograniczeniami opisanymi w tym rozdziale. Jeśli znajdują się tam uwagi o zniesieniu ograniczeń, to taki zapis jest nadrzędny wobec zapisów tego rozdziału.
+1) Można przekuć tylko bronie, które znajdują się w [tabeli 5 „Bronie dopuszczone do przekucia" części II tych zasad](#tabela-bronie) na inne bronie z tej samej komórki tej tabeli. Jeśli w tej tabeli przy broni, którą chcemy przekuć znajdują się jakieś dodatkowe ograniczenia, należy ich przestrzegać na równi z ograniczeniami opisanymi w tym rozdziale. Jeśli znajdują się tam uwagi o zniesieniu ograniczeń, to taki zapis jest nadrzędny wobec zapisów tego rozdziału.
 
 2) Broń można przekuć tylko na broń o równej lub niższej rzadkości (np. nie można przekuć broni +1 na broń +2, ale można przekuć broń+2 na broń +1).
 
@@ -438,7 +446,7 @@ Ceny zakupu pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podczas przygo
 
 Ceny zakupu/napisania pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podczas przygody
 
-| **Poziom**** zaklęcia **|** Zakup**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Crafting**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Minimalny poziom pozyskującej zwój postaci** |
+| **Poziom zaklęcia **|**Zakup**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Crafting**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Minimalny poziom pozyskującej zwój postaci** |
 | --- | --- | --- | --- |
 | Cantrip | 25 gp | 12 gp + 1DT | 1 |
 | 1 | 50gp+1DT | 25 gp + 1DT | 1 |
@@ -511,7 +519,7 @@ Wygląd postaci, jej wierzenia, wygląd jej zaklęć, zbroi i broni, wszelkie te
 
 Przykłady dobrego zastosowania zasady _Flavor is Free_:
 
-- Postać rasy tiefling otrzymuje pewien pakiet szczególnych talentów (na przykład darkvision, czy odporność na ogień). Tego zmienić nie wolno przy wyborze takiej rasy. Ale to jak bardzo przejawia się piekielne pochodzenie postaci tej rasy, jest pod kontrolą gracza: może wyglądać niemal jak zwykły człowiek czy półork, może mieć drobne przejawy „piekielności", jak rozdwojony język lub dziwnego koloru oczy, a może w pełni wyglądać jak stworzenie z piekła rodem: rogi, ogon, kopyta, ostre zęby. Postać rasy krasnolud może być opisana jako bardzo niska i drobna, do tego stopnia, że jest mylona z niziołkiem lub gnomem, ale to nie czyni jej „small" na potrzeby mechaniki (np. nie może jeździć na mastifie).
+- Postać rasy tiefling otrzymuje pewien pakiet szczególnych talentów (na przykład darkvision, czy odporność na ogień). Tego zmienić nie wolno przy wyborze takiej rasy. Ale to jak bardzo przejawia się piekielne pochodzenie postaci tej rasy, jest pod kontrolą gracza: może wyglądać niemal jak zwykły człowiek czy półork, może mieć drobne przejawy "piekielności", jak rozdwojony język lub dziwnego koloru oczy, a może w pełni wyglądać jak stworzenie z piekła rodem: rogi, ogon, kopyta, ostre zęby. Postać rasy krasnolud może być opisana jako bardzo niska i drobna, do tego stopnia, że jest mylona z niziołkiem lub gnomem, ale to nie czyni jej „small" na potrzeby mechaniki (np. nie może jeździć na mastifie).
 
 - Kleryk otrzymuje moc i odpowiada przed jakimś bóstwem. Przykładowo postać wyznająca faeruńskiego boga Oghmę (lub inne bóstwa faeruńskie, których spis można znaleźć w PHB) pasuje do OPK idealnie. Wyznawca bóstwa jakiejś mitologii ziemskiej lub innego świata fantastycznego (np. Ateny, Thora, Paladine'a lub Ehlonny) nieco mniej, ale jest akceptowalny. Można wręcz bóstwo sobie wymyślić (byle pasowało klimatem do świata): w końcu Toril to wielki świat i bóg popularny w jakimś małym mieście może być kompletnie nieznany (albo znany pod innym imieniem) kilkaset mil dalej. Być może postać z poziomami w klasie kleryk wcale nie jest formalnie kapłanem: bóstwo do wypełniania swoich specjalnych misji może wybrać osobę spoza stanu kapłańskiego, o ile jej zachowanie jest zgodne z daną religią. Na przykład klerykiem, wybrańcem Tymory może być jakiś wędrowny hazardzista, który jej zawierza swój los. A dary Torma może otrzymać dbający o sprawiedliwość detektyw do wynajęcia. Co więcej, te dary nie muszą być związane ze stereotypowym wizerunkiem bóstwa: kleryk Torma może wyrażać swoje posłanie mocami dziedziny Oszustwa (Trickery), a kleryk wyznający Tymorę może specjalizować się w dziedzinie Wojny (War). Niemniej, należy dbać o zachowanie fabularnej spójności kleryka – postać tej klasy czerpie moc od jakiejś istoty nadprzyrodzonej i nie powinna otwarcie występować przeciw niej i jej zaleceniom.
 
