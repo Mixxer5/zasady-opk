@@ -446,7 +446,7 @@ Ceny zakupu pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podczas przygo
 
 Ceny zakupu/napisania pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podczas przygody
 
-| **Poziom zaklęcia **|**Zakup**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Crafting**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Minimalny poziom pozyskującej zwój postaci** |
+| **Poziom zaklęcia**|**Zakup**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Crafting**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Minimalny poziom pozyskującej zwój postaci** |
 | --- | --- | --- | --- |
 | Cantrip | 25 gp | 12 gp + 1DT | 1 |
 | 1 | 50gp+1DT | 25 gp + 1DT | 1 |
