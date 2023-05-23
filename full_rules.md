@@ -2,121 +2,121 @@
 
 Wersja 2.0 (maj 2023)
 
-Ten plik nie zawiera Zasad Zaawansowanych, które znajdziesz w osobnym pliku i mają na celu głównie doprecyzowanie wątpliwych przypadków Zasad Podstawowych, wyjaśnienie, skąd się zasady biorą i opisanie zasad obowiązujących Mistrzów Gry. Do uczestniczenia w samych sesjach wystarczą ci tak naprawdę dwa pierwsze rozdziały Zasad Podstawowych (tworzenie postaci i organizacja sesji). W razie pytań, podpowie ci Mistrz Gry (DM) i bardziej doświadczeni gracze. Rozdziały 3 i 4 to instrukcje dotyczące rozwoju postaci i możliwości jej działań pomiędzy sesjami. Na końcu pliku znajdziesz tabele, które zawierają pomocne informacje.
+Zasady te podzielone są na 3 części. Jeśli zaczynasz przygodę z OPK, wystarczy, że zapoznasz się z ich częścią pierwszą (Zasady Podstawowe), a do uczestniczenia w samych sesjach wystarczą ci tak naprawdę dwa pierwsze rozdziały (tworzenie postaci i organizacja sesji) – w razie pytań, podpowie ci Mistrz Gry(DM) i bardziej doświadczeni gracze. Część druga to tabele, które zawierają informacje pomocne w organizacji działań Twojej postaci między sesjami, bez potrzeby konsultacji z Mistrzem Gry. W części trzeciej zawarte są zasady zaawansowane, głównie wyjaśniające szczegółowo mechanizmy działania OPK lub rozstrzygające problematyczne lecz rzadko spotykane sytuacje, które mogą zaistnieć podczas rozgrywki lub pomiędzy sesjami. 
 
-Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na naszego Discorda ([https://discord.com/invite/BWYKVxk](https://www.google.com/url?q=https://discord.com/invite/BWYKVxk&sa=D&source=docs&ust=1684107247279488&usg=AOvVaw22EYOnLFRp1kC_mBUfzTKu)), szczególnie na kanał #rules-opk.
+Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na naszego Discorda (https://discord.com/invite/BWYKVxk), szczególnie na kanał #rules-opk.
 
 # Spis treści
 
 [I. ZASADY PODSTAWOWE](#zasady-podstawowe)
 
-[1. Tworzenie postaci](#tworzenie-postaci)
+ [1. Tworzenie postaci](#tworzenie-postaci)
 
-[1.1 Start](#start)
+  [1.1 Start](#start)
 
-[1.2 Atrybuty i HP](#atrybuty)
+  [1.2 Atrybuty i HP](#atrybuty)
 
-[1.3. Charakter (alignment), pochodzenie (background) i religia](#background)
+  [1.3. Charakter (alignment), pochodzenie (background) i religia](#background)
 
-[1.4. Ekwipunek Startowy](#ekwipunek-startowy)
+  [1.4. Ekwipunek Startowy](#ekwipunek-startowy)
+  
+ [2. Organizacja sesji](#organizacja-sesji)
 
-[2. Organizacja sesji](#organizacja-sesji)
+  [2.1. Przygotowanie do sesji](#przygotowanie-do-sesji)
 
-[2.1. Przygotowanie do sesji](#przygotowanie-do-sesji)
+  [2.2. Rozpoczęcie sesji](#rozpoczecie-sesji)
 
-[2.2. Rozpoczęcie sesji](#rozpoczecie-sesji)
+  [2.3. Przebieg sesji](#przebieg-sesji)
 
-[2.3. Przebieg sesji](#przebieg-sesji)
+  [2.4. Zakończenie sesji](#zakonczenie-sesji)
 
-[2.4. Zakończenie sesji](#zakonczenie-sesji)
+ [3. Nagrody i inne konsekwencje przygód](#nagrody)
 
-[3. Nagrody i inne konsekwencje przygód](#nagrody)
+  [3.1. ACP, czas wolny (DT) i pieniądze](#acp-dt-pieniadze)
 
-[3.1. ACP, czas wolny (DT) i pieniądze](#acp-dt-pieniadze)
+  [3.2. Nagrody rzeczowe: magiczne i niemagiczne przedmioty](#magitki)
 
-[3.2. Nagrody rzeczowe: magiczne i niemagiczne przedmioty](#magitki)
+  [3.3. Nagrody Fabuły (Story Awards)](#story-awards)
 
-[3.3. Nagrody Fabuły (Story Awards)](#story-awards)
+  [3.4. Negatywne wydarzenia: choroby, klątwy i śmierć postaci](#smierc)
 
-[3.4. Negatywne wydarzenia: choroby, klątwy i śmierć postaci](#smierc)
+ [4. Rozwój postaci pomiędzy przygodami](#pomiedzy-przygodami)
 
-[4. Rozwój postaci pomiędzy przygodami](#pomiedzy-przygodami)
+  [4.1. Karta postępów postaci](#logsheet)
 
-[4.1. Karta postępów postaci](#logsheet)
+  [4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług](#uslugi)
 
-[4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług](#uslugi)
+  [4.3. Wykorzystanie Czasu Wolnego (Downtime)](#downtime)
 
-[4.3. Wykorzystanie Czasu Wolnego (Downtime)](#downtime)
+  [4.4. Przekuwanie magicznej broni](#przekuwanie-broni)
 
-[4.4. Przekuwanie magicznej broni](#przekuwanie-broni)
-
-[4.5. Przekuwanie magicznej amunicji](#przekuwanie-amunicji)
+  [4.5. Przekuwanie magicznej amunicji](#przekuwanie-amunicji)
 
 [II. TABELE POMOCNICZE](#tabele-pomocnicze)
 
-[1. Tabela zależności poziomu postaci od sumy zdobytych ACP](#tabela-poziom-acp)
+ [1. Tabela zależności poziomu postaci od sumy zdobytych ACP](#tabela-poziom-acp)
 
-[2. Usługi rzucania zaklęć między przygodami](#tabela-spellcasting)
+ [2. Usługi rzucania zaklęć między przygodami](#tabela-spellcasting)
 
-[3. Mikstury](#tabela-mikstury)
+ [3. Mikstury](#tabela-mikstury)
 
-[4. Zwoje](#tabela-zwoje)
+ [4. Zwoje](#tabela-zwoje)
 
-[5. Lombard ,,Smocza Jama'', czyli lista magicznych przedmiotów na wymianę](#tabela-lombard)
+ [5. Lombard ,,Smocza Jama'', czyli lista magicznych przedmiotów na wymianę](#tabela-lombard)
 
-[6. Lista możliwych do przekucia broni](#tabela-bronie)
+ [6. Lista możliwych do przekucia broni](#tabela-bronie)
 
 [III. ZASADY ZAAWANSOWANE](#zaawansowane)
 
 [Wstęp. Tworzenie zasad](#zaawansowane-wstep)
 
-[1. Zasady zaawansowane: tworzenie postaci](#zaawansowane-tworzenie-postaci)
+ [1. Zasady zaawansowane: tworzenie postaci](#zaawansowane-tworzenie-postaci)
 
-[1.1. Wybór podręczników źródłowych](#zaawansowane-zrodla)
+  [1.1. Wybór podręczników źródłowych](#zaawansowane-zrodla)
 
-[1.2. Postacie nietypowe](#zaawansowane-postacie-nietypowe)
+  [1.2. Postacie nietypowe](#zaawansowane-postacie-nietypowe)
 
-[1.3. Flavor is free, ale…](#zaawansowane-flavor-ograniczenie)
+  [1.3. Flavor is free, ale…](#zaawansowane-flavor-ograniczenie)
 
-[2. Zasady zaawansowane: organizacja sesji](#zaawansowane-organizacja-sesji)
+ [2. Zasady zaawansowane: organizacja sesji](#zaawansowane-organizacja-sesji)
 
-[2.1. Jakie przygody są rozgrywane w ramach OPK?](#zaawansowane-jakie-przygody)
+  [2.1. Jakie przygody są rozgrywane w ramach OPK?](#zaawansowane-jakie-przygody)
+ 
+  [2.2. Jakich dokładnie zasad używamy podczas sesji?](#zaawansowane-dobor-zasad)
 
-[2.2. Jakich dokładnie zasad używamy podczas sesji?](#zaawansowane-dobor-zasad)
+  [2.3. Poziom trudności przygód i modyfikacje Mistrzów Gry](#zaawansowane-poziom-trudnosci)
 
-[2.3. Poziom trudności przygód i modyfikacje Mistrzów Gry](#zaawansowane-poziom-trudnosci)
+  [2.4. Minimalne wymagania do rozegrania przygody](#zaawansowane-minimalne-wymagania)
 
-[2.4. Minimalne wymagania do rozegrania przygody](#zaawansowane-minimalne-wymagania)
+  [2.5.Tempo rozwoju](#zaawansowane-tempo-rozwoju)
 
-[2.5.Tempo rozwoju](#zaawansowane-tempo-rozwoju)
+  [2.6. Efekty trwałe wynikające z zaklęć rzuconych przed sesją5](#zaawansowane-johny-dispell)
 
-[2.6. Efekty trwałe wynikające z zaklęć rzuconych przed sesją5](#zaawansowane-johny-dispell)
+  [2.7. Aktywności czasu wolnego podczas przygód](#zaawansowane-aktywnosci)
 
-[2.7. Aktywności czasu wolnego podczas przygód](#zaawansowane-aktywnosci)
+ [3. Zasady zaawansowane: nagrody za przygody](#zaawansowane-nagrody)
 
-[3. Zasady zaawansowane: nagrody za przygody](#zaawansowane-nagrody)
+  [3.1. Przydzielanie ACP, DT i złota](#zaawansowane-acp-dt-zloto)
 
-[3.1. Przydzielanie ACP, DT i złota](#zaawansowane-acp-dt-zloto)
+  [3.2. Przydzielanie przedmiotów](#zaawansowane-przydzielanie-przedmiotow)
 
-[3.2. Przydzielanie przedmiotów](#zaawansowane-przydzielanie-przedmiotow)
+  [3.3. Szczególne zasady dotyczące magicznych przedmiotów](#zaawansowane-magitki)
 
-[3.3. Szczególne zasady dotyczące magicznych przedmiotów](#zaawansowane-magitki)
+  [3.4. Podmiany i dopisywanie przedmiotów do przygód](#zaawansowane-podmiany-przedmiotow)
 
-[3.4. Podmiany i dopisywanie przedmiotów do przygód](#zaawansowane-podmiany-przedmiotow)
+ [4. Zasady zaawansowane: śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc)
 
-[4. Zasady zaawansowane: śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc)
+ [5. Zasady zaawansowane: rozwój postaci pomiędzy przygodami](#zaawansowane-miedzy-przygodami)
 
-[5. Zasady zaawansowane: rozwój postaci pomiędzy przygodami](#zaawansowane-miedzy-przygodami)
+ [6. Mistrzowie Gry (DM)](#zaawansowane-mg)
 
-[6. Mistrzowie Gry (DM)](#zaawansowane-mg)
+  [6.1. Jak zostać Mistrzem Gry?](#zaawansowane-jak-zostac-mg)
 
-[6.1. Jak zostać Mistrzem Gry?](#zaawansowane-jak-zostac-mg)
+  [6.2. Uprawnienia i przywileje Mistrza Gry](#zaawansowane-mg-perks)
 
-[6.2. Uprawnienia i przywileje Mistrza Gry](#zaawansowane-mg-perks)
+ [7. Reguły przejściowe: sezon 1 i początek sezonu 2](#zaawansowane-przejsciowe)
 
-[7. Reguły przejściowe: sezon 1 i początek sezonu 2](#zaawansowane-przejsciowe)
-
-[8. Changelog](#zaawansowane-changelog)
+ [8. Changelog](#zaawansowane-changelog)
 
 ### I. ZASADY PODSTAWOWE<a name="zasady-podstawowe"></a>
 
