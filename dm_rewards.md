@@ -61,8 +61,7 @@ By postaci Mistrzów Gry nie pozostawały w tyle za postaciami graczy pod wzglę
 | Tier 3 | 1,5 PMP |
 | Tier 4 | 1 PMP |
 
-Zatem za poprowadzenie przygody za 2 ACP na Tierze 1 DM otrzyma 5 PMP, a za poprowadzenie przygody za 4 ACP na Tierze 3 DM otrzyma 6 PMP.
-# 1
+Zatem za poprowadzenie przygody za 2 ACP na Tierze 1 DM otrzyma 5 PMP, a za poprowadzenie przygody za 4 ACP na Tierze 3 DM otrzyma 6 PMP.[^1]
 
 PMP można wydać, by przydzielić jednej ze swoich postaci magiczny przedmiot lub spellbook, przestrzegając zastrzeżeń podrozdziału 1.5. Nagród Mistrzów Gry. Przydzielić można tylko przedmiot magiczny lub spellbook, który był przewidziany w nagrodach dla graczy w jednej z przygód, którą dany Mistrz Gry poprowadził. Takie przydzielenie kosztuje za każdym razem X PMP.
 
@@ -72,233 +71,41 @@ Dodatkowo, DM, który opracował i doprowadził do wpisania do katalogu przygód
 
 Prowadząc przygody, Mistrzowie Gry mogą wykonywać przedstawione poniżej misje, które promują zachowania korzystne dla graczy OPK (np. różnorodność przygód, umożliwianie dostępu do lubianej przygody graczom, którzy nie zdążyli się na nią zapisać, wspieranie nowych graczy, prowadzenie przygód powiązanych fabułą, regularność w prowadzeniu). Po spełnieniu wymagać konkretnej misji, Mistrz Gry otrzymuje Punkty Misji (PM). PM można wydać na nagrody, których wykaz znajduje się w dalszej części dokumentu.
 
-MISJE ,,JEDNORAZOWE'' (MOŻLIWE DO WYPEŁNIENIA PODCZAS JEDNEJ SESJI)
+MISJE "JEDNORAZOWE" (MOŻLIWE DO WYPEŁNIENIA PODCZAS JEDNEJ SESJI)
 
 | Nazwa misji | Wymagania | Nagroda | Ograniczenia i uwagi |
 | --- | --- | --- | --- |
-| Łowca Nagród | Poprowadź sesję, w której uczestniczy co | Nowi gracze otrzymują Potion of Healing |
- |
-| --- | --- | --- | --- |
-|
- | najmniej jeden nowy gracz. | dla swojej postaci. DM otrzymuje 5 punktów nagrody za każdego nowego gracza przy stoliku. |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-| Apoteoza | Po raz pierwszy w OPK poprowadź sesję | 15 punktów nagrody | |
-| --- | --- | --- | --- |
-|
- | jako DM. |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
-|
- |
- |
- |
- |
+| Łowca Nagród | Poprowadź sesję, w której uczestniczy coajmniej jeden nowy gracz. | Nowi gracze otrzymują Potion of Healing dla swojej postaci. DM otrzymuje 5 punktów nagrody za każdego nowego gracza przy stoliku|
+ | Apoteoza | Po raz pierwszy w OPK poprowadź sesję jako DM.| 15 punktów nagrody | 
 | Deus Ex Machina | Poprowadź sesję w ramach zastępstwa za innego DMa, który z niezależnych powodów musiał odwołać swoją sesję | 10 punktów nagrody |
- |
-| --- | --- | --- | --- |
-| Nowy Poziom | Poprowadź sesję w ciągu tygodnia od |
- | Tę misję można wykonać tylko |
-| --- | --- | --- | --- |
-|
- | swoich urodzin | 10 punktów nagrody | raz na rok. |
+| Nowy Poziom | Poprowadź sesję w ciągu tygodnia od swoich urodzin. |Tę misję można wykonać tylko raz na rok.  | 10 punktów nagrody 
 
 MISJE „REGULARNE" (WYMAGAJĄCE WIELOKROTNEGO PROWADZENIA)
 
 | Nazwa misji | Wymagania | Nagroda | Ograniczenia i uwagi |
 | --- | --- | --- | --- |
-| Mistrz Fabuły | W ciągu 6 miesięcy poprowadź conajmniej 8 różnych przygód tegosamego cyklu fabularnego.Za jeden cyklfabularny uznajemy przygodyDDEX/DDAL z tego samegosezonu oraz dodatkowe cyklewskazane w załączniku (np. cyklpłyt Bane'a).
- | 60 punktów nagrody | Nagrodę można zdobyć wielokrotnie, alesesje wykorzystane do zdobycia nagrodyMISTRZ FABUŁY nie mogą być do tegocelu wykorzystane powtórnie. Przygodywykorzystane do zdobycia nagrodyMISTRZ RÓŻNORODNOŚCI nie mogąbyć wykorzystane w celu zdobycianagrody MISTRZ FABUŁY.
-
- |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-| MistrzRóżnorodności
-
- | Poprowadź 10 różnych przygód.
-
- | 60 punktów nagrody | Nagrodę można zdobyćwielokrotnie, ale przygodywykorzystane raz do zdobycianagrody MISTRZ FABUŁY lubMISTRZ RÓŻNORODNOŚCI niemogą być użyte ponownie w celuzdobycia nagrody MISTRZRÓŻNORODNOŚCI. |
-| Déjà vu | Poprowadź tę samą przygodę dla 8 różnych osób na różnych sesjach. | 5 punktów nagrody | |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-
-| Nazwa misji | Wymagania | Nagroda | Ograniczenia i uwagi |
-| --- | --- | --- | --- |
-| ~~Poliglota~~ | ~~Poprowadź 5 różnych przygód w języku~~~~ innym niż polski. ~~|~~ 48 punktów nagrody ~~|~~ Nagrodę można zdobyć ~~~~Wielokrotnie.~~ Nagroda tymczasowo zawieszona |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-| Opoka OPK | Poprowadź co najmniej 1 sesjęmiesięcznie przez kolejnych 12miesięcy. | 160 punktów nagrody | Sesje zaliczone do tej nagrodymuszą być ,,otwarte'', czyli sesjapowinna być ogłoszona zapośrednictwem portalu OPK i conajmniej połowa miejsc dla graczynie powinna pochodzić z rezerwacji,ale z ogólnodostępnych zgłoszeń.Nagrodę można zdobyćwielokrotnie. |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-| Kwarta nakwartał | Poprowadź co najmniej 1 sesjętygodniowo przez kolejnych 12tygodni. | 640 punktów nagrody |
- |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
-|
-| |
+| Mistrz Fabuły | W ciągu 6 miesięcy poprowadź conajmniej 8 różnych przygód tegosamego cyklu fabularnego.Za jeden cyklfabularny uznajemy przygodyDDEX/DDAL z tego samegosezonu oraz dodatkowe cyklewskazane w załączniku (np. cyklpłyt Bane'a). | 60 punktów nagrody | Nagrodę można zdobyć wielokrotnie, ale sesje wykorzystane do zdobycia nagrody MISTRZ FABUŁY nie mogą być do tego celu wykorzystane powtórnie. Przygody wykorzystane do zdobycia nagrodyMISTRZ RÓŻNORODNOŚCI nie mogą być wykorzystane w celu zdobycia- nagrody MISTRZ FABUŁY.
+| Mistrz Różnorodności | Poprowadź 10 różnych przygód. | 60 punktów nagrody | Nagrodę można zdobyć wielokrotnie, ale przygody wykorzystane raz do zdobycianagrody MISTRZ FABUŁY lub MISTRZ RÓŻNORODNOŚCI nie mogą być użyte ponownie w celuzdobycia nagrody MISTRZ RÓŻNORODNOŚCI. |
+| Déjà vu | Poprowadź tę samą przygodę dla 8 różnych osób na różnych sesjach. | 5 punktów nagrody | 
+| ~~Poliglota~~ | ~~Poprowadź 5 różnych przygód w języku innym niż polski. ~~|~~48 punktów nagrody~~|~~Nagrodę można zdobyć wielokrotnie.~~ Nagroda tymczasowo zawieszona |
+| Opoka OPK | Poprowadź co najmniej 1 sesję miesięcznie przez kolejnych 12 miesięcy. | 160 punktów nagrody | Sesje zaliczone do tej nagrodymuszą być ,,otwarte'', czyli sesja powinna być ogłoszona zapośrednictwem portalu OPK i co najmniej połowa miejsc dla graczynie powinna pochodzić z rezerwacji, ale z ogólnodostępnych zgłoszeń. Nagrodę można zdobyć wielokrotnie. |
+| Kwarta nakwartał | Poprowadź co najmniej 1 sesję tygodniowo przez kolejnych 12 tygodni. | 640 punktów nagrody |
 
 Katalog nagród
 
 Nagrody można brać wielokrotnie, chyba że kolumna 'Uwagi' stanowi inaczej.
 
-| Nagroda | Cena
- | Uwagi |
+| Nagroda | Cena | Uwagi |
 | --- | --- | --- |
-| Dowolny niemagiczny przedmiot albousługa (np. posrebrzenie broni lubpocisków) z PHB albo składnik do czaruprzydzielony dla jednej postaci, zograniczeniem kosztuprzedmiotu/usługi/składnika do 100 gp.
- | 5 PN |
- |
-| Z |
- |
- |
-| Jedna nagroda do wyboru DMa: twoje postacie, używając zaklęcia FindFamiliar może sprawić, by familiarprzyjął jedną z form: Almiraj, Tressym,Flying Monkey, Cranium Rat,Monodrone, Flying Snake, Blink Dog,Abyssal Chicken ALBO jedna z Twoichpostaci używając zaklęcia Find GreaterSteed może przyzwać Dragonnela (zFizban's Treasury of Dragons)
- | 35 PN | Unlock, dotyczy wyłącznie jednego wariantu. Odblokowanie Almiraja pozwala zamienić w niego familiara każdej postaci, która posiada familiara, ale nie odblokowuje automatycznie Tressyma. |
-| Wydając10 DT, jedna z twoich postaci możeuzyskać biegłość w wybranym narzędziurzemieślniczym albo nauczyć się jednegojęzyka standardowego lub egzotycznego. | 20 PN |
- |
-| Możesz przydzielić jednej zeswoich postaci jeden przedmiot magicznyo rzadkości common wg cennika. |
-Podręcznika Xanathar's Guide toEverything 10 PNStrixhaven 15PN | W przypadku wybrania broni lub zbroi należy również zapłacić za niemagiczną wersję przedmiotu. |
-| Odblokowanie tworzenia przez MG jednej z następujących podklasy zDMG:
-- Death Domain Cleric
-- Oathbreaker
- | 100PN |
- |
-| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK:
-
- | Mordenkainen Presents: Monsters of the Multiverse:
-- Changeling (380PN)
-- Shifter (380PN)
-Dragonlance (190PN):
-- Kender
-Theros (190PN):
-- Satyr
-- Leonin
-Strixhaven (190PN):
-- Owlin
-Ravnica: (190PN)
-- Loxodon
-- Vedalken
-- Simic Hybrid
-
-Eberron:
-- Warforged (380PN)
-Acquisitions Incorporated:
-- Verdan (380PN)
-Spelljammer
-- Dowolna rasa (380PN)
- | Wraz z rasami odblokowane są równie rasowe feature'y, ale żadne inne rzeczy (np. zaklęcia). |
-| Jedna nagroda do wyboru DMa: Przydzieljednej ze swoich postaci jeden potion ztabeli przedmiotów magicznych A lub B (zDMG) z wyjątkiem Philter of Love | 5PN |
- |
-| Rebuild postaci | 30PN bazowo + 45PN za każdy poziom powyżej 5 |
- |
-| Wskrzeszenie postaci | 65PN bazowo + 15PN za każdy poziom powyżej 1 | Postać można wskrzesić na zasadach true resurrection |
-| 1 ACP | 10PN | Z analogiczną ilością dt i gp względem tabelki |
+| Dowolny niemagiczny przedmiot albo usługa (np. posrebrzenie broni lub pocisków) z PHB albo składnik do czaru przydzielony dla jednej postaci, z ograniczeniem kosztu przedmiotu/usługi/składnika do 100 gp.| 5 PN || Jedna nagroda do wyboru DMa: twoje postacie, używając zaklęcia FindFamiliar może sprawić, by familiarprzyjął jedną z form: Almiraj, Tressym,Flying Monkey, Cranium Rat,Monodrone, Flying Snake, Blink Dog,Abyssal Chicken ALBO jedna z Twoichpostaci używając zaklęcia Find GreaterSteed może przyzwać Dragonnela (z Fizban's Treasury of Dragons)| 35 PN | Unlock, dotyczy wyłącznie jednego wariantu. Odblokowanie Almiraja pozwala zamienić w niego familiara każdej postaci, która posiada familiara, ale nie odblokowuje automatycznie Tressyma. |
+| Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 20 PN |
+| Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny o rzadkości common wg cennika. |Podręcznika Xanathar's Guide to Everything 10PN Strixhaven 15PN | W przypadku wybrania broni lub zbroi należy również zapłacić za niemagiczną wersję przedmiotu. |
+| Odblokowanie tworzenia przez MG jednej z następujących podklasy z DMG:<br /> - Death Domain Cleric <br />- Oathbreaker | 100PN |
+| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: | Mordenkainen Presents: Monsters of the Multiverse (380PN): <br />- Changeling <br />- Shifter <br />Dragonlance (190PN):<br />- Kender<br />Theros (190PN):<br />- Satyr<br />- Leonin<br />Strixhaven (190PN):<br />- Owlin<br />Ravnica (190PN): <br />- Loxodon<br />- Vedalken<br />- Simic Hybrid<br />Eberron (380PN):<br />- Warforged <br />Acquisitions Incorporated (380PN):<br />- Verdan<br />Spelljammer (380PN):<br />- Dowolna rasa | Wraz z rasami odblokowane są równie rasowe feature'y, ale żadne inne rzeczy (np. zaklęcia). | 
+Jedna nagroda do wyboru DMa: Przydziel jednej ze swoich postaci jeden potion z tabeli przedmiotów magicznych A lub B (z DMG) z wyjątkiem Philter of Love | 5PN | | 
+Rebuild postaci | 30PN bazowo + 45PN za każdy poziom powyżej 5 | |
+Wskrzeszenie postaci | 65PN bazowo + 15PN za każdy poziom powyżej 1 | Postać można wskrzesić na zasadach true resurrection |
+1 ACP | 10PN | Z analogiczną ilością dt i gp względem tabelki |
 
 ZAŁĄCZNIK – cykle na potrzeby nagrody MISTRZ FABUŁY
 
