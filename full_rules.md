@@ -120,7 +120,10 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 ### I. ZASADY PODSTAWOWE<a name="zasady-podstawowe"></a>
 
-Drugi sezon OPK rozpoczął się 1.08.2022. Cokolwiek wydarzyło się przed tą datą, nie jest istotne na potrzeby sesji drugiego sezonu OPK (w szczególności nie istnieją, więc nie są dopuszczone do rozgrywki postacie, które uczestniczyły w sesjach OPK przed rozpoczęciem 2 sezonu).
+Drugi sezon OPK rozpoczął się 1.08.2022.  Cokolwiek wydarzyło się przed tą datą, nie jest istotne na potrzeby sesji drugiego sezonu OPK (w szczególności nie istnieją, więc nie są dopuszczone do rozgrywki postacie, które uczestniczyły w sesjach OPK przed rozpoczęciem 2 sezonu).
+
+Zasady sezonu 2 w wersji 2 zostały wprowadzone 1.06.2023. Reguły przejściowe, dotyczące postaci, które grały przygody szczebla wyższego niż T1 w sezonie 2 przed 1.06.2023 znajdują się w Zasadach Zaawansowanych, rozdział 7. Pozostałe postaci sezonu 2 mogą kontynuować grę w OPK bez modyfikacji.
+
 
 ## 1. Tworzenie postaci<a name="tworzenie-postaci"></a>
 
@@ -129,35 +132,33 @@ Drugi sezon OPK rozpoczął się 1.08.2022. Cokolwiek wydarzyło się przed tą 
 ### 1.1 Start<a name="start"></a>
 
 Nie da się grać w OPK nie mając utworzonej co najmniej jednej postaci. Można mieć ich dowolnie dużo, choć na każdą sesję można zapisać się tylko jedną. Jeśli jakikolwiek aspekt tworzenia postaci w OPK nie jest jasny, zapraszamy na kanał #tworzenie-postaci na naszym Discordzie.
+	
+Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udział w przygodach. Jeśli jest to twoja pierwsza postać w 5 edycji DnD, sugerujemy wykorzystanie w jej tworzeniu jedynie ras, klas, zaklęć i featów z Podręcznika Gracza (Player’s Handbook, PHB), gdyż wszystkie z nich są dopuszczone do rozgrywki. Dla osób, których takie ograniczenie nie zadowala, w tworzeniu postaci (i dalszym jej rozwoju) dopuszczamy wykorzystywanie ras, klas i podklas, zaklęć i featów z następujących źródeł: 
 
-Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udział w przygodach. Jeśli jest to twoja pierwsza postać w 5 edycji DnD, sugerujemy wykorzystanie w jej tworzeniu jedynie ras, klas, zaklęć i featów z Podręcznika Gracza (Player's Handbook, PHB), gdyż wszystkie z nich są dopuszczone do rozgrywki. Dla osób, których takie ograniczenie nie zadowala, w tworzeniu postaci (i dalszym jej rozwoju) dopuszczamy wykorzystywanie ras, klas i podklas, zaklęć i featów z następujących źródeł:
+•	Player’s Handbook (PHB)
+•	Elemental Evil Player’s Companion (EEPC)
+•	Sword Coast Adventurer’s Guide (SCAG)
+•	Volo’s Guide to Monsters (VGM)
+•	Xanathar’s Guide to Everything (XGE)
+•	Mordenkainen’s Tome of Foes (ToF)
+•	Tasha’s Cauldron of Everything (TCoE) [bez Custom Lineage]
+•	Van Richten’s Guide to Ravenloft (VRGR) (pochodzenia/lineages: Dhampir, Hexblood i Reborn można wybrać tylko jako samodzielne rasy, nie jako ,,nakładki’’ na inną rasę) 
+•	Wild Beyond the Witchlight (WBtW)
+•	Fizban’s Treasury of Dragons (FToD)
+•	Mordenkainen Presents: Monsters of the Multiverse (MoM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
+•	Dodatkowo do wykorzystania: Locathah Rising, Tortle Package, One Grung Above
+•	podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen.
 
-- Player's Handbook (PHB)
-- Elemental Evil Player's Companion (EEPC)
-- Sword Coast Adventurer's Guide (SCAG)
-- Volo's Guide to Monsters (VGM)
-- Xanathar's Guide to Everything (XGE)
-- Mordenkainen's Tome of Foes (ToF)
-- Tasha's Cauldron of Everything (TCoE) [bez Custom Lineage]
-- Van Richten's Guide to Ravenloft (VRGR) (pochodzenia/lineages: Dhampir, Hexblood i Reborn można wybrać tylko jako samodzielne rasy, nie jako ,,nakładki'' na inną rasę)
-- Wild Beyond the Witchlight (WBtW)
-- Fizban's Treasury of Dragons (FToD)
-- Mordenkainen Presents: Monsters of the Multiverse (MoM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
-- Dodatkowo do wykorzystania: Locathah Rising, Tortle Package, One Grung Above
-- podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen.
-
-Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGM lub ToF i jednocześnie w MoM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
+Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGM lub ToF i jednocześnie w MoM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy. 
 
 Rasy posiadające stałą umiejętność latania (np. aarakocra, fairy) mogą z niej korzystać dopiero po osiągnięciu poziomu 5.
+
 
 Zasady opcjonalne i warianty reguł generalnie nie są dopuszczane w rozgrywkach OPK, chyba, że zasady OPK wyraźnie mówią inaczej. Zasadami opcjonalnymi, z których można korzystać przy tworzeniu postaci są:
 
 - Human Languages (SCAG)
-
 - Blessing of Corellon (ToF)
-
 - Variant Human, Atuty (featy), wieloklasowość (multiclassing) (PHB)
-
 - Customizing Your Origin (ale nie Custom Lineage!), Optional Class Features (TCoE)
 
 Uwaga! Wszelkie wybory podjęte przy tworzeniu postaci nie są ostateczne. Do momentu rozegrania pierwszej przygody Szczebla co najmniej 2 (Tier 2), czyli na poziomie co najmniej 5, możliwa jest _przebudowa postaci_. Oznacza to, że bezpośrednio po dowolnej przygodzie Szczebla 1 bez ograniczeń można zmienić prawie wszystkie mechaniczne i fabularne aspekty postaci: imię, wygląd, wiek, charakter ale też rozdział atrybutów, wybór biegłości, wybraną rasę i klasy, zaklęcia i pochodzenie (backgound) – uwzględniając ewentualną zmianę ekwipunku startowego wynikającą ze zmiany klasy i pochodzenia. Nie podlegają natomiast zwrotowi ani nie znikają łupy zdobyte na przygodach i ekwipunek pozyskany pomiędzy nimi. Nie znikają też nagrody za rozegrane przez postać przygody, w szczególności zdobyte Nagrody Fabuły (Story Awards), chyba że warunek ich wykorzystania nie jest spełniany po przebudowie. Nie zmienia się też poziom postaci i wymaganie, by sposób jej stworzenia i awansowania na kolejne poziomy był zgodny z zasadami OPK i DnD. Zmiana powyższych aspektów automatycznie anuluje wszelkie trwające efekty związane z poprzednią wersją postaci, w tym efekty zaklęć, umiejętności klasy itd.
@@ -234,7 +235,7 @@ Tier 4 (T4): Potion of Healing (Supreme)
 
 Przedmioty-benefity znikają na koniec przygody niezależnie od tego, czy zostały użyte, czy nie. Za zgodą DM można jako przedmiot-benefit wybrać (zamiast odpowiedniej mikstury) jeden komponent lub element ekwipunku z PHB o koszcie nie większym niż domyślna dla danego mikstura (czyli 50/100/500/5000 gp ). Dodatkowo, pierwsza postać gracza debiutującego w OPK otrzymuje jedną zwyczajną (tj. znikającą tylko po zużyciu) miksturę leczenia.
 
-Bardziej zaawansowane w rozwoju postaci za zgodą DM-a mogą podlegać efektom zaklęć rzuconych podczas wcześniejszych sesji. Przed sesją gracz, który chce korzystać z takiej możliwości, powinien przygotować listę efektów ciągłych działających na postać wraz ze wszystkimi zmiennymi tych efektów (np. trigger zaklęcia Contigency, statblock i przygoda źródłowa związanego stworzenia, efekty Wisha). DM przed sesją ma prawo zweryfikować tę listę i wyłączyć dowolne z takich efektów na czas prowadzonej przez niego przygody. Efekty ciągłe, o których DM nie został uprzedzony przed sesją nie mogą być używane podczas sesji. Za wyraźnie udzieloną zgodą DM-a, gracz może też rzucić jakieś zaklęcie (np. Find Familiar) przed rozpoczęciem fabuły przygody, uwzględniając wydanie odpowiednich zasobów.
+Bardziej zaawansowane w rozwoju postacie za zgodą DM-a mogą podlegać efektom zaklęć rzuconych podczas wcześniejszych sesji. Przed sesją gracz, który chce korzystać z takiej możliwości, powinien przygotować listę efektów ciągłych działających na postać wraz ze wszystkimi zmiennymi tych efektów (np. trigger zaklęcia Contigency, statblock i przygoda źródłowa związanego stworzenia, efekty Wisha). DM przed sesją ma prawo zweryfikować tę listę i wyłączyć dowolne z takich efektów na czas prowadzonej przez niego przygody. Efekty ciągłe, o których DM nie został uprzedzony przed sesją nie mogą być używane podczas sesji. Za wyraźnie udzieloną zgodą DM-a, gracz może też rzucić jakieś zaklęcie (np. Find Familiar) przed rozpoczęciem fabuły przygody, uwzględniając wydanie odpowiednich zasobów.
 
 Początek sesji to też dobry moment na poinformowanie Mistrza Gry o wszelkich nietypowych przedmiotach posiadanych przez postać i dopytanie o wszystkie wątpliwości mechaniczne oraz stosowane przez DM interpretacje zasad istotnych dla postaci, które są niejednoznaczne.
 
@@ -270,7 +271,7 @@ Jeśli Mistrz Gry nie zaznaczy inaczej, wszelkie nagrody z sesji nie muszą być
 
 Po każdej rozegranej sesji postać gracza zdobywa Punkty Postępu (Advancement Checkpoints, ACP) w wysokości wskazanej przez Mistrza Gry, w zależności od stopnia sukcesu w realizacji celów przygody. Zazwyczaj wszystkie postaci graczy na przygodzie otrzymują taką samą liczbę ACP, ale Mistrz Gry może zdecydować inaczej, w szczególności gdy jedna z postaci nie uczestniczyła w części przygody istotnej dla osiągnięcia celu (odłączyła się od drużyny, była nieprzytomna itp.). Szczegółowe kryteria, którymi powinien się kierować Mistrz Gry przy przyznawaniu ACP można znaleźć w Zasadach Zaawansowanych.
 
-Postać awansuje na kolejny poziom, gdy po rozdaniu nagród za przygodę przez Mistrza Gry suma osiągniętych przez postać we wszystkich dotąd rozegranych sesjach osiągnie lub przekroczy odpowiednią liczbę z Tabeli 1 (część II zasad). W skrócie, by awansować na wyższy poziom po przygodzie Szczebla 1 (T1), potrzebne jest zdobycie 4 ACP ponad poziom poprzedni. Na pozostałych szczeblach do awansu na kolejny poziom potrzebne jest zdobycie 8 ACP.
+Postać awansuje na kolejny poziom, gdy po rozdaniu nagród za przygodę przez Mistrza Gry suma osiągniętych przez postać we wszystkich dotąd rozegranych sesjach osiągnie lub przekroczy odpowiednią liczbę z [Tabeli 1](#tabela-poziom-acp). W skrócie, by awansować na wyższy poziom po przygodzie Szczebla 1 (T1), potrzebne jest zdobycie 4 ACP ponad poziom poprzedni. Na pozostałych szczeblach do awansu na kolejny poziom potrzebne jest zdobycie 8 ACP.
 
 Czas Wolny (Downtime) przyznawany jest każdej postaci automatycznie razem z ACP w ilości 2,5 dnia (w skrócie 2,5 DT) co każdy zdobyty 1 ACP. Sposoby wykorzystania DT pomiędzy przygodami są opisane w [podrozdziale 4.3](#downtime).
 
@@ -278,9 +279,9 @@ Mistrz Gry decyduje również o ilości złota otrzymanego przez postaci graczy,
 
 ### 3.2. Nagrody rzeczowe: magiczne i niemagiczne przedmioty<a name="magitki"></a>
 
-Nagrodą w przygodzie często jest jeden lub więcej magicznych przedmiotów. O ich podziale pomiędzy postacie graczy decyduje Mistrz Gry, według zasad szczegółowo opisanych w części III pliku Zasady Pełne. Generalną zasadą jest, że pierwszeństwo w uzyskaniu przedmiotu mają postacie, które mogą danego przedmiotu używać. Dodatkową regułą w wypadku permanentnych (czyli nie jednorazowego użytku) magicznych przedmiotów, o rzadkości co najmniej uncommon, jest, że pierwszeństwo w otrzymaniu takiego przedmiotu mają postacie, które posiadają takich przedmiotów mniej, niezależnie czy te przedmioty zostały zabrane na przygodę, czy nie (dlatego należy zawsze pamiętać o liczbie permanentnych przedmiotów magicznych o rzadkości co najmniej uncommon przypisanych do postaci – Mistrz Gry może potrzebować tej informacji).
+Nagrodą w przygodzie często jest jeden lub więcej magicznych przedmiotów. O ich podziale pomiędzy postacie graczy decyduje Mistrz Gry, według zasad szczegółowo opisanych w [części III (Zasady Zaawansowane)](#zaawansowane-nagrody). Generalną zasadą jest, że pierwszeństwo w uzyskaniu przedmiotu mają postacie, które mogą danego przedmiotu używać. Dodatkową regułą w wypadku permanentnych (czyli nie jednorazowego użytku) magicznych przedmiotów, o rzadkości co najmniej uncommon, jest, że pierwszeństwo w otrzymaniu takiego przedmiotu mają postacie, które posiadają takich przedmiotów mniej, niezależnie czy te przedmioty zostały zabrane na przygodę, czy nie (dlatego należy zawsze pamiętać o liczbie permanentnych przedmiotów magicznych o rzadkości co najmniej uncommon przypisanych do postaci – Mistrz Gry może potrzebować tej informacji).
 
-Uwaga! Magicznych przedmiotów, za wyjątkiem tych, które zgodnie z zasadami DnD mogą utracić swoją moc (np. kostury, różdżki, przedmioty jednorazowe i z ograniczoną liczbą ładunków), nie da się po prostu usunąć ze stanu posiadania postaci. Nie sposób ich trwale zniszczyć, wyrzucić, sprzedać za pieniądze ani w inny sposób się pozbyć, zmniejszając liczbę posiadanych permanentnych magicznych przedmiotów, chyba że przygoda wprost takie usunięcie przewiduje. Dopuszczalna jest jedynie wymiana (lub w wypadku broni: przekucie) na inne magiczne przedmioty przeprowadzona w sposób opisany w Rozdziale 4 Zasad Podstawowych.
+Uwaga! Magicznych przedmiotów, za wyjątkiem tych, które zgodnie z zasadami DnD mogą utracić swoją moc (np. kostury, różdżki, przedmioty jednorazowe i z ograniczoną liczbą ładunków), nie da się po prostu usunąć ze stanu posiadania postaci. Nie sposób ich trwale zniszczyć, wyrzucić, sprzedać za pieniądze ani w inny sposób się pozbyć, zmniejszając liczbę posiadanych permanentnych magicznych przedmiotów, chyba że przygoda wprost takie usunięcie przewiduje. Dopuszczalna jest jedynie wymiana (lub w wypadku broni: przekucie) na inne magiczne przedmioty przeprowadzona w sposób opisany w [Rozdziale 4 Zasad Podstawowych](#pomiedzy-przygodami).
 
 Przedmioty magiczne pospolite (Common), przedmioty niemagiczne (jeśli przygoda przewiduje możliwość ich zatrzymania, zamiast sprzedaży) oraz przedmioty jednorazowego użytku (np. mikstury, zwoje) nie wliczają się do ilości permanentnych przedmiotów magicznych i przy ich przydzielaniu jako nagród rzeczowych stan posiadania nie jest istotny.
 
@@ -306,7 +307,7 @@ Postać martwa (nawet nie permanentnie) nie może wykonywać żadnych czynności
 
 ### 4.1. Karta postępów postaci.<a name="logsheet"></a>
 
-Dla każdej postaci gracz, który jest jej właścicielem, powinien prowadzić kartę postępów (tzw. logsheet), w której zapisane są wszelkie zmiany w zasobach postaci w trakcie przygód oraz pomiędzy nimi. Wzór takiej karty znajduje się na naszym discordzie w kanale #materiały\_dla\_graczy, ale karta może mieć dowolną wygodną dla gracza postać. Ważne jest by z karty postępów można było uzyskać informacje: w jakich przygodach postać uczestniczyła, u jakich Mistrzów Gry, jak awansowała na swój poziom oraz skąd ma ekwipunek (w szczególności magiczne przedmioty) i Nagrody Fabuły, których używa na sesji.
+Dla każdej postaci gracz, który jest jej właścicielem, powinien prowadzić kartę postępów (tzw. logsheet), w której zapisane są wszelkie zmiany w zasobach postaci w trakcie przygód oraz pomiędzy nimi. Wzór takiej karty znajduje się na naszym discordzie w kanale #materiały_dla_graczy, ale karta może mieć dowolną wygodną dla gracza postać. Ważne jest by z karty postępów można było uzyskać informacje: w jakich przygodach postać uczestniczyła, u jakich Mistrzów Gry, jak awansowała na swój poziom oraz skąd ma ekwipunek (w szczególności magiczne przedmioty) i Nagrody Fabuły, których używa na sesji.
 
 Karta postępów ma być przede wszystkim pomocą dla gracza. Jednak warto pamiętać, że podczas sesji Mistrz Gry może zapytać o informacje zawarte w karcie postępów postaci. W przypadku, gdy gracz nie jest w stanie wiarygodnie przedstawić tych informacji lub informacje są sprzeczne z zawartością karty postaci, Mistrz Gry może zdecydować o wyłączeniu kontrowersyjnych elementów ekwipunku (a w skrajnym przypadku nawet postaci) z przygody.
 
@@ -384,8 +385,6 @@ Przekute, magiczne bronie, które można zniszczyć zadając im obrażenia (np. 
 ### 4.5. Przekuwanie magicznej amunicji<a name="przekuwanie-amunicji"></a>
 
 Na zasadach analogicznych do przedstawionych w [Rozdziale 4.4.](#przekuwanie-broni) można przekuć magiczne strzały (arrows) na bełty (bolts) lub bełty (bolts) na strzały (arrows), zachowując te pozostałe magiczne własności tych pocisków (np. bolt +2 można zmienić na arrow +2, a Arrow of X Slaying na Bolt of X Slaying).
-
-Uwaga! Zasady sezonu 2 w wersji 2 zostały wprowadzone 1.06.2023. Reguły przejściowe, dotyczące postaci, które grały przygody szczebla wyższego niż T1 w sezonie 2 przed 1.06.2023 znajdują się w Zasadach Zaawansowanych (plik z pełnymi zasadami), rozdział 7. Pozostałe postaci sezonu 2 mogą kontynuować grę w OPK bez modyfikacji.
 
 ### II. TABELE POMOCNICZE<a name="tabele-pomocnicze"></a>
 
