@@ -78,7 +78,7 @@ Prowadząc przygody, Mistrzowie Gry mogą wykonywać przedstawione poniżej misj
 | Łowca Nagród | Poprowadź sesję, w której uczestniczy coajmniej jeden nowy gracz. | Nowi gracze otrzymują Potion of Healing dla swojej postaci. DM otrzymuje 5 punktów nagrody za każdego nowego gracza przy stoliku|
  | Apoteoza | Po raz pierwszy w OPK poprowadź sesję jako DM.| 15 punktów nagrody | 
 | Deus Ex Machina | Poprowadź sesję w ramach zastępstwa za innego DMa, który z niezależnych powodów musiał odwołać swoją sesję | 10 punktów nagrody |
-| Nowy Poziom | Poprowadź sesję w ciągu tygodnia od swoich urodzin. |Tę misję można wykonać tylko raz na rok.  | 10 punktów nagrody 
+| Nowy Poziom | Poprowadź sesję w ciągu tygodnia od swoich urodzin. | 10 punktów nagrody  | Tę misję można wykonać tylko raz na rok.
 
 ## MISJE „REGULARNE" (WYMAGAJĄCE WIELOKROTNEGO PROWADZENIA)
 
