@@ -101,33 +101,7 @@ Nagrody można brać wielokrotnie, chyba że kolumna 'Uwagi' stanowi inaczej.
 | Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 20 PN |
 | Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny o rzadkości common wg cennika. |Podręcznika Xanathar's Guide to Everything 10PN Strixhaven 15PN | W przypadku wybrania broni lub zbroi należy również zapłacić za niemagiczną wersję przedmiotu. |
 | Odblokowanie tworzenia przez MG jednej z następujących podklasy z DMG:<br /> - Death Domain Cleric <br />- Oathbreaker | 100PN |
-| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK:
-    <tbody>
-        <tr>
-          <td>A. Changeling</td>
-          <td>B. Shifter (MoM)</td>
-        </tr>
-    </tbody>
-
-            
-       
-
-C. Kender (Dragonlance)
-D. Satyr (Theros)(już są dostępne, z MotM)
-E. Leonin (Theros)
-F.  Owlin (Strixhaven)
-G. Loxodon (Ravnica)
-H. Vedalken (Ravnica)
-I. Simic Hybrid (Ravnica)
-J. Warforged (Eberron)
-K. Verdan (Acquisitions Incorporated)
-L. Astral Elf (Spelljammer)
-M. Giff (Spelljammer)
-N. Plasmoid (Spelljammer)
-O. Autognome (Spelljammer)
-P. Hadozee (Spelljammer)
-R. Thri-kreen (Spelljammer)
- | 100PN | 
+| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: <ul><li>Changeling (MoM)</li><li>Shifter (MoM)</li><li>Kender (Dragonlance)</li><li>Leonin (Theros)</li><li>Owlin (Strixhaven)</li><li>Loxodon (Ravnica)</li><li>Vedalken (Ravnica)</li><li>Simic Hybrid (Ravnica)</li><li>Warforged (Eberron)</li><li>Verdan (Acquisitions Incorporated)</li><li>Astral Elf (Spelljammer)</li><li>Giff (Spelljammer)</li><li>Plasmoid (Spelljammer)</li><li>Autognome (Spelljammer)</li><li>Hadozee (Spelljammer)</li><li>Thri-kreen (Spelljammer)</li></ul> | 100PN | 
 Jedna nagroda do wyboru DMa: Przydziel jednej ze swoich postaci jeden potion z tabeli przedmiotów magicznych A lub B (z DMG) z wyjątkiem Philter of Love | 5PN | | 
 Rebuild postaci | 30PN bazowo + 45PN za każdy poziom powyżej 5 | |
 Wskrzeszenie postaci | 65PN bazowo + 15PN za każdy poziom powyżej 1 | Postać można wskrzesić na zasadach true resurrection |
