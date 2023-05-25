@@ -101,10 +101,10 @@ Nagrody można brać wielokrotnie, chyba że kolumna 'Uwagi' stanowi inaczej.
 | Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 20 PN |
 | Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny o rzadkości common wg cennika. |Podręcznika Xanathar's Guide to Everything 10PN Strixhaven 15PN | W przypadku wybrania broni lub zbroi należy również zapłacić za niemagiczną wersję przedmiotu. |
 | Odblokowanie tworzenia przez MG jednej z następujących podklasy z DMG:<br /> - Death Domain Cleric <br />- Oathbreaker | 100PN |
-| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: <tr>
+| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK:
             <td>A. Changeling</td>
             <td>B. Shifter (MoM)</td>
-        </tr> (MoM)
+       
 
 C. Kender (Dragonlance)
 D. Satyr (Theros)(już są dostępne, z MotM)
