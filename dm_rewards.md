@@ -75,21 +75,21 @@ Prowadząc przygody, Mistrzowie Gry mogą wykonywać przedstawione poniżej misj
 
 | Nazwa misji | Wymagania | Nagroda | Ograniczenia i uwagi |
 | --- | --- | --- | --- |
-| Łowca Nagród | Poprowadź sesję, w której uczestniczy coajmniej jeden nowy gracz. | Nowi gracze otrzymują Potion of Healing dla swojej postaci. DM otrzymuje 5 punktów nagrody za każdego nowego gracza przy stoliku|
- | Apoteoza | Po raz pierwszy w OPK poprowadź sesję jako DM.| 15 punktów nagrody | 
-| Deus Ex Machina | Poprowadź sesję w ramach zastępstwa za innego DMa, który z niezależnych powodów musiał odwołać swoją sesję | 10 punktów nagrody |
-| Nowy Poziom | Poprowadź sesję w ciągu tygodnia od swoich urodzin. | 10 punktów nagrody  | Tę misję można wykonać tylko raz na rok.
+| Łowca Nagród | Poprowadź sesję, w której uczestniczy coajmniej jeden nowy gracz. | Nowi gracze otrzymują Potion of Healing dla swojej postaci. DM otrzymuje 1 punkt nagrody za każdego nowego gracza przy stoliku| |
+| Apoteoza | Po raz pierwszy w OPK poprowadź sesję jako DM.| 15 punktów nagrody | |
+| Deus Ex Machina | Poprowadź sesję w ramach zastępstwa za innego DMa, który z niezależnych powodów musiał odwołać swoją sesję | 5 punktów nagrody |
+| Nowy Poziom | Poprowadź sesję w ciągu tygodnia od swoich urodzin. | 4 punkty nagrody  | Tę misję można wykonać tylko raz na rok.
 
 ## MISJE „REGULARNE" (WYMAGAJĄCE WIELOKROTNEGO PROWADZENIA)
 
 | Nazwa misji | Wymagania | Nagroda | Ograniczenia i uwagi |
 | --- | --- | --- | --- |
-| Mistrz Fabuły | W ciągu 6 miesięcy poprowadź conajmniej 8 różnych przygód tegosamego cyklu fabularnego.Za jeden cyklfabularny uznajemy przygodyDDEX/DDAL z tego samegosezonu oraz dodatkowe cyklewskazane w załączniku (np. cyklpłyt Bane'a). | 60 punktów nagrody | Nagrodę można zdobyć wielokrotnie, ale sesje wykorzystane do zdobycia nagrody MISTRZ FABUŁY nie mogą być do tego celu wykorzystane powtórnie. Przygody wykorzystane do zdobycia nagrodyMISTRZ RÓŻNORODNOŚCI nie mogą być wykorzystane w celu zdobycia- nagrody MISTRZ FABUŁY.
-| Mistrz Różnorodności | Poprowadź 10 różnych przygód. | 60 punktów nagrody | Nagrodę można zdobyć wielokrotnie, ale przygody wykorzystane raz do zdobycianagrody MISTRZ FABUŁY lub MISTRZ RÓŻNORODNOŚCI nie mogą być użyte ponownie w celuzdobycia nagrody MISTRZ RÓŻNORODNOŚCI. |
-| Déjà vu | Poprowadź tę samą przygodę dla 8 różnych osób na różnych sesjach. | 5 punktów nagrody | 
-| ~~Poliglota~~ | ~~Poprowadź 5 różnych przygód w języku innym niż polski. ~~|~~48 punktów nagrody~~|~~Nagrodę można zdobyć wielokrotnie.~~ Nagroda tymczasowo zawieszona |
-| Opoka OPK | Poprowadź co najmniej 1 sesję miesięcznie przez kolejnych 12 miesięcy. | 160 punktów nagrody | Sesje zaliczone do tej nagrodymuszą być ,,otwarte'', czyli sesja powinna być ogłoszona zapośrednictwem portalu OPK i co najmniej połowa miejsc dla graczynie powinna pochodzić z rezerwacji, ale z ogólnodostępnych zgłoszeń. Nagrodę można zdobyć wielokrotnie. |
-| Kwarta nakwartał | Poprowadź co najmniej 1 sesję tygodniowo przez kolejnych 12 tygodni. | 640 punktów nagrody |
+| Mistrz Fabuły | W ciągu 6 tygodni poprowadź trylogię przygód (np. Misty Fortunes and Absent Hearts sezonu 4). | 6 punktów nagrody | Nagrodę można zdobyć wielokrotnie, ale sesje wykorzystane do zdobycia nagrody MISTRZ FABUŁY nie mogą być do tego celu wykorzystane powtórnie. Przygody wykorzystane do zdobycia nagrodyMISTRZ RÓŻNORODNOŚCI nie mogą być wykorzystane w celu zdobycia- nagrody MISTRZ FABUŁY.
+| Mistrz Różnorodności | Poprowadź 10 różnych przygód. | 10 punktów nagrody | Nagrodę można zdobyć wielokrotnie, ale przygody wykorzystane raz do zdobycia nagrody MISTRZ FABUŁY lub MISTRZ RÓŻNORODNOŚCI nie mogą być użyte ponownie w celuzdobycia nagrody MISTRZ RÓŻNORODNOŚCI. |
+| Déjà vu | Poprowadź tę samą przygodę dla 8 różnych osób na różnych sesjach. | 5 punktów nagrody | |
+| Poliglota | Poprowadź sesję dla osoby niepolskojęzycznej. |1 punkt za osobę niepolskojęzyczną| Nagrodę można zdobyć wielokrotnie.|
+| Opoka OPK | Poprowadź co najmniej 1 sesję miesięcznie przez kolejnych 12 miesięcy. | 40 punktów nagrody | Sesje zaliczone do tej nagrodymuszą być ,,otwarte'', czyli sesja powinna być ogłoszona zapośrednictwem portalu OPK i co najmniej połowa miejsc dla graczynie powinna pochodzić z rezerwacji, ale z ogólnodostępnych zgłoszeń. Nagrodę można zdobyć wielokrotnie. |
+| Kwarta na kwartał | Poprowadź 12 przez kolejnych 12 tygodni. | 100 punktów nagrody |
 
 ## Katalog nagród
 
