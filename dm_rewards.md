@@ -101,7 +101,24 @@ Nagrody można brać wielokrotnie, chyba że kolumna 'Uwagi' stanowi inaczej.
 | Wydając 10 DT, jedna z twoich postaci może uzyskać biegłość w wybranym narzędziu rzemieślniczym albo nauczyć się jednego języka standardowego lub egzotycznego. | 20 PN |
 | Możesz przydzielić jednej ze swoich postaci jeden przedmiot magiczny o rzadkości common wg cennika. |Podręcznika Xanathar's Guide to Everything 10PN Strixhaven 15PN | W przypadku wybrania broni lub zbroi należy również zapłacić za niemagiczną wersję przedmiotu. |
 | Odblokowanie tworzenia przez MG jednej z następujących podklasy z DMG:<br /> - Death Domain Cleric <br />- Oathbreaker | 100PN |
-| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: | Mordenkainen Presents: Monsters of the Multiverse (380PN): <br />- Changeling <br />- Shifter <br />Dragonlance (190PN):<br />- Kender<br />Theros (190PN):<br />- Satyr<br />- Leonin<br />Strixhaven (190PN):<br />- Owlin<br />Ravnica (190PN): <br />- Loxodon<br />- Vedalken<br />- Simic Hybrid<br />Eberron (380PN):<br />- Warforged <br />Acquisitions Incorporated (380PN):<br />- Verdan<br />Spelljammer (380PN):<br />- Dowolna rasa | Wraz z rasami odblokowane są równie rasowe feature'y, ale żadne inne rzeczy (np. zaklęcia). | 
+| Możliwość stworzenia przez MG jednej postaci z użyciem jednej z następujących ras normalnie niedostępnych w OPK: A. Changeling (MoM)
+B. Shifter (MoM)
+C. Kender (Dragonlance)
+D. Satyr (Theros)(już są dostępne, z MotM)
+E. Leonin (Theros)
+F.  Owlin (Strixhaven)
+G. Loxodon (Ravnica)
+H. Vedalken (Ravnica)
+I. Simic Hybrid (Ravnica)
+J. Warforged (Eberron)
+K. Verdan (Acquisitions Incorporated)
+L. Astral Elf (Spelljammer)
+M. Giff (Spelljammer)
+N. Plasmoid (Spelljammer)
+O. Autognome (Spelljammer)
+P. Hadozee (Spelljammer)
+R. Thri-kreen (Spelljammer)
+ | 100PN | 
 Jedna nagroda do wyboru DMa: Przydziel jednej ze swoich postaci jeden potion z tabeli przedmiotów magicznych A lub B (z DMG) z wyjątkiem Philter of Love | 5PN | | 
 Rebuild postaci | 30PN bazowo + 45PN za każdy poziom powyżej 5 | |
 Wskrzeszenie postaci | 65PN bazowo + 15PN za każdy poziom powyżej 1 | Postać można wskrzesić na zasadach true resurrection |
