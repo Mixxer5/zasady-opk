@@ -135,23 +135,23 @@ Nie da się grać w OPK nie mając utworzonej co najmniej jednej postaci. Można
 	
 Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udział w przygodach. Jeśli jest to twoja pierwsza postać w 5 edycji DnD, sugerujemy wykorzystanie w jej tworzeniu jedynie ras, klas, zaklęć i featów z Podręcznika Gracza (Player’s Handbook, PHB), gdyż wszystkie z nich są dopuszczone do rozgrywki. Dla osób, których takie ograniczenie nie zadowala, w tworzeniu postaci (i dalszym jej rozwoju) dopuszczamy wykorzystywanie ras, klas i podklas, zaklęć i featów z następujących źródeł: 
 
-•	Player’s Handbook (PHB)
-•	Elemental Evil Player’s Companion (EEPC)
-•	Sword Coast Adventurer’s Guide (SCAG)
-•	Volo’s Guide to Monsters (VGM)
-•	Xanathar’s Guide to Everything (XGE)
-•	Mordenkainen’s Tome of Foes (ToF)
-•	Tasha’s Cauldron of Everything (TCoE) [bez Custom Lineage]
-•	Van Richten’s Guide to Ravenloft (VRGR) (pochodzenia/lineages: Dhampir, Hexblood i Reborn można wybrać tylko jako samodzielne rasy, nie jako ,,nakładki’’ na inną rasę) 
-•	Wild Beyond the Witchlight (WBtW)
-•	Fizban’s Treasury of Dragons (FToD)
-•	Mordenkainen Presents: Monsters of the Multiverse (MoM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
-•	Dodatkowo do wykorzystania: Locathah Rising, Tortle Package, One Grung Above
-•	podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen.
+- Player's Handbook (PHB)
+- Elemental Evil Player's Companion (EEPC)
+- Sword Coast Adventurer's Guide (SCAG)
+- Volo's Guide to Monsters (VGtM)
+- Xanathar's Guide to Everything (XGtE)
+- Mordenkainen's Tome of Foes (MToF)
+- Tasha's Cauldron of Everything (TCoE) [bez Custom Lineage]
+- Van Richten's Guide to Ravenloft (VRGtR) (pochodzenia/lineages: Dhampir, Hexblood i Reborn można wybrać tylko jako samodzielne rasy, nie jako "nakładki" na inną rasę)
+- Wild Beyond the Witchlight (WBtW)
+- Fizban's Treasury of Dragons (FToD)
+- Mordenkainen Presents: Monsters of the Multiverse (MP:MoM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
+- Dodatkowo do wykorzystania: Locathah Rising, Tortle Package, One Grung Above
+- podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen.
 
-Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGM lub ToF i jednocześnie w MoM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy. 
+Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGtM lub MToF i jednocześnie w MP:MoM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
 
-Rasy posiadające stałą umiejętność latania (np. aarakocra, fairy) mogą z niej korzystać dopiero po osiągnięciu poziomu 5.
+Rasy posiadające stałą umiejętność latania (np. Aarakocra, Fairy) mogą z niej korzystać dopiero po osiągnięciu poziomu 5.
 
 
 Zasady opcjonalne i warianty reguł generalnie nie są dopuszczane w rozgrywkach OPK, chyba, że zasady OPK wyraźnie mówią inaczej. Zasadami opcjonalnymi, z których można korzystać przy tworzeniu postaci są:
