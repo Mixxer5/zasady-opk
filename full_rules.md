@@ -1,4 +1,4 @@
-## DUNGEONS AND DRAGONS ORGANIZED PLAY KRAKÓW: ZASADY DLA GRACZY (SEZON 2)
+## Dungeons and Dragons Organized Play Kraków: zasady dla graczy (sezon 2)
 
 Wersja 2.0 (maj 2023)
 
