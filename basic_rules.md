@@ -4,7 +4,7 @@ Wersja 2.0 (maj 2023)
 
 Ten plik nie zawiera Zasad Zaawansowanych, które znajdziesz w osobnym pliku i mają na celu głównie doprecyzowanie wątpliwych przypadków Zasad Podstawowych, wyjaśnienie, skąd się zasady biorą i opisanie zasad obowiązujących Mistrzów Gry. Do uczestniczenia w samych sesjach wystarczą ci tak naprawdę dwa pierwsze rozdziały Zasad Podstawowych (tworzenie postaci i organizacja sesji). W razie pytań, podpowie ci Mistrz Gry (DM) i bardziej doświadczeni gracze. Rozdziały 3 i 4 to instrukcje dotyczące rozwoju postaci i możliwości jej działań pomiędzy sesjami. Na końcu pliku znajdziesz tabele, które zawierają pomocne informacje.
 
-Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na naszego Discorda ([https://discord.com/invite/BWYKVxk](https://www.google.com/url?q=https://discord.com/invite/BWYKVxk&sa=D&source=docs&ust=1684107247279488&usg=AOvVaw22EYOnLFRp1kC_mBUfzTKu)), szczególnie na kanał #rules-opk.
+Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na naszego Discorda ([https://discord.com/invite/BWYKVxk](https://discord.com/invite/BWYKVxk), szczególnie na kanał #rules-opk.
 
 # Spis treści
 
