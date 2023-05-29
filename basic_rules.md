@@ -83,29 +83,26 @@ Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udzi
 - Player's Handbook (PHB)
 - Elemental Evil Player's Companion (EEPC)
 - Sword Coast Adventurer's Guide (SCAG)
-- Volo's Guide to Monsters (VGM)
-- Xanathar's Guide to Everything (XGE)
-- Mordenkainen's Tome of Foes (ToF)
+- Volo's Guide to Monsters (VGtM)
+- Xanathar's Guide to Everything (XGtE)
+- Mordenkainen's Tome of Foes (MToF)
 - Tasha's Cauldron of Everything (TCoE) [bez Custom Lineage]
-- Van Richten's Guide to Ravenloft (VRGR) (pochodzenia/lineages: Dhampir, Hexblood i Reborn można wybrać tylko jako samodzielne rasy, nie jako ,,nakładki'' na inną rasę)
+- Van Richten's Guide to Ravenloft (VRGtR) (pochodzenia/lineages: Dhampir, Hexblood i Reborn można wybrać tylko jako samodzielne rasy, nie jako "nakładki" na inną rasę)
 - Wild Beyond the Witchlight (WBtW)
 - Fizban's Treasury of Dragons (FToD)
-- Mordenkainen Presents: Monsters of the Multiverse (MoM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
+- Mordenkainen Presents: Monsters of the Multiverse (MP:MoM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
 - Dodatkowo do wykorzystania: Locathah Rising, Tortle Package, One Grung Above
 - podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen.
 
-Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGM lub ToF i jednocześnie w MoM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
+Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGtM lub MToF i jednocześnie w MP:MoM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
 
 Rasy posiadające stałą umiejętność latania (np. aarakocra, fairy) mogą z niej korzystać dopiero po osiągnięciu poziomu 5.
 
 Zasady opcjonalne i warianty reguł generalnie nie są dopuszczane w rozgrywkach OPK, chyba, że zasady OPK wyraźnie mówią inaczej. Zasadami opcjonalnymi, z których można korzystać przy tworzeniu postaci są:
 
 - Human Languages (SCAG)
-
-- Blessing of Corellon (ToF)
-
+- Blessing of Corellon (MToF)
 - Variant Human, Atuty (featy), wieloklasowość (multiclassing) (PHB)
-
 - Customizing Your Origin (ale nie Custom Lineage!), Optional Class Features (TCoE)
 
 Uwaga! Wszelkie wybory podjęte przy tworzeniu postaci nie są ostateczne. Do momentu rozegrania pierwszej przygody Szczebla co najmniej 2 (Tier 2), czyli na poziomie co najmniej 5, możliwa jest _przebudowa postaci_. Oznacza to, że bezpośrednio po dowolnej przygodzie Szczebla 1 bez ograniczeń można zmienić prawie wszystkie mechaniczne i fabularne aspekty postaci: imię, wygląd, wiek, charakter ale też rozdział atrybutów, wybór biegłości, wybraną rasę i klasy, zaklęcia i pochodzenie (backgound) – uwzględniając ewentualną zmianę ekwipunku startowego wynikającą ze zmiany klasy i pochodzenia. Nie podlegają natomiast zwrotowi ani nie znikają łupy zdobyte na przygodach i ekwipunek pozyskany pomiędzy nimi. Nie znikają też nagrody za rozegrane przez postać przygody, w szczególności zdobyte Nagrody Fabuły (Story Awards), chyba że warunek ich wykorzystania nie jest spełniany po przebudowie. Nie zmienia się też poziom postaci i wymaganie, by sposób jej stworzenia i awansowania na kolejne poziomy był zgodny z zasadami OPK i DnD. Zmiana powyższych aspektów automatycznie anuluje wszelkie trwające efekty związane z poprzednią wersją postaci, w tym efekty zaklęć, umiejętności klasy itd.
