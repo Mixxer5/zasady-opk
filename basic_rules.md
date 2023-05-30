@@ -8,7 +8,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 # Spis treści
 
-[I. ZASADY PODSTAWOWE](#zasady-podstawowe)
+[I. Zasady podstawowe](#zasady-podstawowe)
 
 [1. Tworzenie postaci](#tworzenie-postaci)
 
@@ -52,7 +52,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 [4.5. Przekuwanie magicznej amunicji](#przekuwanie-amunicji)
 
-[II. TABELE POMOCNICZE](#tabele-pomocnicze)
+[II. Tabele pomocnicze](#tabele-pomocnicze)
 
 [1. Tabela zależności poziomu postaci od sumy zdobytych ACP](#tabela-poziom-acp)
 
@@ -62,11 +62,11 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 [4. Zwoje](#tabela-zwoje)
 
-[5. Lombard ,,Smocza Jama'', czyli lista magicznych przedmiotów na wymianę](#tabela-lombard)
+[5. Lista magicznych przedmiotów na wymianę](#tabela-lombard)
 
 [6. Lista możliwych do przekucia broni](#tabela-bronie)
 
-### I. ZASADY PODSTAWOWE<a name="zasady-podstawowe"></a>
+### I. Zasady podstawowe<a name="zasady-podstawowe"></a>
 
 Drugi sezon OPK rozpoczął się 1.08.2022. Cokolwiek wydarzyło się przed tą datą, nie jest istotne na potrzeby sesji drugiego sezonu OPK (w szczególności nie istnieją, więc nie są dopuszczone do rozgrywki postacie, które uczestniczyły w sesjach OPK przed rozpoczęciem 2 sezonu).
 
@@ -86,15 +86,15 @@ Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udzi
 - Volo's Guide to Monsters (VGtM)
 - Xanathar's Guide to Everything (XGtE)
 - Mordenkainen's Tome of Foes (MToF)
-- Tasha's Cauldron of Everything (TCoE) [bez Custom Lineage]
+- Tasha's Cauldron of Everything (TCoE) (bez Custom Lineage)
 - Van Richten's Guide to Ravenloft (VRGtR) (pochodzenia/lineages: Dhampir, Hexblood i Reborn można wybrać tylko jako samodzielne rasy, nie jako "nakładki" na inną rasę)
 - Wild Beyond the Witchlight (WBtW)
 - Fizban's Treasury of Dragons (FToD)
-- Mordenkainen Presents: Monsters of the Multiverse (MP:MoM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
+- Mordenkainen Presents: Monsters of the Multiverse (MP:MotM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
 - Dodatkowo do wykorzystania: Locathah Rising, Tortle Package, One Grung Above
-- podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen.
+- podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen (DL:SotDQ)
 
-Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGtM lub MToF i jednocześnie w MP:MoM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
+Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGtM lub MToF i jednocześnie w MP:MotM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
 
 Rasy posiadające stałą umiejętność latania (np. aarakocra, fairy) mogą z niej korzystać dopiero po osiągnięciu poziomu 5.
 
@@ -332,7 +332,7 @@ Na zasadach analogicznych do przedstawionych w [Rozdziale 4.4.](#przekuwanie-bro
 
 Uwaga! Zasady sezonu 2 w wersji 2 zostały wprowadzone 1.06.2023. Reguły przejściowe, dotyczące postaci, które grały przygody szczebla wyższego niż T1 w sezonie 2 przed 1.06.2023 znajdują się w Zasadach Zaawansowanych (plik z pełnymi zasadami), rozdział 7. Pozostałe postaci sezonu 2 mogą kontynuować grę w OPK bez modyfikacji.
 
-### II. TABELE POMOCNICZE<a name="tabele-pomocnicze"></a>
+### II. Tabele Pomocnicze<a name="tabele-pomocnicze"></a>
 
 ## 1. Tabela zależności poziomu postaci od sumy zdobytych ACP<a name="tabela-poziom-acp"></a>
 
@@ -397,7 +397,7 @@ Ceny zakupu/napisania pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podc
 | 8 | 20 000 gp+8DT | 10000 gp + 64DT | 15 |
 | 9 | 50 000 gp+9DT | 25000 gp + 81DT | 17 |
 
-## 5. Lombard ,,Smocza Jama'', czyli lista magicznych przedmiotów na wymianę<a name="tabela-lombard"></a>
+## 5. Lista magicznych przedmiotów na wymianę<a name="tabela-lombard"></a>
 
 Poniżej znajdują się magiczne przedmioty, które można uzyskać w drodze wymiany (opisanej w [Rozdziale 4.3 podstawowych zasad](#downtime)) wraz z cenami takiej wymiany.
 
@@ -423,4 +423,4 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z [Rozdziału 4.4. Zasad Pods
 | Vicious Weapon | Brak uwag |
 | Weapon of Warning | Brak uwag |
 
-[^1]: Po bardziej szczegółowe wyjaśnienia ,,savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
+[^1]: Po bardziej szczegółowe wyjaśnienia "savoir vivre'u" niemechanicznych modyfikacji i fabularnej historii postaci zapraszamy do podrozdziału 1.3 Zasad Zaawansowanych (a najlepiej przedyskutować kontrowersyjne kwestie z DM-em i współgraczami).
