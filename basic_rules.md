@@ -163,7 +163,7 @@ Na początku sesji Mistrz Gry zbiera informacje o grających postaciach. Mistrz 
 
 Następnie, gracze ustalają ekwipunek, który ich postaci zabierają na przygodę oraz jednorazowe benefity (pobierane tylko na czas trwania przygody):
 
-- Nie ma obowiązku zabierania na przygodę wszystkich przedmiotów (w tym pieniędzy) posiadanych przez postać (np. ze względu na limit obciążenia wynikający z zasad DnD). Niemniej, przedmioty, które są w posiadaniu postaci podczas przygody, powinny być wyraźnie odróżnione od tych, które ,,zostały w domu'';
+- Nie ma obowiązku zabierania na przygodę wszystkich przedmiotów (w tym pieniędzy) posiadanych przez postać (np. ze względu na limit obciążenia wynikający z zasad DnD). Niemniej, przedmioty, które są w posiadaniu postaci podczas przygody, powinny być wyraźnie odróżnione od tych, które "zostały w domu';
 
 - Każda postać może wziąć na przygodę tylko tyle zwojów z zaklęciami (spell scrolls), że suma kręgów zaklęć na tych zwojach nie przekracza iloczynu szczebla (tieru) przygody i czasu trwania przygody zadeklarowanego w ACP przez Mistrza Gry (czyli np. na przygodę T2, którą DM planuje na 4ACP, można wziąć zwoje, na których suma kręgów (levels) zaklęć wynosi co najwyżej 2\*4=8 – np. jeden zwój z zaklęciem piątego kręgu (level 5th) i jeden z zaklęciem trzeciego kręgu (level 3rd), albo 2 zwoje z zaklęciami drugiego kręgu (level 2nd) i 4 z zaklęciami pierwszego kręgu (level 1st);
 
