@@ -8,7 +8,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
 # Spis treści
 
-[I. ZASADY PODSTAWOWE](#zasady-podstawowe)
+[I. Zasady podstawowe](#zasady-podstawowe)
 
  [1. Tworzenie postaci](#tworzenie-postaci)
 
@@ -52,7 +52,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [4.5. Przekuwanie magicznej amunicji](#przekuwanie-amunicji)
 
-[II. TABELE POMOCNICZE](#tabele-pomocnicze)
+[II. Tabele pomocnicze](#tabele-pomocnicze)
 
  [1. Tabela zależności poziomu postaci od sumy zdobytych ACP](#tabela-poziom-acp)
 
@@ -62,15 +62,15 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
  [4. Zwoje](#tabela-zwoje)
 
- [5. Lombard ,,Smocza Jama'', czyli lista magicznych przedmiotów na wymianę](#tabela-lombard)
+ [5. Lista magicznych przedmiotów na wymianę](#tabela-lombard)
 
  [6. Lista możliwych do przekucia broni](#tabela-bronie)
 
-[III. ZASADY ZAAWANSOWANE](#zaawansowane)
+[III. Zasady zaawansowane](#zaawansowane)
 
 [Wstęp. Tworzenie zasad](#zaawansowane-wstep)
 
- [1. Zasady zaawansowane: tworzenie postaci](#zaawansowane-tworzenie-postaci)
+ [1. Tworzenie postaci](#zaawansowane-tworzenie-postaci)
 
   [1.1. Wybór podręczników źródłowych](#zaawansowane-zrodla)
 
@@ -78,7 +78,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [1.3. Flavor is free, ale…](#zaawansowane-flavor-ograniczenie)
 
- [2. Zasady zaawansowane: organizacja sesji](#zaawansowane-organizacja-sesji)
+ [2. Organizacja sesji](#zaawansowane-organizacja-sesji)
 
   [2.1. Jakie przygody są rozgrywane w ramach OPK?](#zaawansowane-jakie-przygody)
  
@@ -94,7 +94,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [2.7. Aktywności czasu wolnego podczas przygód](#zaawansowane-aktywnosci)
 
- [3. Zasady zaawansowane: nagrody za przygody](#zaawansowane-nagrody)
+ [3. Nagrody za przygody](#zaawansowane-nagrody)
 
   [3.1. Przydzielanie ACP, DT i złota](#zaawansowane-acp-dt-zloto)
 
@@ -104,9 +104,9 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
   [3.4. Podmiany i dopisywanie przedmiotów do przygód](#zaawansowane-podmiany-przedmiotow)
 
- [4. Zasady zaawansowane: śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc)
+ [4. Śmierć postaci, odzyskiwanie ciał i wskrzeszenia](#zaawansowane-smierc)
 
- [5. Zasady zaawansowane: rozwój postaci pomiędzy przygodami](#zaawansowane-miedzy-przygodami)
+ [5. Rozwój postaci pomiędzy przygodami](#zaawansowane-miedzy-przygodami)
 
  [6. Mistrzowie Gry (DM)](#zaawansowane-mg)
 
@@ -118,7 +118,7 @@ Po wyjaśnienie wszelkich wątpliwości związanych z tym zasadami zapraszamy na
 
  [8. Changelog](#zaawansowane-changelog)
 
-### I. ZASADY PODSTAWOWE<a name="zasady-podstawowe"></a>
+### I. Zasady podstawowe<a name="zasady-podstawowe"></a>
 
 Drugi sezon OPK rozpoczął się 1.08.2022.  Cokolwiek wydarzyło się przed tą datą, nie jest istotne na potrzeby sesji drugiego sezonu OPK (w szczególności nie istnieją, więc nie są dopuszczone do rozgrywki postacie, które uczestniczyły w sesjach OPK przed rozpoczęciem 2 sezonu).
 
@@ -141,13 +141,13 @@ Każda nowa postać w OPK tworzona jest na Poziomie 1 i na takim rozpoczyna udzi
 - Volo's Guide to Monsters (VGtM)
 - Xanathar's Guide to Everything (XGtE)
 - Mordenkainen's Tome of Foes (MToF)
-- Tasha's Cauldron of Everything (TCoE) [bez Custom Lineage]
+- Tasha's Cauldron of Everything (TCoE) (bez Custom Lineage)
 - Van Richten's Guide to Ravenloft (VRGtR) (pochodzenia/lineages: Dhampir, Hexblood i Reborn można wybrać tylko jako samodzielne rasy, nie jako "nakładki" na inną rasę)
 - Wild Beyond the Witchlight (WBtW)
 - Fizban's Treasury of Dragons (FToD)
-- Mordenkainen Presents: Monsters of the Multiverse (MP:MoM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
+- Mordenkainen Presents: Monsters of the Multiverse (MP:MotM) (przy czym niedozwolony jest wybór ras: Changeling i Shifter)
 - Dodatkowo do wykorzystania: Locathah Rising, Tortle Package, One Grung Above
-- podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen.
+- podklasa Lunar Sorcerer z podręcznika Dragonlance: Shadow of the Dragon Queen (DL:SotDQ)
 
 Niektóre rasy pojawiają się na powyższej liście podręczników w kilku wersjach (np. występują w VGtM lub MToF i jednocześnie w MP:MoM): w takim wypadku gracz może wybrać dla swojej postaci dowolną wersję tej rasy.
 
@@ -394,7 +394,7 @@ Przekute, magiczne bronie, które można zniszczyć zadając im obrażenia (np. 
 
 Na zasadach analogicznych do przedstawionych w [Rozdziale 4.4.](#przekuwanie-broni) można przekuć magiczne strzały (arrows) na bełty (bolts) lub bełty (bolts) na strzały (arrows), zachowując te pozostałe magiczne własności tych pocisków (np. bolt +2 można zmienić na arrow +2, a Arrow of X Slaying na Bolt of X Slaying).
 
-### II. TABELE POMOCNICZE<a name="tabele-pomocnicze"></a>
+### II. Tabele pomocnicze<a name="tabele-pomocnicze"></a>
 
 ## 1. Tabela zależności poziomu postaci od sumy zdobytych ACP<a name="tabela-poziom-acp"></a>
 
@@ -459,7 +459,7 @@ Ceny zakupu/napisania pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podc
 | 8 | 20 000 gp+8DT | 10000 gp + 64DT | 15 |
 | 9 | 50 000 gp+9DT | 25000 gp + 81DT | 17 |
 
-## 5. Lombard ,,Smocza Jama'', czyli lista magicznych przedmiotów na wymianę<a name="tabela-lombard"></a>
+## 5. Lista magicznych przedmiotów na wymianę<a name="tabela-lombard"></a>
 
 Poniżej znajdują się magiczne przedmioty, które można uzyskać w drodze wymiany (opisanej w [Rozdziale 4.3 podstawowych zasad](#downtime)) wraz z cenami takiej wymiany.
 
@@ -485,7 +485,7 @@ Wszystkie bronie w tabeli podlegają ograniczeniom z [Rozdziału 4.4. Zasad Pods
 | Vicious Weapon | Brak uwag |
 | Weapon of Warning | Brak uwag |
 
-### III. ZASADY ZAAWANSOWANE<a name="zaawansowane"></a>
+### III. Zasady zaawansowane<a name="zaawansowane"></a>
 
 W tej części zasad znajdują się szczegółowe koncepcje, których znajomość nie jest niezbędna do uczestnictwa w rozgrywkach OPK. Tutaj rozstrzygamy rzadko spotykane lub mniej istotne w typowej rozgrywce kwestie, a także wyjaśniamy, skąd niektóre zasady się biorą. Tutaj również znaleźć można zasady, które są istotne z perspektywy Mistrza Gry – warto je przeczytać, jeśli chcesz znać powody podejmowania przez nich decyzji lub dołączyć do grona Mistrzów Gry.
 
@@ -495,17 +495,17 @@ Podstawowe zasady OPK bazują na regułach ogólnoświatowej organizacji zorgani
 
 Wszelkie zmiany w zasadach są proponowane przez Mistrzów Gry i przegłosowywane demokratycznie w ich gronie. Typowe głosowanie nad zaproponowaną zasadą lub modyfikacją trwa dwa tygodnie, przy czym może być zakończone jeśli po tygodniu jakaś opcja ma już poparcie bezwzględnej większości DM-ów. Do przyjęcia nowej zasady potrzebna jest większość głosów, więc głosowania z wieloma możliwymi odpowiedziami mogą być rozstrzygane drugą turą z udziałem dwóch najpopularniejszych opcji. Cenna jest dla nas jednak stabilność tych zasad (i możliwe podobieństwo do bazowych zasad DnD), więc jeśli nowy pomysł modyfikacji nie poprawia znacząco doświadczenia naszych graczy raczej go nie wprowadzamy.
 
-## 1. Zasady zaawansowane: tworzenie postaci<a name="zaawansowane-tworzenie-postaci"></a>
+## 1. Tworzenie postaci<a name="zaawansowane-tworzenie-postaci"></a>
 
-### 1.1. Wybór podręczników źródłowych<a name="zaawansowane-zro"></a>
+### 1.1. Wybór podręczników źródłowych<a name="zaawansowane-zrodla"></a>
 
 Często pada pytanie na temat wyboru źródeł tworzenia postaci. W wyniku głosowań powstały pewne wyjątki od reguły, ale zasadą, którą się zazwyczaj kierujemy jest dopuszczanie podręczników i opcji, które odnoszą się do świata Toril, a konkretnie Faerunu, a przynajmniej nie są z nimi wyraźnie sprzeczne. W końcu tam dzieje się zdecydowana większość naszych przygód. Dlatego istoty i koncepcje występujące np. w Eberronie czy Strixhaven raczej nie pasują do sesji OPK. Nie bez znaczenia jest też powszechna opinia, że podręczniki ,,setting specific'' są o wiele słabiej napisane i wykazują się mniejszą dbałością o spójność mechaniczną i fabularną niż podręczniki ,,ogólne'', które dopuszczamy do stosowania OPK.
 
-### 1.2. Postacie nietypowe<a name="zaawansowane-zrodla"></a>
+### 1.2. Postacie nietypowe<a name="zaawansowane-postacie-nietypowe"></a>
 
 Czasem można się natknąć w przygodach OPK na postacie, które naruszają jedną lub więcej z zasad podstawowych tworzenia postaci. Prawdopodobnie jest to postać Mistrza Gry, który poprowadził bardzo wiele sesji w OPK i w ten sposób zasłużył na stworzenie niestandardowej istoty. Niemniej, staramy się, by to były wyjątki, a nie reguły (i nie dawały postaciom Mistrza Gry przewag mechanicznych).
 
-### 1.3. Flavor is free, ale…<a name="zaawansowane-postacie-nietypowe"></a>
+### 1.3. Flavor is free, ale…<a name="zaawansowane-flavor-ograniczenie"></a>
 
 Czasem standardowe opisy ras, klas, zaklęć i przedmiotów nie wystarczają, by wyrazić szczególną koncepcję postaci, którą chcemy odgrywać. Dlatego dopuszczona jest zasada znana w szerokim świecie jako „Flavor is free" rozwijana też jako ,,Free of cost, free of consequence". Co to oznacza?
 
@@ -539,7 +539,7 @@ Przykłady niewłaściwego zastosowania zasady _Flavor is Free_:
 
 W razie wątpliwości, warto zawsze skonsultować swoje pomysły ,,dosmaczania'' postaci ze współgraczami i Mistrzem Gry tak, by znaleźć satysfakcjonujące wszystkich rozwiązanie.
 
-## 2. Zasady zaawansowane: organizacja sesji<a name="zaawansowane-organizacja-sesji"></a>
+## 2. Organizacja sesji<a name="zaawansowane-organizacja-sesji"></a>
 
 ### 2.1. Jakie przygody są rozgrywane w ramach OPK?<a name="zaawansowane-jakie-przygody"></a>
 
@@ -616,7 +616,7 @@ Minimalnym standardem jest, że przywołane zaklęciami familiary i wierzchowce,
 
 Jeśli przygoda przewiduje czas wolny (np. trzydniową podróż statkiem) to można w tym czasie wykorzystywać DT w zakresie dozwolonym przez Mistrza Gry, ale należy DT za te aktywności odliczyć z zasobów postaci na koniec przygody.
 
-## 3. Zasady zaawansowane: nagrody za przygody<a name="zaawansowane-nagrody"></a>
+## 3. Nagrody za przygody<a name="zaawansowane-nagrody"></a>
 
 ### 3.1. Przydzielanie ACP, DT i złota<a name="zaawansowane-acp-dt-zloto"></a>
 
@@ -687,7 +687,7 @@ Niektóre przygody CCC (czyli pisane przez autorów niezależnych) od pewego mom
 
 Jeżeli Przygoda o kodzie zaczynającym się od CCC nie zawiera jako nagrody magicznego permanentnego przedmiotu właściwego dla danego Szczebla (T1-uncommon, T2-rare, T3-very rare, T4-legendary), lub zawiera przedmiot nielegalny do użytku w OPK (lista tych przedmiotów znajduje się w Katalogu Przygód) DM może zastąpić nagrodę przewidzianą w przygodzie nagrodą o właściwej dla tego Szczbla rzadkości. DM powinien zadbać o tematyczny sens tej zamiany, może zaproponować odpowiedni przedmiot lub go wylosować, natomiast nie jest w żaden sposób ograniczony typem przedmiotu (chyba, że jest to niezbędne z przyczyn fabularnych). By podmiana mogła zostać dokonana, DM powinien przed poprowadzeniem sesji zgłosić taką potrzebę, uzyskać zgodę pozostałych DMów i postarać się o wpisanie tej zmiany do Katalogu Przygód, by ta zamiana obowiązywała DM-ów prowadzących tę przygodę w przyszłości.
 
-## 4. Zasady zaawansowane: śmierć postaci, odzyskiwanie ciał i wskrzeszenia<a name="zaawansowane-smierc"></a>
+## 4. Śmierć postaci, odzyskiwanie ciał i wskrzeszenia<a name="zaawansowane-smierc"></a>
 
 W celu zwiększenia przyjemości z gry, wprowadzona została opcja przywrócenia do życia postaci, nawet jeśli jej ciało nie zostało odzyskane z miejsca śmierci i dostarczone do odpowiedniego kapłana w trakcie sesji, podczas której postać zginęła.
 
@@ -695,7 +695,7 @@ Podczas następnej sesji, w ramach której rozgrywana jest ta sama przygoda, na 
 
 Przypominamy, że zasoby postaci martwej, w tym jej ekwipunek (z wyjątkiem elementów potrzebnych do wskrzeszenia), są niedostępne dopóki postać nie będzie żywa.
 
-## 5. Zasady zaawansowane: rozwój postaci pomiędzy przygodami<a name="zaawansowane-miedzy-przygodami"></a>
+## 5. Rozwój postaci pomiędzy przygodami<a name="zaawansowane-miedzy-przygodami"></a>
 
 Zostawiamy miejsce na zasady uzupełniające, jakkolwiek na razie wydaje się, że nie są potrzebne.
 
