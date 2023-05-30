@@ -387,15 +387,15 @@ Ceny zakupu/napisania pomiędzy przygodami lub (za zezwoleniem Mistrza Gry) podc
 | **Poziom**** zaklęcia **|** Zakup**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Crafting**(bez uwzględnienia ceny komponentu materialnego, jeśli taki ma cenę wyrażoną w złocie i za który również trzeba zapłacić) |**Minimalny poziom pozyskującej zwój postaci** |
 | --- | --- | --- | --- |
 | Cantrip | 25 gp | 12 gp + 1DT | 1 |
-| 1 | 50gp+1DT | 25 gp + 1DT | 1 |
-| 2 | 150 gp+2DT | 75 gp + 4DT | 3 |
-| 3 | 500gp+3DT | 250 gp + 9DT | 5 |
-| 4 | 1 500 gp+4DT | 750 gp + 16DT | 7 |
-| 5 | 3 000gp+5DT | 1500 gp + 25DT | 9 |
-| 6 | 6 000 gp+6DT | 3000 gp + 36DT | 11 |
-| 7 | 10 000 gp+7DT | 5000 gp + 49DT | 13 |
-| 8 | 20 000 gp+8DT | 10000 gp + 64DT | 15 |
-| 9 | 50 000 gp+9DT | 25000 gp + 81DT | 17 |
+| 1 | 50gp + 1DT | 25 gp + 1DT | 1 |
+| 2 | 150 gp + 2DT | 75 gp + 4DT | 3 |
+| 3 | 500gp + 3DT | 250 gp + 9DT | 5 |
+| 4 | 1 500 gp + 4DT | 750 gp + 16DT | 7 |
+| 5 | 3 000gp + 5DT | 1 500 gp + 25DT | 9 |
+| 6 | 6 000 gp + 6DT | 3 000 gp + 36DT | 11 |
+| 7 | 10 000 gp + 7DT | 5 000 gp + 49DT | 13 |
+| 8 | 20 000 gp + 8DT | 10 000 gp + 64DT | 15 |
+| 9 | 50 000 gp + 9DT | 25 000 gp + 81DT | 17 |
 
 ## 5. Lista magicznych przedmiotów na wymianę<a name="tabela-lombard"></a>
 
@@ -406,8 +406,8 @@ Przedmiot magiczny, który postać oddaje w wyniku tej wymiany musi być przedmi
 |                                                                                                                               | Koszt                                                                                            | Dodatkowe ograniczenia                |
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------|
 | Weapon +1<br />Bag of Holding<br />Decanter of Endless Water<br />Goggles of Night<br />Insignia of Claws<br />Ring of Swimming<br />Saddle of the Cavalier | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej uncommon +15 DT          |                                       |
-|     Weapon +2 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej rare +30 DT +2000 gp     |     Poziom postaci – co najmniej 5    |
-|     Weapon +3 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej very rare +45 DT +5000gp |     Poziom postaci – co najmniej 11   |
+|     Weapon +2 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej rare + 30 DT + 2000 gp     |     Poziom postaci – co najmniej 5    |
+|     Weapon +3 (dowolny)                                                                                                       | Permanentny, pełnowartościowy magiczny przedmiot rzadkości  co najmniej very rare + 45 DT + 5000gp |     Poziom postaci – co najmniej 11   |
 
 ## 6. Lista możliwych do przekucia broni<a name="tabela-bronie"></a>
 
