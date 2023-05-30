@@ -105,7 +105,7 @@ Zasady opcjonalne i warianty reguł generalnie nie są dopuszczane w rozgrywkach
 - Variant Human, Atuty (featy), wieloklasowość (multiclassing) (PHB)
 - Customizing Your Origin (ale nie Custom Lineage!), Optional Class Features (TCoE)
 
-Uwaga! Wszelkie wybory podjęte przy tworzeniu postaci nie są ostateczne. Do momentu rozegrania pierwszej przygody Szczebla co najmniej 2 (Tier 2), czyli na poziomie co najmniej 5, możliwa jest _przebudowa postaci_. Oznacza to, że bezpośrednio po dowolnej przygodzie Szczebla 1 bez ograniczeń można zmienić prawie wszystkie mechaniczne i fabularne aspekty postaci: imię, wygląd, wiek, charakter ale też rozdział atrybutów, wybór biegłości, wybraną rasę i klasy, zaklęcia i pochodzenie (backgound) – uwzględniając ewentualną zmianę ekwipunku startowego wynikającą ze zmiany klasy i pochodzenia. Nie podlegają natomiast zwrotowi ani nie znikają łupy zdobyte na przygodach i ekwipunek pozyskany pomiędzy nimi. Nie znikają też nagrody za rozegrane przez postać przygody, w szczególności zdobyte Nagrody Fabuły (Story Awards), chyba że warunek ich wykorzystania nie jest spełniany po przebudowie. Nie zmienia się też poziom postaci i wymaganie, by sposób jej stworzenia i awansowania na kolejne poziomy był zgodny z zasadami OPK i DnD. Zmiana powyższych aspektów automatycznie anuluje wszelkie trwające efekty związane z poprzednią wersją postaci, w tym efekty zaklęć, umiejętności klasy itd.
+Uwaga! Wszelkie wybory podjęte przy tworzeniu postaci nie są ostateczne. Do momentu rozegrania pierwszej przygody Szczebla co najmniej 2 (Tier 2), czyli na poziomie co najmniej 5, możliwa jest _przebudowa postaci_. Oznacza to, że bezpośrednio po dowolnej przygodzie Szczebla 1 bez ograniczeń można zmienić prawie wszystkie mechaniczne i fabularne aspekty postaci: imię, wygląd, wiek, charakter ale też rozdział atrybutów, wybór biegłości, wybraną rasę i klasy, zaklęcia i pochodzenie (background) – uwzględniając ewentualną zmianę ekwipunku startowego wynikającą ze zmiany klasy i pochodzenia. Nie podlegają natomiast zwrotowi ani nie znikają łupy zdobyte na przygodach i ekwipunek pozyskany pomiędzy nimi. Nie znikają też nagrody za rozegrane przez postać przygody, w szczególności zdobyte Nagrody Fabuły (Story Awards), chyba że warunek ich wykorzystania nie jest spełniany po przebudowie. Nie zmienia się też poziom postaci i wymaganie, by sposób jej stworzenia i awansowania na kolejne poziomy był zgodny z zasadami OPK i DnD. Zmiana powyższych aspektów automatycznie anuluje wszelkie trwające efekty związane z poprzednią wersją postaci, w tym efekty zaklęć, umiejętności klasy itd.
 
 ### 1.2 Atrybuty i HP<a name="atrybuty"></a>
 
@@ -260,11 +260,11 @@ Karta postępów ma być przede wszystkim pomocą dla gracza. Jednak warto pami�
 ### 4.2. Zakupy i sprzedaż ekwipunku, korzystanie z płatnych usług<a name="uslugi"></a>
 
 Pomiędzy przygodami gracze mogą za posiadane złoto, bez poświęcania czasu wolnego:
- - kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych) oraz mikstury i zwoje z tabel 3 i 4 w części II Zasad.
+- kupować przedmioty z rozdziału Ekwipunek Podręcznika Gracza (po cenach tam podanych), komponenty do zaklęć (po cenach podanych przy zaklęciach) oraz [mikstury i zwoje z tabel 3 i 4 w części II Zasad.](#tabela-mikstury)
 
 - korzystać z usługi pokrywania niemagicznej broni lub amunicji srebrem (100gp za broń albo 10 sztuk amunicji) lub adamantytem (500gp za broń albo 10 sztuk amunicji). Broń może być pokryta obydwoma materiałami.
 
-- korzystać z usług rzucania zaklęć (zgodnie z tabelą 2 w części II Zasad). Uwaga! Pomiędzy przygodami nie można rzucać zaklęć samodzielnie. DM może zezwolić na rzucenie zaklęć przed przygodą po uwzględnieniu kosztu w DT i innych zasobach.
+- korzystać z usług rzucania zaklęć ([zgodnie z tabelą 2 w części II Zasad](#tabela-spellcasting)). Uwaga! Pomiędzy przygodami nie można rzucać zaklęć samodzielnie. DM może zezwolić na rzucenie zaklęć przed przygodą po uwzględnieniu kosztu w DT i innych zasobach.
 
 Dodatkowo, posiadane przedmioty z rozdziału Ekwipunek Podręcznika Gracza można sprzedawać za połowę ceny kupna. Nie można sprzedawać przedmiotów magicznych, również jednorazowych.
 
